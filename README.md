@@ -1,5 +1,4 @@
 # Awesome Mechanical Keyboard [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-================================
 
 ## Keyboards
 
@@ -13,7 +12,6 @@
 - [Dactyl-ManuForm](https://github.com/tshort/dactyl-keyboard) PCB, Case (split, thumb keys, 4x5, 5x6, 40%, 60%, 3d print)
 - [Dactyl](https://github.com/adereth/dactyl-keyboard) PCB, Case (split, thumb keys, 5x6, 60%, 3d print)
 
----
 
 ## Firmware
 - [TMK](https://github.com/tmk/tmk_keyboard)
