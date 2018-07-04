@@ -10,8 +10,8 @@
 | [MiniDox pcb](https://github.com/That-Canadian/MiniDox_pcb) | pcb | split, 3x6, vertically staggered, thumb keys | <img src="https://camo.githubusercontent.com/d8925d5e754c3a8998db4ad9874c1d8b093901f2/687474703a2f2f692e696d6775722e636f6d2f69576233794f302e6a7067" width="200px"/> |
 | [Redox-Case](https://github.com/Lenbok/scad-redox-case) | case | split, thumb keys, opensCad, 3d print | <img src="https://github.com/Lenbok/scad-redox-case/raw/master/images/redox-exploded.png" width="200px"/> |
 | [Redox](https://github.com/mattdibi/redox-keyboard) | case | split, thumb keys, opensCad, 3d print | <img src="https://cdn.thingiverse.com/renders/62/c5/d6/91/6f/f23021b44a5e59a6838fc8b440fb8b56_preview_featured.jpg" width="200px"/> |
-| [XMMX TKL](https://geekhack.org/index.php?topic=93422.0) | pcb |  | <img src="https://i.imgur.com/otn8LT3.jpg"/> |
-| []() |  |  | ![]() |
+| [XMMX TKL](https://geekhack.org/index.php?topic=93422.0) | pcb |  | <img src="https://i.imgur.com/otn8LT3.jpg" width="200px"/> |
+| []() |  |  |  |
 
 ### Ortholinear
 |  Name | Available Fieles | Tags | Image |
@@ -21,7 +21,7 @@
 | [ErgoDox-Case](https://github.com/CharlesLenk/ErgoDox-Case) | case | split, thumb keys, 5x7 | |
 | [Gherkin](https://github.com/math0ne/keyboard-gherkin) | pcb | 30%, 3x10 | |
 | [Helix](https://github.com/MakotoKurauchi/helix) | pcb, case | split, oled | <img src="https://camo.githubusercontent.com/348c95ff3baea20626e282b1a719eea49d0897b9/68747470733a2f2f692e696d6775722e636f6d2f5842416d796e4e2e6a7067" width="200px"/> |
-| []() |  |  | ![]() |
+| []() |  |  |  |
 
 ## Firmware
 - [QMK](https://github.com/qmk/qmk_firmware)
