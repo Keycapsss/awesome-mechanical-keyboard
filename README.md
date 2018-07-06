@@ -23,6 +23,9 @@
 | [Helix](https://github.com/MakotoKurauchi/helix) | pcb, case | split, oled | <img src="https://camo.githubusercontent.com/348c95ff3baea20626e282b1a719eea49d0897b9/68747470733a2f2f692e696d6775722e636f6d2f5842416d796e4e2e6a7067" width="200px"/> |
 | []() |  |  |  |
 
+## Tools
+- [keyboard-layout-editor](http://www.keyboard-layout-editor.com/) is a web application that enables the editing of keyboard-layouts, i.e., the position and appearance of each physical key. [GitHub Site](https://github.com/ijprest/keyboard-layout-editor)
+
 ## Firmware
 - [QMK](https://github.com/qmk/qmk_firmware)
 - [TMK](https://github.com/tmk/tmk_keyboard)
