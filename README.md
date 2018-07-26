@@ -19,7 +19,7 @@
 ### Ortholinear
 |  Name | Available Files | Tags | Image |
 | --- | --- | --- | --- |
-| [Chimera Ortho](https://github.com/GlenPickle/Chimera) | pcb | split, wireless | <img src="https://imgur.com/WqYzK5J" width="200px"> |
+| [Chimera Ortho](https://github.com/GlenPickle/Chimera) | pcb | split, wireless | <img src="https://i.imgur.com/WqYzK5J.jpg" width="200px"> |
 | [Dactyl](https://github.com/adereth/dactyl-keyboard) | pcb, case | split, thumb keys, 5x6, 60%, 3d print | <img src="https://raw.githubusercontent.com/adereth/dactyl-cave/master/resources/glamourshot.png" width="200px"/> |
 | [Dactyl-ManuForm](https://github.com/tshort/dactyl-keyboard) | pcb, case | split, thumb keys, 4x5, 5x6, 40%, 60%, 3d print | <img src="https://camo.githubusercontent.com/a8dc88b0a973913a28a2373a7f3a9a3031af2672/687474703a2f2f692e696d6775722e636f6d2f4c646a456872522e6a7067" width="200px"/> |
 | [ErgoDox official](https://github.com/Ergodox-io) | pcb, acryl case, 3d printable case | split, thumb keys, 5x7, 3d print | <img src="https://github.com/Ergodox-io/ergodox-io/blob/master/src/img/ErgoDox-original-min.png" width="200px"> |
