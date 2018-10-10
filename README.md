@@ -1,7 +1,7 @@
 # Awesome Mechanical Keyboard [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Keyboards
-|  Name | Available Fieles | Tags | Image |
+|  Name | Available Files | Tags | Image |
 | --- | --- | --- | --- |
 | [Atreus](https://github.com/technomancy/atreus) | pcb, case | 40% | <img src="https://github.com/technomancy/atreus/raw/master/atreus.jpg" width="200px"/> |
 | [crkbd](https://github.com/foostan/crkbd) | pcb, case | split, oled, 3x6, vertically staggered, thumb keys | <img src="https://user-images.githubusercontent.com/736191/40575636-6fba63a4-6123-11e8-9ca0-3f990f1f9f4c.jpg" width="200px"/> |
@@ -15,7 +15,7 @@
 | []() |  |  |  |
 
 ### Ortholinear
-|  Name | Available Fieles | Tags | Image |
+|  Name | Available Files | Tags | Image |
 | --- | --- | --- | --- |
 | [Dactyl](https://github.com/adereth/dactyl-keyboard) | pcb, case | split, thumb keys, 5x6, 60%, 3d print | <img src="https://raw.githubusercontent.com/adereth/dactyl-cave/master/resources/glamourshot.png" width="200px"/> |
 | [Dactyl-ManuForm](https://github.com/tshort/dactyl-keyboard) | pcb, case | split, thumb keys, 4x5, 5x6, 40%, 60%, 3d print | <img src="https://camo.githubusercontent.com/a8dc88b0a973913a28a2373a7f3a9a3031af2672/687474703a2f2f692e696d6775722e636f6d2f4c646a456872522e6a7067" width="200px"/> |
