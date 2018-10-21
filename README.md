@@ -7,6 +7,7 @@
 | [Chimera Ergo/Ergo Mini/Ergo 42](https://github.com/GlenPickle/Chimera) | pcb | split, wireless, vertically staggered | <img src="https://i.imgur.com/AA6ycMQ.jpg" width="200px"> <img src="https://i.imgur.com/LAny3ue.jpg" width="200px"> <img src="https://i.imgur.com/wfTsIKV.jpg" width="200px"> |
 | [crkbd](https://github.com/foostan/crkbd) | pcb, case | split, oled, 3x6, vertically staggered, thumb keys | <img src="https://user-images.githubusercontent.com/736191/40575636-6fba63a4-6123-11e8-9ca0-3f990f1f9f4c.jpg" width="200px"/> |
 | [ErgoTravel](https://github.com/jpconstantineau/ErgoTravel) | pcb, case | split, vertically staggerd, thumb keys | <img src="https://i.imgur.com/DY0FxcM.jpg" width="200px"/> |
+| [Gameboy Keyboard case](https://www.thingiverse.com/thing:3007828) | case, pcb | 3d print, pcb | <img src="https://cdn.thingiverse.com/renders/4c/5f/a1/08/09/5d5fe686b8dbcc86c38133f7487ddcf5_preview_featured.JPG" width="200px"> |
 | [HacKeyboard](https://github.com/masaleiro/HacKeyboard) | pcb, case |  | <img src="https://cdn.instructables.com/F9P/KCPI/IGV4DBXA/F9PKCPIIGV4DBXA.LARGE.jpg" width="200px"/> |
 | [Minidox case](https://github.com/dotdash32/cases/tree/master/Minidox) | case | split, 3x6, vertically staggered, thumb keys | <img src="https://camo.githubusercontent.com/b345769866acbd0ad76c22250941aa4ab23667e5/68747470733a2f2f692e696d6775722e636f6d2f686d6e6b56646e2e6a7067" width="200px"/> |
 | [MiniDox pcb](https://github.com/That-Canadian/MiniDox_pcb) | pcb | split, 3x6, vertically staggered, thumb keys | <img src="https://camo.githubusercontent.com/d8925d5e754c3a8998db4ad9874c1d8b093901f2/687474703a2f2f692e696d6775722e636f6d2f69576233794f302e6a7067" width="200px"/> |
@@ -22,6 +23,7 @@
 | [Chimera Ortho](https://github.com/GlenPickle/Chimera) | pcb | split, wireless | <img src="https://i.imgur.com/WqYzK5J.jpg" width="200px"> |
 | [Dactyl](https://github.com/adereth/dactyl-keyboard) | pcb, case | split, thumb keys, 5x6, 60%, 3d print | <img src="https://raw.githubusercontent.com/adereth/dactyl-cave/master/resources/glamourshot.png" width="200px"/> |
 | [Dactyl-ManuForm](https://github.com/tshort/dactyl-keyboard) | pcb, case | split, thumb keys, 4x5, 5x6, 40%, 60%, 3d print | <img src="https://camo.githubusercontent.com/a8dc88b0a973913a28a2373a7f3a9a3031af2672/687474703a2f2f692e696d6775722e636f6d2f4c646a456872522e6a7067" width="200px"/> |
+| [DIY Low-Profile Ortholinear](https://www.reddit.com/r/MechanicalKeyboards/comments/8sy17h/diy_low_profile_ortho/) ([PCB File](https://easyeda.com/7zark7/Kailh-Ortholinear)) | pcb | 14x6, low profile, teensy | <img src="https://i.imgur.com/cfNpqEE.jpg" width="200px"> |
 | [ErgoDox official](https://github.com/Ergodox-io) | pcb, acryl case, 3d printable case | split, thumb keys, 5x7, 3d print | <img src="https://github.com/Ergodox-io/ergodox-io/blob/master/src/img/ErgoDox-original-min.png" width="200px"> |
 | [Ergo42](https://github.com/Biacco42/Ergo42) | pcb, case | split, 7x4 | <img src="https://raw.githubusercontent.com/Biacco42/Ergo42/readme/readme_image/ergo42_image.jpg" width="200px"> |
 | [ErgoDox-Case](https://github.com/CharlesLenk/ErgoDox-Case) | case | split, thumb keys, 5x7 | |
@@ -31,6 +33,7 @@
 | [Mitosis](https://github.com/reversebias/mitosis-hardware) | pcb, case | split, wireless | <img src="https://i.imgur.com/gApMkzz.jpg" width="200px"> |
 | [OLKB (Planck, Preonic & Atomic)](https://github.com/olkb/olkb_parts) | case | 3d print, plate |  |
 | [Science](https://github.com/peej/for-science-keyboard) | pcb | split, arduino, 5x5| <img src="https://camo.githubusercontent.com/fecf6f7bca9ec8b93e4031caa1ca3442cfb5a5f1/68747470733a2f2f692e696d6775722e636f6d2f666a6e546b42312e6a7067" width="200px"> |
+| [Split Infinitive](https://github.com/peej/for-split-keyboard/blob/master/README.md) | pcb | split, 6x5, pro micro | <img src="https://github.com/peej/for-split-keyboard/raw/master/pcb.png" width="200px"> |
 | []() |  |  |  |
 
 ## Tools
@@ -46,6 +49,7 @@
 - [TMK](https://github.com/tmk/tmk_keyboard)
 
 ## Tutorials
+- [Hand wiring a let's split](https://johannes-jansson.github.io/projects/2018/07/23/hand-wiring-lets-split.html) (pro micro)
 - [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide/blob/master/README.md)
 
 ## Miscellaneous
