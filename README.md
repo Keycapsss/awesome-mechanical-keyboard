@@ -61,9 +61,9 @@
 ## Tutorials
 - [Hand wiring a let's split](https://johannes-jansson.github.io/projects/2018/07/23/hand-wiring-lets-split.html) (pro micro)
 - [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide/blob/master/README.md)
+- [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0)
 
 ## Miscellaneous
-- [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0)
 - [Keyswitch Datasheets](https://github.com/keyboardio/keyswitch_documentation)
 - [List of split keyboards](https://docs.google.com/spreadsheets/d/19-rTWbp8SCKdZFByPZu3RT8NSF8vVddDe8WL6R6b1qQ/edit?usp=sharing)
 
