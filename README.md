@@ -1,5 +1,15 @@
 # Awesome Mechanical Keyboard [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+## Table of Contents
+
+- [Keyboards](#Keyboards)
+- [Ortholinear-Keyboards](#Ortholinear-Keyboards)
+- [Tools](#Tools)
+- [Firmware](#Firmware)
+- [Tutorials](#Tutorials)
+- [Miscellaneous](#Miscellaneous)
+
+
 ## Keyboards
 |  Name | Available Files | Tags | Image |
 | --- | --- | --- | --- |
@@ -17,7 +27,7 @@
 | [XMMX TKL](https://geekhack.org/index.php?topic=93422.0) | pcb |  | <img src="https://i.imgur.com/otn8LT3.jpg" width="200px"/> |
 | []() |  |  |  |
 
-### Ortholinear
+## Ortholinear-Keyboards
 |  Name | Available Files | Tags | Image |
 | --- | --- | --- | --- |
 | [Chimera Ortho](https://github.com/GlenPickle/Chimera) | pcb | split, wireless | <img src="https://i.imgur.com/WqYzK5J.jpg" width="200px"> |
@@ -53,6 +63,7 @@
 - [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide/blob/master/README.md)
 
 ## Miscellaneous
+- [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0)
 - [Keyswitch Datasheets](https://github.com/keyboardio/keyswitch_documentation)
 - [List of split keyboards](https://docs.google.com/spreadsheets/d/19-rTWbp8SCKdZFByPZu3RT8NSF8vVddDe8WL6R6b1qQ/edit?usp=sharing)
 
