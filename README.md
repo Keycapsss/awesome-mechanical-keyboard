@@ -59,6 +59,7 @@
 - [TMK](https://github.com/tmk/tmk_keyboard)
 
 ## Tutorials
+- [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0)
 - [Hand wiring a let's split](https://johannes-jansson.github.io/projects/2018/07/23/hand-wiring-lets-split.html) (pro micro)
 - [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide/blob/master/README.md)
 - [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0)
