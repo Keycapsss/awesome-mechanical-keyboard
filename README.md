@@ -14,6 +14,7 @@
 |  Name | Available Files | Tags | Image |
 | --- | --- | --- | --- |
 | [Atreus](https://github.com/technomancy/atreus) | pcb, case | 40% | <img src="https://github.com/technomancy/atreus/raw/master/atreus.jpg" width="200px"/> |
+| [Atreus62](https://github.com/profet23/atreus62) | pcb, case | 60% | <img src="https://raw.githubusercontent.com/profet23/atreus62/master/images/nantucket-atreus62.jpg" width="200px"/> |
 | [Chimera Ergo/Ergo Mini/Ergo 42](https://github.com/GlenPickle/Chimera) | pcb | split, wireless, vertically staggered | <img src="https://i.imgur.com/AA6ycMQ.jpg" width="200px"> <img src="https://i.imgur.com/LAny3ue.jpg" width="200px"> <img src="https://i.imgur.com/wfTsIKV.jpg" width="200px"> |
 | [crkbd](https://github.com/foostan/crkbd) | pcb, case | split, oled, 6x3, vertically staggered, thumb keys | <img src="https://user-images.githubusercontent.com/736191/40575636-6fba63a4-6123-11e8-9ca0-3f990f1f9f4c.jpg" width="200px"/> |
 | [ErgoTravel](https://github.com/jpconstantineau/ErgoTravel) | pcb, case | split, vertically staggerd, thumb keys | <img src="https://i.imgur.com/DY0FxcM.jpg" width="200px"/> |
