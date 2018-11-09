@@ -39,7 +39,9 @@
 | [ErgoDox-Case](https://github.com/CharlesLenk/ErgoDox-Case) | case | split, thumb keys, 5x7 | |
 | [Gherkin](https://github.com/math0ne/keyboard-gherkin) | pcb | 30%, 3x10 | |
 | [Helix](https://github.com/MakotoKurauchi/helix) | pcb, case | split, oled | <img src="https://camo.githubusercontent.com/348c95ff3baea20626e282b1a719eea49d0897b9/68747470733a2f2f692e696d6775722e636f6d2f5842416d796e4e2e6a7067" width="200px"/> |
+| [Lily58](https://github.com/kata0510/Lily58) | pcb, case | split, oled,  6×4 | <img src="https://user-images.githubusercontent.com/6285554/47264498-53384a80-d553-11e8-907a-a03c6f2c5893.JPG" width="200px"> |
 | [Let's Split](https://github.com/climbalima/let-s-Split-v2) | pcb, [case](https://qmk.fm/keyboards/lets_split/) | split | <img src="https://camo.githubusercontent.com/dfbf83ee712079b862fccb951aefbb508b8a631d/687474703a2f2f692e696d6775722e636f6d2f797551754e4a552e6a7067" width="200px"> |
+| [Minisplit](https://github.com/kata0510/minisplit) | pcb, case | split, 6×4 | <img src="https://camo.githubusercontent.com/74766a3dbaf2b8a9ab8dae5c6cf656a7a0b9a9ac/68747470733a2f2f692e696d6775722e636f6d2f7a7767417251562e706e67" width="200px"> |
 | [Mitosis](https://github.com/reversebias/mitosis-hardware) | pcb, case | split, wireless | <img src="https://i.imgur.com/gApMkzz.jpg" width="200px"> |
 | [OLKB (Planck, Preonic & Atomic)](https://github.com/olkb/olkb_parts) | case | 3d print, plate |  |
 | [Science](https://github.com/peej/for-science-keyboard) | pcb | split, arduino, 5x5| <img src="https://camo.githubusercontent.com/fecf6f7bca9ec8b93e4031caa1ca3442cfb5a5f1/68747470733a2f2f692e696d6775722e636f6d2f666a6e546b42312e6a7067" width="200px"> |
