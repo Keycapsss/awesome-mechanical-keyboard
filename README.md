@@ -76,6 +76,7 @@
 ## Firmware
 - [QMK](https://github.com/qmk/qmk_firmware)
 - [TMK](https://github.com/tmk/tmk_keyboard)
+- [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope)
 
 ## Tutorials
 - [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0)
