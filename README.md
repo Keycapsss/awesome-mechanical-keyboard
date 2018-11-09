@@ -34,6 +34,7 @@
 | --- | --- | --- | --- |
 | [Alpha](https://github.com/PyrooL/Alpha) | pcb, case | <30% | <img src="https://i.imgur.com/alNWnhZ.jpg" width="200px"> |
 | [Chimera Ortho](https://github.com/GlenPickle/Chimera) | pcb | split, wireless | <img src="https://i.imgur.com/WqYzK5J.jpg" width="200px"> |
+| [Contra](https://github.com/ai03-2725/Contra) | pcb | 12x4 | <img src="https://cartel.ltd/wp-content/uploads/bfi_thumb/contra_p02_02-nktu82ndud49t3w6hk7enn5y4vcjr4ouv2513udte4.jpg" width="200px" /> |
 | [Dactyl](https://github.com/adereth/dactyl-keyboard) | pcb, case | split, thumb keys, 6x5, 60%, 3d print | <img src="https://raw.githubusercontent.com/adereth/dactyl-cave/master/resources/glamourshot.png" width="200px"/> |
 | [Dactyl-ManuForm](https://github.com/tshort/dactyl-keyboard) | pcb, case | split, thumb keys, 5x4, 6x5, 40%, 60%, 3d print | <img src="https://camo.githubusercontent.com/a8dc88b0a973913a28a2373a7f3a9a3031af2672/687474703a2f2f692e696d6775722e636f6d2f4c646a456872522e6a7067" width="200px"/> |
 | [DIY Low-Profile Ortholinear](https://www.reddit.com/r/MechanicalKeyboards/comments/8sy17h/diy_low_profile_ortho/) ([PCB File](https://easyeda.com/7zark7/Kailh-Ortholinear)) | pcb | 14x6, low profile, teensy | <img src="https://i.imgur.com/cfNpqEE.jpg" width="200px" /> |
