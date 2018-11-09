@@ -4,7 +4,7 @@
 
 - [Keyboards](#Keyboards)
 - [Ortholinear-Keyboards](#Ortholinear-Keyboards)
-- [Numpad/Macropad](#Numpad/Macropad)
+- [Numpad/Macropad](#numpadmacropad)
 - [Tools](#Tools)
 - [Firmware](#Firmware)
 - [Tutorials](#Tutorials)
