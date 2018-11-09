@@ -54,6 +54,7 @@
 | []() |  |  |  |
 
 ## Tools
+- [ai03 Plate Generator](https://kbplate.ai03.me) An advanced plate generator which doesn't result in 13.99999mm cutouts. [Github Repo](https://github.com/ai03-2725/another-keyboard-builder)
 - [Keyboard Firmware Builder](https://kbfirmware.com) online QMK Firmware Builder (2+ years behind QMK firmware master)
 - [keyboard-layout-editor](http://www.keyboard-layout-editor.com/) is a web application that enables the editing of keyboard-layouts, i.e., the position and appearance of each physical key. [GitHub Site](https://github.com/ijprest/keyboard-layout-editor)
 - [Plate & Case Builder](http://builder.swillkb.com) keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts
