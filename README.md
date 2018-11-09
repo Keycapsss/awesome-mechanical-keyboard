@@ -48,7 +48,7 @@
 | [OLKB (Planck, Preonic & Atomic)](https://github.com/olkb/olkb_parts) | case | 3d print, plate |  |
 | [Science](https://github.com/peej/for-science-keyboard) | pcb | split, arduino, 5x5| <img src="https://camo.githubusercontent.com/fecf6f7bca9ec8b93e4031caa1ca3442cfb5a5f1/68747470733a2f2f692e696d6775722e636f6d2f666a6e546b42312e6a7067" width="200px"> |
 | [Split Infinitive](https://github.com/peej/for-split-keyboard/blob/master/README.md) | pcb | split, 6x5, pro micro | <img src="https://github.com/peej/for-split-keyboard/raw/master/pcb.png" width="200px"> |
-| [Zen (RGBKB)](https://github.com/RGBKB/Keyboard-files/tree/master/Zen) | pcb, plate | split, ergo, ortho, thumb keys, RGB LEDs | <img src="https://cdn.shopify.com/s/files/1/0008/8827/5005/products/hvXxV1L_600x.jpg?v=1533214456" width="200px"> |
+| [Zen (RGBKB)](https://github.com/RGBKB/Keyboard-files/tree/master/Zen) | pcb, case | split, ergo, ortho, thumb keys, rgb led | <img src="https://cdn.shopify.com/s/files/1/0008/8827/5005/products/hvXxV1L_600x.jpg" width="200px" /> |
 | []() |  |  |  |
 
 ## Tools
