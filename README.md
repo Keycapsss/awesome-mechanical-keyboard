@@ -50,10 +50,10 @@
 | []() |  |  |  |
 
 ## Tools
-- [Keyboard Firmware Builder](https://kbfirmware.com) online QMK Firmware Builder
+- [Keyboard Firmware Builder](https://kbfirmware.com) online QMK Firmware Builder (2+ years behind QMK firmware master)
 - [keyboard-layout-editor](http://www.keyboard-layout-editor.com/) is a web application that enables the editing of keyboard-layouts, i.e., the position and appearance of each physical key. [GitHub Site](https://github.com/ijprest/keyboard-layout-editor)
 - [Plate & Case Builder](http://builder.swillkb.com) keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts
-- [QMK Configurator](https://config.qmk.fm/) an open source configurator for QMK Firmware (only the AVR boards right now)
+- [QMK Configurator](https://config.qmk.fm/) an open source configurator for QMK Firmware
 - [TMK Firmware Builder](http://kb.sized.io) online TMK Firmware Builder
 - [Kalerator](https://kalerator.clueboard.co) pcb generator for keyboard-layout-editor generated layouts. [GitHub Site](https://github.com/skullydazed/kalerator), [Eagle Parts Library](https://github.com/skullydazed/clueboard_eagle)
 
