@@ -13,6 +13,7 @@
 ## Keyboards
 |  Name | Available Files | Tags | Image |
 | --- | --- | --- | --- |
+| [Alpha](https://github.com/PyrooL/Alpha) | pcb, case | <30% | <img src="https://i.imgur.com/alNWnhZ.jpg" width="200px"> |
 | [Atreus](https://github.com/technomancy/atreus) | pcb, case | 40% | <img src="https://github.com/technomancy/atreus/raw/master/atreus.jpg" width="200px"/> |
 | [Atreus62](https://github.com/profet23/atreus62) | pcb, case | 60% | <img src="https://raw.githubusercontent.com/profet23/atreus62/master/images/nantucket-atreus62.jpg" width="200px"/> |
 | [Chimera Ergo/Ergo Mini/Ergo 42](https://github.com/GlenPickle/Chimera) | pcb | split, wireless, vertically staggered | <img src="https://i.imgur.com/AA6ycMQ.jpg" width="200px"> <img src="https://i.imgur.com/LAny3ue.jpg" width="200px"> <img src="https://i.imgur.com/wfTsIKV.jpg" width="200px" /> |
@@ -34,7 +35,6 @@
 ## Ortholinear-Keyboards
 |  Name | Available Files | Tags | Image |
 | --- | --- | --- | --- |
-| [Alpha](https://github.com/PyrooL/Alpha) | pcb, case | <30% | <img src="https://i.imgur.com/alNWnhZ.jpg" width="200px"> |
 | [Chimera Ortho](https://github.com/GlenPickle/Chimera) | pcb | split, wireless | <img src="https://i.imgur.com/WqYzK5J.jpg" width="200px"> |
 | [Contra](https://github.com/ai03-2725/Contra) | pcb | 12x4 | <img src="https://cartel.ltd/wp-content/uploads/bfi_thumb/contra_p02_02-nktu82ndud49t3w6hk7enn5y4vcjr4ouv2513udte4.jpg" width="200px" /> |
 | [Dactyl](https://github.com/adereth/dactyl-keyboard) | pcb, case | split, thumb keys, 6x5, 60%, 3d print | <img src="https://raw.githubusercontent.com/adereth/dactyl-cave/master/resources/glamourshot.png" width="200px"/> |
