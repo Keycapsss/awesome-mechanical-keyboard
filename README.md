@@ -22,6 +22,7 @@
 | [HacKeyboard](https://github.com/masaleiro/HacKeyboard) | pcb, case |  | <img src="https://cdn.instructables.com/F9P/KCPI/IGV4DBXA/F9PKCPIIGV4DBXA.LARGE.jpg" width="200px"/> |
 | [Minidox case](https://github.com/dotdash32/cases/tree/master/Minidox) | case | split, 6x3, vertically staggered, thumb keys | <img src="https://camo.githubusercontent.com/b345769866acbd0ad76c22250941aa4ab23667e5/68747470733a2f2f692e696d6775722e636f6d2f686d6e6b56646e2e6a7067" width="200px"/> |
 | [MiniDox pcb](https://github.com/That-Canadian/MiniDox_pcb) | pcb | split, 6x3, vertically staggered, thumb keys | <img src="https://camo.githubusercontent.com/d8925d5e754c3a8998db4ad9874c1d8b093901f2/687474703a2f2f692e696d6775722e636f6d2f69576233794f302e6a7067" width="200px"/> |
+| [Orbit](https://github.com/ai03-2725/Orbit) | pcb | split, 7x5, thumb keys, usb-c | <img src="https://raw.githubusercontent.com/ai03-2725/Orbit/master/Images/PCB-R1.5.jpg" width="200px"/> |
 | [Redox-Case](https://github.com/Lenbok/scad-redox-case) | case | split, thumb keys, opensCad, 3d print | <img src="https://github.com/Lenbok/scad-redox-case/raw/master/images/redox-exploded.png" width="200px"/> |
 | [Redox](https://github.com/mattdibi/redox-keyboard) | case | split, thumb keys, opensCad, 3d print | <img src="https://cdn.thingiverse.com/renders/62/c5/d6/91/6f/f23021b44a5e59a6838fc8b440fb8b56_preview_featured.jpg" width="200px"/> |
 | [SB-147](https://github.com/sealclubber/SB-147) | case | 3d print, handwiring | <img src="https://i.imgur.com/VWGHzfU.jpg" width="200px" /> |
