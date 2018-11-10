@@ -26,6 +26,7 @@
 | [Minidox case](https://github.com/dotdash32/cases/tree/master/Minidox) | case | split, 6x3, vertically staggered, thumb keys | <img src="https://camo.githubusercontent.com/b345769866acbd0ad76c22250941aa4ab23667e5/68747470733a2f2f692e696d6775722e636f6d2f686d6e6b56646e2e6a7067" width="200px"/> |
 | [MiniDox pcb](https://github.com/That-Canadian/MiniDox_pcb) | pcb | split, 6x3, vertically staggered, thumb keys | <img src="https://camo.githubusercontent.com/d8925d5e754c3a8998db4ad9874c1d8b093901f2/687474703a2f2f692e696d6775722e636f6d2f69576233794f302e6a7067" width="200px"/> |
 | [Orbit](https://github.com/ai03-2725/Orbit) | pcb | split, 7x5, thumb keys, usb-c | <img src="https://raw.githubusercontent.com/ai03-2725/Orbit/master/Images/PCB-R1.5.jpg" width="200px"/> |
+| [PyErgo60](https://github.com/raycewest/pyergo60) | case | split, 3d printable, Python-generated, thumb keys | <img src="https://github.com/raycewest/pyergo60/raw/master/pictures/PyErgo60_3.jpg" width="200px"/> |
 | [Redox-Case](https://github.com/Lenbok/scad-redox-case) | case | split, thumb keys, opensCad, 3d print | <img src="https://github.com/Lenbok/scad-redox-case/raw/master/images/redox-exploded.png" width="200px"/> |
 | [Redox](https://github.com/mattdibi/redox-keyboard) | case | split, thumb keys, opensCad, 3d print | <img src="https://cdn.thingiverse.com/renders/62/c5/d6/91/6f/f23021b44a5e59a6838fc8b440fb8b56_preview_featured.jpg" width="200px"/> |
 | [SB-147](https://github.com/sealclubber/SB-147) | case | 3d print, handwiring | <img src="https://i.imgur.com/VWGHzfU.jpg" width="200px" /> |
@@ -69,6 +70,7 @@
 - [Keyboard Firmware Builder](https://kbfirmware.com) online QMK Firmware Builder (2+ years behind QMK firmware master)
 - [keyboard-layout-editor](http://www.keyboard-layout-editor.com/) is a web application that enables the editing of keyboard-layouts, i.e., the position and appearance of each physical key. [GitHub Site](https://github.com/ijprest/keyboard-layout-editor)
 - [Plate & Case Builder](http://builder.swillkb.com) keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts
+- [Pykeeb](https://github.com/raycewest/pykeeb) Python 3 modules that can parametrically produce OpenSCAD models, which can then be 3d-printed
 - [QMK Configurator](https://config.qmk.fm/) an open source configurator for QMK Firmware
 - [TMK Firmware Builder](http://kb.sized.io) online TMK Firmware Builder
 - [Kalerator](https://kalerator.clueboard.co) pcb generator for keyboard-layout-editor generated layouts. [GitHub Site](https://github.com/skullydazed/kalerator), [Eagle Parts Library](https://github.com/skullydazed/clueboard_eagle)
