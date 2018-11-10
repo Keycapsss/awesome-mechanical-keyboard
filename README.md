@@ -77,6 +77,8 @@
 - [QMK](https://github.com/qmk/qmk_firmware)
 - [TMK](https://github.com/tmk/tmk_keyboard)
 - [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope)
+- [Keyplus](https://github.com/ahtn/keyplus)
+- [BlueMicro_BLE](https://github.com/jpconstantineau/BlueMicro_BLE): A Bluetooth Firmware for the NRF52832
 
 ## Tutorials
 - [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0)
