@@ -85,6 +85,10 @@
 - [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide/blob/master/README.md)
 
 ## Miscellaneous
+- [KiCad Parts by Ai03](https://github.com/ai03-2725/MX_Alps_Hybrid.pretty) KiCad Library of custom MX-Alps footprints
+- [KiCad Parts by Daprice](https://github.com/daprice/keyswitches.pretty) KiCAD footprint library for kailh choc and MX-style mechanical switches
+- [KiCad Parts by Keebio](https://github.com/keebio/Keebio-Parts.pretty) Various KiCAD footprints for mechanical keyboard parts
+- [KiCAD Parts by TMK](https://github.com/tmk/keyboard_parts.pretty) KiCad modules for keyboard design
 - [Keyswitch Datasheets](https://github.com/keyboardio/keyswitch_documentation)
 - [List of split keyboards](https://docs.google.com/spreadsheets/d/19-rTWbp8SCKdZFByPZu3RT8NSF8vVddDe8WL6R6b1qQ/edit?usp=sharing)
 
