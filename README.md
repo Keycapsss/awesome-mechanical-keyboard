@@ -19,7 +19,7 @@
 | [Atreus](https://github.com/technomancy/atreus) | pcb, case | 40% | <img src="https://github.com/technomancy/atreus/raw/master/atreus.jpg" width="200px"/> |
 | [Atreus62](https://github.com/profet23/atreus62) | pcb, case | 60% | <img src="https://raw.githubusercontent.com/profet23/atreus62/master/images/nantucket-atreus62.jpg" width="200px"/> |
 | [Chimera Ergo/Ergo Mini/Ergo 42](https://github.com/GlenPickle/Chimera) | pcb | split, wireless, vertically staggered | <img src="https://i.imgur.com/AA6ycMQ.jpg" width="200px"> <img src="https://i.imgur.com/LAny3ue.jpg" width="200px"> <img src="https://i.imgur.com/wfTsIKV.jpg" width="200px" /> |
-| [crkbd](https://github.com/foostan/crkbd) | pcb, case | split, oled, 6x3, vertically staggered, thumb keys | <img src="https://user-images.githubusercontent.com/736191/40575636-6fba63a4-6123-11e8-9ca0-3f990f1f9f4c.jpg" width="200px"/> |
+| [Crkbd](https://github.com/foostan/crkbd) | pcb, case | split, oled, 6x3, vertically staggered, thumb keys | <img src="https://user-images.githubusercontent.com/736191/40575636-6fba63a4-6123-11e8-9ca0-3f990f1f9f4c.jpg" width="200px"/> |
 | [ErgoTravel](https://github.com/jpconstantineau/ErgoTravel) | pcb, case | split, vertically staggerd, thumb keys | <img src="https://i.imgur.com/DY0FxcM.jpg" width="200px"/> |
 | [Gameboy Keyboard case](https://www.thingiverse.com/thing:3007828) | case, pcb | 3d print, pcb | <img src="https://cdn.thingiverse.com/renders/4c/5f/a1/08/09/5d5fe686b8dbcc86c38133f7487ddcf5_preview_featured.JPG" width="200px"/> |
 | [HacKeyboard](https://github.com/masaleiro/HacKeyboard) | pcb, case |  | <img src="https://cdn.instructables.com/F9P/KCPI/IGV4DBXA/F9PKCPIIGV4DBXA.LARGE.jpg" width="200px"/> |
@@ -30,7 +30,7 @@
 | [Redox](https://github.com/mattdibi/redox-keyboard) | case | split, thumb keys, opensCad, 3d print | <img src="https://cdn.thingiverse.com/renders/62/c5/d6/91/6f/f23021b44a5e59a6838fc8b440fb8b56_preview_featured.jpg" width="200px"/> |
 | [SB-147](https://github.com/sealclubber/SB-147) | case | 3d print, handwiring | <img src="https://i.imgur.com/VWGHzfU.jpg" width="200px" /> |
 | [Tanuki](https://github.com/SethSenpai/Tanuki) | pcb, case | 40%, underglow | <img src="https://github.com/SethSenpai/Tanuki/raw/master/Img/glamour1.jpg" width="200px"/> |
-| [Voyager](https://github.com/ai03-2725/Voyager/blob/Rev2/README.md) | pcb | 60%, ansi, iso, rgb, led | <img src="https://raw.githubusercontent.com/ai03-2725/Voyager/Rev2/Renders/Front.png?rev=1.0" width="200px"> |
+| [Voyager](https://github.com/ai03-2725/Voyager/blob/Rev2/README.md) | pcb | 60%, ansi, iso, rgb, led | <img src="https://raw.githubusercontent.com/ai03-2725/Voyager/Rev2/Renders/Front.png?rev=1.0" width="200px"/> |
 | [XMMX TKL](https://geekhack.org/index.php?topic=93422.0) | pcb |  | <img src="https://i.imgur.com/otn8LT3.jpg" width="200px"/> |
 | []() |  |  |  |
 
@@ -62,22 +62,22 @@
 | --- | --- | --- | --- |
 | [Amoeba Single-Switch PCB](https://github.com/mtl/keyboard-pcbs) | pcb | single-switch, handwiring | <img src="https://deskthority.net/resources/image/25215" width="200px"/> |
 | [Game cart macropad](https://www.thingiverse.com/thing:3029578) | pcb, case | 4x4, 3d print | <img src="https://cdn.thingiverse.com/renders/f2/ab/f5/bd/7a/590674241125b3f375c064646978a1d0_preview_featured.jpg" width="200px"/> |
-| [kbord](https://github.com/dekuNukem/kbord) | pcb, case | 3x5, oled, rgb, sd-card | <img src="https://github.com/dekuNukem/kbord/raw/master/pics/title.jpg" width="200px"/> |
+| [Kbord](https://github.com/dekuNukem/kbord) | pcb, case | 3x5, oled, rgb, sd-card | <img src="https://github.com/dekuNukem/kbord/raw/master/pics/title.jpg" width="200px"/> |
 | []() |  |  |  |
 
 ## Tools
 - [ai03 Plate Generator](https://kbplate.ai03.me) An advanced plate generator which doesn't result in 13.99999mm cutouts. [Github Repo](https://github.com/ai03-2725/another-keyboard-builder)
+- [Kalerator](https://kalerator.clueboard.co) pcb generator for keyboard-layout-editor generated layouts. [GitHub Site](https://github.com/skullydazed/kalerator), [Eagle Parts Library](https://github.com/skullydazed/clueboard_eagle)
 - [Keyboard Firmware Builder](https://kbfirmware.com) online QMK Firmware Builder (2+ years behind QMK firmware master)
 - [keyboard-layout-editor](http://www.keyboard-layout-editor.com/) is a web application that enables the editing of keyboard-layouts, i.e., the position and appearance of each physical key. [GitHub Site](https://github.com/ijprest/keyboard-layout-editor)
 - [Plate & Case Builder](http://builder.swillkb.com) keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts
 - [QMK Configurator](https://config.qmk.fm/) an open source configurator for QMK Firmware
 - [TMK Firmware Builder](http://kb.sized.io) online TMK Firmware Builder
-- [Kalerator](https://kalerator.clueboard.co) pcb generator for keyboard-layout-editor generated layouts. [GitHub Site](https://github.com/skullydazed/kalerator), [Eagle Parts Library](https://github.com/skullydazed/clueboard_eagle)
 
 ## Firmware
+- [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope)
 - [QMK](https://github.com/qmk/qmk_firmware)
 - [TMK](https://github.com/tmk/tmk_keyboard)
-- [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope)
 
 ## Tutorials
 - [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0)
