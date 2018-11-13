@@ -60,9 +60,10 @@
 ## Numpad/Macropad
 | Name | Available Files | Tags | Image |
 | --- | --- | --- | --- |
+| [Amoeba Single-Switch PCB](https://github.com/mtl/keyboard-pcbs) | pcb | single-switch, handwiring | <img src="https://deskthority.net/resources/image/25215" width="200px"/> |
 | [Game cart macropad](https://www.thingiverse.com/thing:3029578) | pcb, case | 4x4, 3d print | <img src="https://cdn.thingiverse.com/renders/f2/ab/f5/bd/7a/590674241125b3f375c064646978a1d0_preview_featured.jpg" width="200px"/> |
+| [kbord](https://github.com/dekuNukem/kbord) | pcb, case | 3x5, oled, rgb, sd-card | <img src="https://github.com/dekuNukem/kbord/raw/master/pics/title.jpg" width="200px"/> |
 | []() |  |  |  |
-
 
 ## Tools
 - [ai03 Plate Generator](https://kbplate.ai03.me) An advanced plate generator which doesn't result in 13.99999mm cutouts. [Github Repo](https://github.com/ai03-2725/another-keyboard-builder)
