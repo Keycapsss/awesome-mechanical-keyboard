@@ -16,6 +16,7 @@
 | --- | --- | --- | --- |
 | [Akihabara](https://www.thingiverse.com/thing:3105838) | pcb, case | 40%, 3d print | <img src="https://cdn.thingiverse.com/renders/2a/ab/3d/2a/72/20404c338dddde183e41bf112c8b3bbb_preview_featured.jpg" width="200px"/> |
 | [Alpha](https://github.com/PyrooL/Alpha) | pcb, case | <30% | <img src="https://i.imgur.com/alNWnhZ.jpg" width="200px"> |
+| [Atreis](https://github.com/dekonnection/atreis) | case | handwiring | <img src="https://github.com/dekonnection/atreis/raw/master/pictures/GPI0El4.jpg" width="200px"> |
 | [Atreus](https://github.com/technomancy/atreus) | pcb, case | 40% | <img src="https://github.com/technomancy/atreus/raw/master/atreus.jpg" width="200px"/> |
 | [Atreus62](https://github.com/profet23/atreus62) | pcb, case | 60% | <img src="https://raw.githubusercontent.com/profet23/atreus62/master/images/nantucket-atreus62.jpg" width="200px"/> |
 | [Chimera Ergo/Ergo Mini/Ergo 42](https://github.com/GlenPickle/Chimera) | pcb | split, wireless, vertically staggered | <img src="https://i.imgur.com/AA6ycMQ.jpg" width="200px"> <img src="https://i.imgur.com/LAny3ue.jpg" width="200px"> <img src="https://i.imgur.com/wfTsIKV.jpg" width="200px" /> |
@@ -61,6 +62,7 @@
 | Name | Available Files | Tags | Image |
 | --- | --- | --- | --- |
 | [Amoeba Single-Switch PCB](https://github.com/mtl/keyboard-pcbs) | pcb | single-switch, handwiring | <img src="https://deskthority.net/resources/image/25215" width="200px"/> |
+| [Cherry MX Keypad](http://syncchannel.blogspot.com/2016/06/cherry-mx-keypad.html?m=1) | pcb | 4x1, led | <img src="https://1.bp.blogspot.com/-Mur6fIsKDwU/V1NmGd7T4QI/AAAAAAAAAyU/Fh40F8Zl41YVosa03zkJl2WPSQ7sGS_AwCLcB/s280/CherryMXkeypad1.jpg" width="200px"> |
 | [Game cart macropad](https://www.thingiverse.com/thing:3029578) | pcb, case | 4x4, 3d print | <img src="https://cdn.thingiverse.com/renders/f2/ab/f5/bd/7a/590674241125b3f375c064646978a1d0_preview_featured.jpg" width="200px"/> |
 | [Kbord](https://github.com/dekuNukem/kbord) | pcb, case | 3x5, oled, rgb, sd-card | <img src="https://github.com/dekuNukem/kbord/raw/master/pics/title.jpg" width="200px"/> |
 | []() |  |  |  |
@@ -70,6 +72,7 @@
 - [Kalerator](https://kalerator.clueboard.co) pcb generator for keyboard-layout-editor generated layouts. [GitHub Site](https://github.com/skullydazed/kalerator), [Eagle Parts Library](https://github.com/skullydazed/clueboard_eagle)
 - [Keyboard Firmware Builder](https://kbfirmware.com) online QMK Firmware Builder (2+ years behind QMK firmware master)
 - [keyboard-layout-editor](http://www.keyboard-layout-editor.com/) is a web application that enables the editing of keyboard-layouts, i.e., the position and appearance of each physical key. [GitHub Site](https://github.com/ijprest/keyboard-layout-editor)
+- [Parametric Mechanical Keycap Library](https://github.com/rsheldiii/KeyV2) is a keycap and keyset construction library for mechanical keyboards, written in openSCAD.
 - [Plate & Case Builder](http://builder.swillkb.com) keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts
 - [QMK Configurator](https://config.qmk.fm/) an open source configurator for QMK Firmware
 - [TMK Firmware Builder](http://kb.sized.io) online TMK Firmware Builder
@@ -82,7 +85,9 @@
 ## Tutorials
 - [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0)
 - [Hand wiring a let's split](https://johannes-jansson.github.io/projects/2018/07/23/hand-wiring-lets-split.html) (pro micro)
+- [How to integrate a trackpoint in a mechanical keyboard (TMK, Teensy)](https://github.com/alonswartz/trackpoint)
 - [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide/blob/master/README.md)
+- [lets-split-guide](https://github.com/nicinabox/lets-split-guide) This guide covers building a Let's Split v2
 
 ## Miscellaneous
 - [KiCad Parts by Ai03](https://github.com/ai03-2725/MX_Alps_Hybrid.pretty) KiCad Library of custom MX-Alps footprints
