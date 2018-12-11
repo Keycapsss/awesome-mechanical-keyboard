@@ -14,6 +14,7 @@
 ## Keyboards
 | Name | Available Files | Tags | Image |
 | --- | --- | --- | --- |
+| [5plit](https://github.com/larrbo/odd-rocket/tree/master/5plit%20-kailh) | pcb, case | 5x4, plate, pro micro, kailh choc | <img src="https://2.bp.blogspot.com/-bmGeoE6LDsY/WuntJ_vPaJI/AAAAAAAABPs/hSzlyzQB9x0DCwZeqpAm8_qTjESYyPDIACLcBGAs/s400/yijoz5ywkzg01.jpg" width="200px"> |
 | [Akihabara](https://www.thingiverse.com/thing:3105838) | pcb, case | 40%, 3d print | <img src="https://cdn.thingiverse.com/renders/2a/ab/3d/2a/72/20404c338dddde183e41bf112c8b3bbb_preview_featured.jpg" width="200px"/> |
 | [Alpha](https://github.com/PyrooL/Alpha) | pcb, case | <30% | <img src="https://i.imgur.com/alNWnhZ.jpg" width="200px"> |
 | [Atreis](https://github.com/dekonnection/atreis) | case | handwiring | <img src="https://github.com/dekonnection/atreis/raw/master/pictures/GPI0El4.jpg" width="200px"> |
@@ -26,6 +27,7 @@
 | [HacKeyboard](https://github.com/masaleiro/HacKeyboard) | pcb, case |  | <img src="https://cdn.instructables.com/F9P/KCPI/IGV4DBXA/F9PKCPIIGV4DBXA.LARGE.jpg" width="200px"/> |
 | [Minidox case](https://github.com/dotdash32/cases/tree/master/Minidox) | case | split, 6x3, vertically staggered, thumb keys | <img src="https://camo.githubusercontent.com/b345769866acbd0ad76c22250941aa4ab23667e5/68747470733a2f2f692e696d6775722e636f6d2f686d6e6b56646e2e6a7067" width="200px"/> |
 | [MiniDox pcb](https://github.com/That-Canadian/MiniDox_pcb) | pcb | split, 6x3, vertically staggered, thumb keys | <img src="https://camo.githubusercontent.com/d8925d5e754c3a8998db4ad9874c1d8b093901f2/687474703a2f2f692e696d6775722e636f6d2f69576233794f302e6a7067" width="200px"/> |
+| [Mitosis](https://github.com/reversebias/mitosis-hardware) | pcb, case | split, wireless | <img src="https://i.imgur.com/gApMkzz.jpg" width="200px"> |
 | [Orbit](https://github.com/ai03-2725/Orbit) | pcb | split, 7x5, thumb keys, usb-c | <img src="https://raw.githubusercontent.com/ai03-2725/Orbit/master/Images/PCB-R1.5.jpg" width="200px"/> |
 | [Redox-Case](https://github.com/Lenbok/scad-redox-case) | case | split, thumb keys, opensCad, 3d print | <img src="https://github.com/Lenbok/scad-redox-case/raw/master/images/redox-exploded.png" width="200px"/> |
 | [Redox](https://github.com/mattdibi/redox-keyboard) | case | split, thumb keys, opensCad, 3d print | <img src="https://cdn.thingiverse.com/renders/62/c5/d6/91/6f/f23021b44a5e59a6838fc8b440fb8b56_preview_featured.jpg" width="200px"/> |
@@ -38,6 +40,7 @@
 ## Ortholinear-Keyboards
 | Name | Available Files | Tags | Image |
 | --- | --- | --- | --- |
+| [Alpsie](https://github.com/larrbo/odd-rocket/tree/master/alpsie) | pcb, case | 12x4, pro micro, alps, plate | <img src="https://3.bp.blogspot.com/-IAVUSnTmtZA/XArbAHFK5wI/AAAAAAAABeE/FKTl072R1CkIZwXr4AVCZ-_qG7uRjHw9wCLcBGAs/s640/IMG_20181128_194036.jpg" width="200px"> |
 | [Chimera Ortho](https://github.com/GlenPickle/Chimera) | pcb | split, wireless | <img src="https://i.imgur.com/WqYzK5J.jpg" width="200px"> |
 | [Contra](https://github.com/ai03-2725/Contra) | pcb | 12x4 | <img src="https://cartel.ltd/wp-content/uploads/bfi_thumb/contra_p02_02-nktu82ndud49t3w6hk7enn5y4vcjr4ouv2513udte4.jpg" width="200px" /> |
 | [Dactyl](https://github.com/adereth/dactyl-keyboard) | pcb, case | split, thumb keys, 6x5, 60%, 3d print | <img src="https://raw.githubusercontent.com/adereth/dactyl-cave/master/resources/glamourshot.png" width="200px"/> |
@@ -48,10 +51,10 @@
 | [ErgoDox-Case](https://github.com/CharlesLenk/ErgoDox-Case) | case | split, thumb keys, 7x5 | |
 | [Gherkin](https://github.com/math0ne/keyboard-gherkin) | pcb | 30%, 10x3 |  <img src="https://github.com/math0ne/keyboard-gherkin/raw/master/pcb/pcb-front.png" width="200px"/> |
 | [Helix](https://github.com/MakotoKurauchi/helix) | pcb, case | split, oled | <img src="https://camo.githubusercontent.com/348c95ff3baea20626e282b1a719eea49d0897b9/68747470733a2f2f692e696d6775722e636f6d2f5842416d796e4e2e6a7067" width="200px"/> |
+| [Koda](https://github.com/larrbo/odd-rocket/tree/master/koda) | pcb, case | 12x4, pro micro, kailh choc | <img src="https://4.bp.blogspot.com/-E9gGZbziicI/WwoNKDP-YPI/AAAAAAAABYk/IXV4gGrcQKo5Bqf7CRVpR_zYH2SCxAXwACLcBGAs/s400/IMG_20180522_231738.jpg" width="200px"> |
 | [Lily58](https://github.com/kata0510/Lily58) | pcb, case | split, oled,  6×4 | <img src="https://user-images.githubusercontent.com/6285554/47264498-53384a80-d553-11e8-907a-a03c6f2c5893.JPG" width="200px"> |
 | [Let's Split](https://github.com/climbalima/let-s-Split-v2) | pcb, [case](https://qmk.fm/keyboards/lets_split/) | split | <img src="https://camo.githubusercontent.com/dfbf83ee712079b862fccb951aefbb508b8a631d/687474703a2f2f692e696d6775722e636f6d2f797551754e4a552e6a7067" width="200px" /> |
 | [Minisplit](https://github.com/kata0510/minisplit) | pcb, case | split, 6×4 | <img src="https://camo.githubusercontent.com/74766a3dbaf2b8a9ab8dae5c6cf656a7a0b9a9ac/68747470733a2f2f692e696d6775722e636f6d2f7a7767417251562e706e67" width="200px" /> |
-| [Mitosis](https://github.com/reversebias/mitosis-hardware) | pcb, case | split, wireless | <img src="https://i.imgur.com/gApMkzz.jpg" width="200px"> |
 | [OLKB (Planck, Preonic & Atomic)](https://github.com/olkb/olkb_parts) | case | 3d print, plate |  |
 | [Science](https://github.com/peej/for-science-keyboard) | pcb | split, arduino, 5x5| <img src="https://camo.githubusercontent.com/fecf6f7bca9ec8b93e4031caa1ca3442cfb5a5f1/68747470733a2f2f692e696d6775722e636f6d2f666a6e546b42312e6a7067" width="200px"> |
 | [Split Infinitive](https://github.com/peej/for-split-keyboard/blob/master/README.md) | pcb | split, 6x5, pro micro | <img src="https://github.com/peej/for-split-keyboard/raw/master/pcb.png" width="200px"> |
