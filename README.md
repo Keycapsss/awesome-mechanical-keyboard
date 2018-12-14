@@ -101,6 +101,7 @@
 - [KiCAD Parts by TMK](https://github.com/tmk/keyboard_parts.pretty) KiCad modules for keyboard design
 - [Keyswitch Datasheets](https://github.com/keyboardio/keyswitch_documentation)
 - [List of split keyboards](https://docs.google.com/spreadsheets/d/19-rTWbp8SCKdZFByPZu3RT8NSF8vVddDe8WL6R6b1qQ/edit?usp=sharing)
+- QMK Proton C symbol/footprint [KiCad](https://github.com/qmk/qmk_hardware/tree/master/kicad/proton_c), [Eagle](https://github.com/qmk/qmk_hardware/tree/master/eagle)
 
 ---
 ### Contributing
