@@ -36,6 +36,7 @@
 | [Redox](https://github.com/mattdibi/redox-keyboard) | case | split, thumb keys, opensCad, 3d print | <img src="https://cdn.thingiverse.com/renders/62/c5/d6/91/6f/f23021b44a5e59a6838fc8b440fb8b56_preview_featured.jpg" width="200px"/> |
 | [SB-147](https://github.com/sealclubber/SB-147) | case | 3d print, handwiring | <img src="https://i.imgur.com/VWGHzfU.jpg" width="200px" /> |
 | [Tanuki](https://github.com/SethSenpai/Tanuki) | pcb, case | 40%, underglow | <img src="https://github.com/SethSenpai/Tanuki/raw/master/Img/glamour1.jpg" width="200px"/> |
+| [Ultimate Hacking Keyboard](https://github.com/UltimateHackingKeyboard/electronics) | pcb | split, display, 31FL3731 | <img src="https://ultimatehackingkeyboard.com/wordpress/wp-content/uploads/2018/07/uhk-split-palm-rest-1920.jpg" width="200px"> |
 | [Voyager](https://github.com/ai03-2725/Voyager/blob/Rev2/README.md) | pcb | 60%, ansi, iso, rgb, led | <img src="https://raw.githubusercontent.com/ai03-2725/Voyager/Rev2/Renders/Front.png?rev=1.0" width="200px"/> |
 | [XMMX TKL](https://geekhack.org/index.php?topic=93422.0) | pcb |  | <img src="https://i.imgur.com/otn8LT3.jpg" width="200px"/> |
 | []() |  |  |  |
