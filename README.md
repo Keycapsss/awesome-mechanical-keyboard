@@ -77,14 +77,14 @@
 | []() |  |  |  |
 
 ## Tools
-- [ai03 Plate Generator](https://kbplate.ai03.me) An advanced plate generator which doesn't result in 13.99999mm cutouts. [Github Repo](https://github.com/ai03-2725/another-keyboard-builder)
-- [Kalerator](https://kalerator.clueboard.co) pcb generator for keyboard-layout-editor generated layouts. [GitHub Site](https://github.com/skullydazed/kalerator), [Eagle Parts Library](https://github.com/skullydazed/clueboard_eagle)
-- [Keyboard Firmware Builder](https://kbfirmware.com) online QMK Firmware Builder (2+ years behind QMK firmware master)
-- [keyboard-layout-editor](http://www.keyboard-layout-editor.com/) is a web application that enables the editing of keyboard-layouts, i.e., the position and appearance of each physical key. [GitHub Site](https://github.com/ijprest/keyboard-layout-editor)
-- [Parametric Mechanical Keycap Library](https://github.com/rsheldiii/KeyV2) is a keycap and keyset construction library for mechanical keyboards, written in openSCAD.
-- [Plate & Case Builder](http://builder.swillkb.com) keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts
-- [QMK Configurator](https://config.qmk.fm/) an open source configurator for QMK Firmware
-- [TMK Firmware Builder](http://kb.sized.io) online TMK Firmware Builder
+- [ai03 Plate Generator](https://kbplate.ai03.me) - An advanced plate generator which doesn't result in 13.99999mm cutouts. [Github Repo](https://github.com/ai03-2725/another-keyboard-builder)
+- [Kalerator](https://kalerator.clueboard.co) - pcb generator for keyboard-layout-editor generated layouts. [GitHub Site](https://github.com/skullydazed/kalerator), [Eagle Parts Library](https://github.com/skullydazed/clueboard_eagle)
+- [Keyboard Firmware Builder](https://kbfirmware.com) - online QMK Firmware Builder (2+ years behind QMK firmware master)
+- [keyboard-layout-editor](http://www.keyboard-layout-editor.com/) - is a web application that enables the editing of keyboard-layouts, i.e., the position and appearance of each physical key. [GitHub Site](https://github.com/ijprest/keyboard-layout-editor)
+- [Parametric Mechanical Keycap Library](https://github.com/rsheldiii/KeyV2) - is a keycap and keyset construction library for mechanical keyboards, written in openSCAD.
+- [Plate & Case Builder](http://builder.swillkb.com) - keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts
+- [QMK Configurator](https://config.qmk.fm/) - an open source configurator for QMK Firmware
+- [TMK Firmware Builder](http://kb.sized.io) - online TMK Firmware Builder
 
 ## Firmware
 - [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope)
@@ -96,17 +96,17 @@
 - [Hand wiring a let's split](https://johannes-jansson.github.io/projects/2018/07/23/hand-wiring-lets-split.html) (pro micro)
 - [How to integrate a trackpoint in a mechanical keyboard (TMK, Teensy)](https://github.com/alonswartz/trackpoint)
 - [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide/blob/master/README.md)
-- [lets-split-guide](https://github.com/nicinabox/lets-split-guide) This guide covers building a Let's Split v2
+- [lets-split-guide](https://github.com/nicinabox/lets-split-guide) - This guide covers building a Let's Split v2
 
 ## Miscellaneous
-- [BLE Micro Pro](https://github.com/sekigon-gonnoc/BLE-Micro-Pro) is a breakout board of BL654(nrf52840 module) which is almost compatible with Pro Micro. This board is designed for wireless split DIY keyboards
-- [KiCad Parts by Ai03](https://github.com/ai03-2725/MX_Alps_Hybrid.pretty) KiCad Library of custom MX-Alps footprints
-- [KiCad Parts by Daprice](https://github.com/daprice/keyswitches.pretty) KiCAD footprint library for kailh choc and MX-style mechanical switches
-- [KiCad Parts by Keebio](https://github.com/keebio/Keebio-Parts.pretty) Various KiCAD footprints for mechanical keyboard parts
-- [KiCAD Parts by TMK](https://github.com/tmk/keyboard_parts.pretty) KiCad modules for keyboard design
+- [BLE Micro Pro](https://github.com/sekigon-gonnoc/BLE-Micro-Pro) - is a breakout board of BL654(nrf52840 module) which is almost compatible with Pro Micro. This board is designed for wireless split DIY keyboards
+- [KiCad Parts by Ai03](https://github.com/ai03-2725/MX_Alps_Hybrid.pretty) - KiCad Library of custom MX-Alps footprints
+- [KiCad Parts by Daprice](https://github.com/daprice/keyswitches.pretty) - KiCAD footprint library for kailh choc and MX-style mechanical switches
+- [KiCad Parts by Keebio](https://github.com/keebio/Keebio-Parts.pretty) - Various KiCAD footprints for mechanical keyboard parts
+- [KiCAD Parts by TMK](https://github.com/tmk/keyboard_parts.pretty) - KiCad modules for keyboard design
 - [Keyswitch Datasheets](https://github.com/keyboardio/keyswitch_documentation)
 - [List of split keyboards](https://docs.google.com/spreadsheets/d/19-rTWbp8SCKdZFByPZu3RT8NSF8vVddDe8WL6R6b1qQ/edit?usp=sharing)
-- QMK Proton C symbol/footprint [KiCad](https://github.com/qmk/qmk_hardware/tree/master/kicad/proton_c), [Eagle](https://github.com/qmk/qmk_hardware/tree/master/eagle)
+- QMK Proton C symbol/footprint for [KiCad](https://github.com/qmk/qmk_hardware/tree/master/kicad/proton_c), [Eagle](https://github.com/qmk/qmk_hardware/tree/master/eagle)
 
 ---
 ### Contributing
