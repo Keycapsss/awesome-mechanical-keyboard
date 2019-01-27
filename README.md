@@ -27,6 +27,7 @@
 | [ErgoDash Mini](https://github.com/omkbd/ErgoDash/tree/master/mini) | pcb, case | 4x7, plate, led, split, thumb key | <img src="https://github.com/omkbd/picture/blob/master/Ergodashmini.jpg?raw=true" width="200px"> |
 | [ErgoMac](https://github.com/LilBigMacky/ergomac) | pcb | split, vertically staggered, thumb keys | <img src="https://i.redd.it/6ndsci0gt0x11.jpg" width="200px"> |
 | [ErgoTravel](https://github.com/jpconstantineau/ErgoTravel) | pcb, case | split, vertically staggerd, thumb keys | <img src="https://i.imgur.com/DY0FxcM.jpg" width="200px"/> |
+| [Ergoinu](https://github.com/hsgw/ergoinu) | pcb, case | split, plate, mx, pro micro | <img src="https://raw.githubusercontent.com/wiki/hsgw/ergoinu/images/keyboard_top.JPG" width="200px"> |
 | [Gameboy Keyboard case](https://www.thingiverse.com/thing:3007828) | case, pcb | 3d print, pcb | <img src="https://cdn.thingiverse.com/renders/4c/5f/a1/08/09/5d5fe686b8dbcc86c38133f7487ddcf5_preview_featured.JPG" width="200px"/> |
 | [GH60](https://github.com/komar007/gh60) | pcb | 60%, atmega32U4 | <img src="http://blog.komar.be/wp-content/uploads/2016/05/pcb_back.png" width="200px"> |
 | [HacKeyboard](https://github.com/masaleiro/HacKeyboard) | pcb, case |  | <img src="https://cdn.instructables.com/F9P/KCPI/IGV4DBXA/F9PKCPIIGV4DBXA.LARGE.jpg" width="200px"/> |
