@@ -2,14 +2,15 @@
 
 ## Table of Contents
 
-- [Keyboards](#Keyboards)
-- [Ortholinear-Keyboards](#Ortholinear-Keyboards)
+- [Keyboards](#keyboards)
+- [Ortholinear-Keyboards](#ortholinear-Keyboards)
+- [Handwired](#handwired)
 - [Numpad/Macropad](#numpadmacropad)
 - [Case](#case)
-- [Tools](#Tools)
-- [Firmware](#Firmware)
-- [Tutorials](#Tutorials)
-- [Miscellaneous](#Miscellaneous)
+- [Tools](#tools)
+- [Firmware](#firmware)
+- [Tutorials](#tutorials)
+- [Miscellaneous](#miscellaneous)
 
 
 ## Keyboards
@@ -26,7 +27,7 @@
 | [ErgoDash](https://github.com/omkbd/ErgoDash) | pcb, case | 5x7, plate, led, split, thumb key | <img src="https://github.com/omkbd/picture/blob/master/Ergodash.jpg?raw=true" width="200px"/> |
 | [ErgoDash Mini](https://github.com/omkbd/ErgoDash/tree/master/mini) | pcb, case | 4x7, plate, led, split, thumb key | <img src="https://github.com/omkbd/picture/blob/master/Ergodashmini.jpg?raw=true" width="200px"/> |
 | [ErgoMac](https://github.com/LilBigMacky/ergomac) | pcb | split, vertically staggered, thumb keys | <img src="https://i.redd.it/6ndsci0gt0x11.jpg" width="200px"/> |
-| [ErgoTravel](https://github.com/jpconstantineau/ErgoTravel) | pcb, case | split, vertically staggerd, thumb keys | <img src="https://i.imgur.com/DY0FxcM.jpg" width="200px"/> |
+| [ErgoTravel](https://github.com/jpconstantineau/ErgoTravel) | pcb, case | split, vertically staggered, thumb keys | <img src="https://i.imgur.com/DY0FxcM.jpg" width="200px"/> |
 | [Ergoinu](https://github.com/hsgw/ergoinu) | pcb, case | split, plate, mx, pro micro | <img src="https://raw.githubusercontent.com/wiki/hsgw/ergoinu/images/keyboard_top.JPG" width="200px"/> |
 | [Fourier](https://github.com/keebio/fourier) | pcb | split, staggered | <img src="https://camo.githubusercontent.com/3dadc57ab6cb05e7d43de5b1570f60c645914347/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f313835312f353132352f70726f64756374732f696d6167655f31643338373933632d656262362d346466382d626162352d3933333136323632386665355f3130323478313032344032782e6a70673f763d31353139393731373937" width="200px" /> |
 | [Gameboy Keyboard case](https://www.thingiverse.com/thing:3007828) | case, pcb | 3d print, pcb | <img src="https://cdn.thingiverse.com/renders/4c/5f/a1/08/09/5d5fe686b8dbcc86c38133f7487ddcf5_preview_featured.JPG" width="200px"/> |
@@ -40,7 +41,6 @@
 | [Redox-Case](https://github.com/Lenbok/scad-redox-case) | case | split, thumb keys, opensCad, 3d print | <img src="https://github.com/Lenbok/scad-redox-case/raw/master/images/redox-exploded.png" width="200px"/> |
 | [Redox](https://github.com/mattdibi/redox-keyboard) | case | split, thumb keys, opensCad, 3d print | <img src="https://cdn.thingiverse.com/renders/62/c5/d6/91/6f/f23021b44a5e59a6838fc8b440fb8b56_preview_featured.jpg" width="200px"/> |
 | [SB-147](https://github.com/sealclubber/SB-147) | case | 3d print, handwiring | <img src="https://i.imgur.com/VWGHzfU.jpg" width="200px" /> |
-| [Tada68](https://www.thingiverse.com/thing:3372910) | case | 3d print, handwiring, teensy | <img src="https://cdn.thingiverse.com/renders/46/14/9d/aa/0e/8b1db0b24fc25d806e61f7b51671bd08_preview_featured.JPG" width="200px"> |
 | [Tanuki](https://github.com/SethSenpai/Tanuki) | pcb, case | 40%, underglow | <img src="https://github.com/SethSenpai/Tanuki/raw/master/Img/glamour1.jpg" width="200px"/> |
 | [Tg4x](https://github.com/MythosMann/tg4x) | pcb, case | pro micro, 40% | <img src="https://raw.githubusercontent.com/MythosMann/tg4x/master/pcb_raytrace.png" width="200px"/> |
 | [Ultimate Hacking Keyboard](https://github.com/UltimateHackingKeyboard/electronics) | pcb | split, display, 31FL3731 | <img src="https://ultimatehackingkeyboard.com/wordpress/wp-content/uploads/2018/07/uhk-split-palm-rest-1920.jpg" width="200px"/> |
@@ -75,6 +75,16 @@
 | [Zen (RGBKB)](https://github.com/RGBKB/Keyboard-files/tree/master/Zen) [Build Guide](https://legonut.gitbooks.io/zen-keyboard/content/) | pcb, case | split, ergo, ortho, thumb keys, rgb led | <img src="https://cdn.shopify.com/s/files/1/0008/8827/5005/products/hvXxV1L_600x.jpg" width="200px" /> |
 | []() |  |  |  |
 
+## Handwired
+| Name | Available Files | Tags | Image |
+| --- | --- | --- | --- |
+| [Arke](https://www.thingiverse.com/thing:2879329) | case | 3d print, split, pro micro | <img src="https://cdn.thingiverse.com/renders/42/c6/fc/55/83/38d59e181f2a3c892fe3f8365d00076e_preview_featured.jpg" width="200px" /> |
+| [Atreus Split Keyboard](https://www.thingiverse.com/thing:1646718) | case | 3d print, split, pro micro | <img src="https://cdn.thingiverse.com/renders/2a/35/f6/bd/51/ee77cfa99ac6c721974f6eb92a52cce9_preview_featured.jpg" width="200px" /> |
+| [Mechanical Gamepad](https://www.thingiverse.com/thing:2593692) | case | 3d print, handwiring, pro micro, ortholinear | <img src="https://cdn.thingiverse.com/renders/61/74/20/bf/6f/387305d39edce0ec7409172e37eee126_preview_featured.jpg" width="200px" /> |
+| [SiCK-68](https://www.thingiverse.com/thing:3478494) | case | staggered, tkl, 3d print, handwiring, teensy | <img src="https://cdn.thingiverse.com/renders/b3/55/75/9b/d4/f20d6cca0ecda40347ad1802a63e518c_preview_featured.JPG" width="200px" /> |
+| [Tada68](https://www.thingiverse.com/thing:3372910) | case | 3d print, handwiring, teensy, tkl, staggered | <img src="https://cdn.thingiverse.com/renders/46/14/9d/aa/0e/8b1db0b24fc25d806e61f7b51671bd08_preview_featured.JPG" width="200px" /> |
+| []() |  |  |  |
+
 ## Numpad/Macropad
 | Name | Available Files | Tags | Image |
 | --- | --- | --- | --- |
@@ -90,11 +100,24 @@
 ## Case
 | Name | Tags | Image |
 | --- | --- | --- |
+| [60% (Poker II, Pok3r) Keyboard Case 2.0](https://www.thingiverse.com/thing:983332) | 3d print | <img src="https://cdn.thingiverse.com/renders/8a/ac/f9/d8/ad/zanmYsB_-_Imgur_preview_featured.jpg" width="200px" /> |
+| [Atreus62 High Profile Keyboard Case](https://www.thingiverse.com/thing:3246981) | 3d print | <img src="https://cdn.thingiverse.com/renders/e5/f1/48/84/33/5c363031158a92007b63b0468cea95c6_preview_featured.jpg" width="200px" /> |
 | [Chimera Egro 42 Tenting Case](https://github.com/wizarddata/Chimera-Egro-42-Case) | 3d print, tenting, split |  |
+| [Cospad Case](https://www.thingiverse.com/thing:3233852) | 3d print, numpad | <img src="https://cdn.thingiverse.com/renders/23/ce/51/e6/60/c529ac4f1f85fb603e729532d6a4e3a5_preview_featured.jpg" width="200px" /> |
+| [Cospad Diamond Case](https://www.thingiverse.com/thing:3389713) | 3d print, numpad | <img src="https://cdn.thingiverse.com/renders/85/59/4f/c2/34/05af4ff61e5c7829934b3206dd96247e_preview_featured.jpg" width="200px" /> |
+| [Dactyl extended bottom case with gel wrist rests](https://www.thingiverse.com/thing:2436848) | 3d print, split | <img src="https://cdn.thingiverse.com/renders/36/ef/6d/5f/59/c7a62cce09db90af7db2c013ccf94171_preview_featured.jpg" width="200px" /> |
+| [Ergodox Case](https://www.thingiverse.com/thing:753448) | 3d print | <img src="https://cdn.thingiverse.com/renders/4e/a2/85/36/dd/TopRightCase_preview_featured.jpg" width="200px" /> |
+| [Ergodox Case PrintDox](https://www.thingiverse.com/thing:2533064) | 3d print, split | <img src="https://cdn.thingiverse.com/renders/cf/a4/a1/db/34/c62c3dfe57add30ddfdd10bba6959503_preview_featured.jpg" width="200px" /> |
+| [Fourier - Split 40% Keybaord](https://www.thingiverse.com/thing:3456985) | 3d print, split | <img src="https://cdn.thingiverse.com/renders/95/4a/57/83/a5/c67e7861a9923e60be38f20b33bc8989_preview_featured.jpg" width="200px"/> |
+| [Iris Case V2](https://www.thingiverse.com/thing:3186129) | 3d print, split | <img src="https://cdn.thingiverse.com/renders/ce/f1/6f/c4/1c/b10ee16c8aef868230d6b430237876b4_preview_featured.jpg" width="200px" /> |
 | [Iris Ice Project](https://github.com/rs/iris-ice) | 3d print, acrylic, white, led | <img src="https://github.com/rs/iris-ice/blob/master/img/iris-ice.jpg?raw=true" width="200px"/> |
 | [Iris Tenting Cases](https://github.com/wizarddata/Iris-Case) | 3d print, tenting, split | |
+| [Let's Split Keyboard Angled Case](https://www.thingiverse.com/thing:2626039) | 3d print, split, ortholinear | <img src="https://cdn.thingiverse.com/renders/e8/05/1a/03/99/429c22d5f6e9df54f0b98e73d0ec0a19_preview_featured.jpg" width="200px"/> |
+| [Let's Split Keyboard Case](https://www.thingiverse.com/thing:2482218) | 3d print, split, ortholinear | <img src="https://cdn.thingiverse.com/renders/0f/cb/dc/ad/ac/f3ccdd27d2000e3f9255a7e3e2c48800_preview_featured.jpg" width="200px"/> |
+| [Let's Split Keyboard Plate & Case](https://www.thingiverse.com/thing:2335558) | 3d print, split, ortholinear | <img src="https://cdn.thingiverse.com/renders/79/08/a0/f0/87/73727bf9538c5aa7b80ac16c14c6686b_preview_featured.jpg" width="200px" /> |
 | [Minidox Case](https://github.com/dotdash32/cases/tree/master/Minidox) | split, 3x6, vertically staggered, thumb keys | <img src="https://camo.githubusercontent.com/b345769866acbd0ad76c22250941aa4ab23667e5/68747470733a2f2f692e696d6775722e636f6d2f686d6e6b56646e2e6a7067" width="200px"/> |
 | [Minidox Tenting Case](https://github.com/wizarddata/Minidox-Cases) | 3d print, tenting, split |  |
+| [Nyquist Plate + Case](https://www.thingiverse.com/thing:2389357) | 3d print, split, ortholinear | <img src="https://cdn.thingiverse.com/renders/81/82/66/eb/3d/7b3575db20022d9ffa547ea4deb728d1_preview_featured.jpg" width="200px" /> |
 | [OLKB (Planck, Preonic & Atomic)](https://github.com/olkb/olkb_parts) | 3d print, plate |  |
 | []() |  |  |
 
