@@ -90,8 +90,11 @@
 ## Case
 | Name | Tags | Image |
 | --- | --- | --- |
+| [Chimera Egro 42 Tenting Case](https://github.com/wizarddata/Chimera-Egro-42-Case) | 3d print, tenting, split |  |
 | [Iris Ice Project](https://github.com/rs/iris-ice) | 3d print, acrylic, white, led | <img src="https://github.com/rs/iris-ice/blob/master/img/iris-ice.jpg?raw=true" width="200px"/> |
-| [Minidox case](https://github.com/dotdash32/cases/tree/master/Minidox) | split, 3x6, vertically staggered, thumb keys | <img src="https://camo.githubusercontent.com/b345769866acbd0ad76c22250941aa4ab23667e5/68747470733a2f2f692e696d6775722e636f6d2f686d6e6b56646e2e6a7067" width="200px"/> |
+| [Iris Tenting Cases](https://github.com/wizarddata/Iris-Case) | 3d print, tenting, split | |
+| [Minidox Case](https://github.com/dotdash32/cases/tree/master/Minidox) | split, 3x6, vertically staggered, thumb keys | <img src="https://camo.githubusercontent.com/b345769866acbd0ad76c22250941aa4ab23667e5/68747470733a2f2f692e696d6775722e636f6d2f686d6e6b56646e2e6a7067" width="200px"/> |
+| [Minidox Tenting Case](https://github.com/wizarddata/Minidox-Cases) | 3d print, tenting, split |  |
 | [OLKB (Planck, Preonic & Atomic)](https://github.com/olkb/olkb_parts) | 3d print, plate |  |
 | []() |  |  |
 
