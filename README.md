@@ -71,6 +71,7 @@
 | [Plaid](https://github.com/hsgw/plaid) | pcb | 4x12, atmega328p | <img src="https://user-images.githubusercontent.com/2714926/49872071-481ae000-fe5b-11e8-963d-8aaa3a653e4d.jpg" width="200px"/> |
 | [Planck THK](https://github.com/olkb/planck_thk) | pcb, case | 4x12, rotary encoder | <img src="https://i.imgur.com/Jiy1jLN.jpg" width="200px"/> |
 | [Science](https://github.com/peej/for-science-keyboard) | pcb | split, arduino, 5x5| <img src="https://camo.githubusercontent.com/fecf6f7bca9ec8b93e4031caa1ca3442cfb5a5f1/68747470733a2f2f692e696d6775722e636f6d2f666a6e546b42312e6a7067" width="200px"/> |
+| [SharkPCB](https://github.com/Gondolindrim/SharkPCB) | pcb | 4x12, rotary encoder, STM32, underglow | <img src="https://github.com/Gondolindrim/SharkPCB/raw/master/renders/backRender.png" width="200px" /> |
 | [Split Infinitive](https://github.com/peej/for-split-keyboard/blob/master/README.md) | pcb | split, 5x6, pro micro | <img src="https://github.com/peej/for-split-keyboard/raw/master/pcb.png" width="200px"/> |
 | [Zen (RGBKB)](https://github.com/RGBKB/Keyboard-files/tree/master/Zen) [Build Guide](https://legonut.gitbooks.io/zen-keyboard/content/) | pcb, case | split, ergo, ortho, thumb keys, rgb led | <img src="https://cdn.shopify.com/s/files/1/0008/8827/5005/products/hvXxV1L_600x.jpg" width="200px" /> |
 | []() |  |  |  |
