@@ -132,6 +132,7 @@
 - [Plate & Case Builder](http://builder.swillkb.com) - keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts
 - [QMK Configurator](https://config.qmk.fm/) - an open source configurator for QMK Firmware
 - [TMK Firmware Builder](http://kb.sized.io) - online TMK Firmware Builder
+- [kbd-prettier](https://github.com/blakedietz/kbd-prettier) - automatically format your keyboard layout
 
 ## Firmware
 - [Bluetosis](https://github.com/geoah/bluetosis) - Bluetooth firmware for the Mitosis keyboard
