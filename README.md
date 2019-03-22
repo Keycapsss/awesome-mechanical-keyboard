@@ -132,6 +132,7 @@
 - [Plate & Case Builder](http://builder.swillkb.com) - keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts
 - [QMK Configurator](https://config.qmk.fm/) - an open source configurator for QMK Firmware
 - [TMK Firmware Builder](http://kb.sized.io) - online TMK Firmware Builder
+- [kbd-prettier](https://github.com/blakedietz/kbd-prettier) - automatically format your keyboard layout
 
 ## Firmware
 - [BlueMicro_BLE](https://github.com/jpconstantineau/BlueMicro_BLE): A Bluetooth Firmware for the NRF52832
