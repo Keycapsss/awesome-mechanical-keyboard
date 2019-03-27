@@ -107,12 +107,13 @@
 | [Cospad Case](https://www.thingiverse.com/thing:3233852) | 3d print, numpad | <img src="https://cdn.thingiverse.com/renders/23/ce/51/e6/60/c529ac4f1f85fb603e729532d6a4e3a5_preview_featured.jpg" width="200px" /> |
 | [Cospad Diamond Case](https://www.thingiverse.com/thing:3389713) | 3d print, numpad | <img src="https://cdn.thingiverse.com/renders/85/59/4f/c2/34/05af4ff61e5c7829934b3206dd96247e_preview_featured.jpg" width="200px" /> |
 | [Dactyl extended bottom case with gel wrist rests](https://www.thingiverse.com/thing:2436848) | 3d print, split | <img src="https://cdn.thingiverse.com/renders/36/ef/6d/5f/59/c7a62cce09db90af7db2c013ccf94171_preview_featured.jpg" width="200px" /> |
+| [ErgoDash Tenting Case](https://github.com/wizarddata/Ergodash-Case) | 3d printing, split, tenting | |
 | [Ergodox Case](https://www.thingiverse.com/thing:753448) | 3d print | <img src="https://cdn.thingiverse.com/renders/4e/a2/85/36/dd/TopRightCase_preview_featured.jpg" width="200px" /> |
 | [Ergodox Case PrintDox](https://www.thingiverse.com/thing:2533064) | 3d print, split | <img src="https://cdn.thingiverse.com/renders/cf/a4/a1/db/34/c62c3dfe57add30ddfdd10bba6959503_preview_featured.jpg" width="200px" /> |
 | [Fourier - Split 40% Keybaord](https://www.thingiverse.com/thing:3456985) | 3d print, split | <img src="https://cdn.thingiverse.com/renders/95/4a/57/83/a5/c67e7861a9923e60be38f20b33bc8989_preview_featured.jpg" width="200px"/> |
 | [Iris Case V2](https://www.thingiverse.com/thing:3186129) | 3d print, split | <img src="https://cdn.thingiverse.com/renders/ce/f1/6f/c4/1c/b10ee16c8aef868230d6b430237876b4_preview_featured.jpg" width="200px" /> |
 | [Iris Ice Project](https://github.com/rs/iris-ice) | 3d print, acrylic, white, led | <img src="https://github.com/rs/iris-ice/blob/master/img/iris-ice.jpg?raw=true" width="200px"/> |
-| [Iris Tenting Cases](https://github.com/wizarddata/Iris-Case) | 3d print, tenting, split | |
+| [Iris Tenting Cases (High & Low Profile)](https://github.com/wizarddata/Iris-Case) | 3d print, tenting, split | |
 | [Let's Split Keyboard Angled Case](https://www.thingiverse.com/thing:2626039) | 3d print, split, ortholinear | <img src="https://cdn.thingiverse.com/renders/e8/05/1a/03/99/429c22d5f6e9df54f0b98e73d0ec0a19_preview_featured.jpg" width="200px"/> |
 | [Let's Split Keyboard Case](https://www.thingiverse.com/thing:2482218) | 3d print, split, ortholinear | <img src="https://cdn.thingiverse.com/renders/0f/cb/dc/ad/ac/f3ccdd27d2000e3f9255a7e3e2c48800_preview_featured.jpg" width="200px"/> |
 | [Let's Split Keyboard Plate & Case](https://www.thingiverse.com/thing:2335558) | 3d print, split, ortholinear | <img src="https://cdn.thingiverse.com/renders/79/08/a0/f0/87/73727bf9538c5aa7b80ac16c14c6686b_preview_featured.jpg" width="200px" /> |
