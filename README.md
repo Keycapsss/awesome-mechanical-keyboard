@@ -19,6 +19,7 @@
 | [5plit](https://github.com/larrbo/odd-rocket/tree/master/5plit%20-kailh) | pcb, case | 4x5, plate, pro micro, kailh choc | <img src="https://2.bp.blogspot.com/-bmGeoE6LDsY/WuntJ_vPaJI/AAAAAAAABPs/hSzlyzQB9x0DCwZeqpAm8_qTjESYyPDIACLcBGAs/s400/yijoz5ywkzg01.jpg" width="200px"/> |
 | [Akihabara](https://www.thingiverse.com/thing:3105838) | pcb, case | 40%, 3d print | <img src="https://cdn.thingiverse.com/renders/2a/ab/3d/2a/72/20404c338dddde183e41bf112c8b3bbb_preview_featured.jpg" width="200px"/> |
 | [Alpha](https://github.com/PyrooL/Alpha) | pcb, case | <30% | <img src="https://i.imgur.com/alNWnhZ.jpg" width="200px"/> |
+| [Apoptosis](https://github.com/pseudoku/Apoptosis) | pcb | 3x6, vertically staggered, thumb keys | <img src="https://raw.githubusercontent.com/pseudoku/Apoptosis/master/Apoptosis_PCB.jpg" width="200px" /> |
 | [Atreus](https://github.com/technomancy/atreus) | pcb, case | 40% | <img src="https://github.com/technomancy/atreus/raw/master/atreus.jpg" width="200px"/> |
 | [Atreus62](https://github.com/profet23/atreus62) | pcb, case | 60% | <img src="https://raw.githubusercontent.com/profet23/atreus62/master/images/nantucket-atreus62.jpg" width="200px"/> |
 | [Chimera Ergo/Ergo Mini/Ergo 42](https://github.com/GlenPickle/Chimera) | pcb | split, wireless, vertically staggered | <img src="https://i.imgur.com/AA6ycMQ.jpg" width="200px"> <img src="https://i.imgur.com/LAny3ue.jpg" width="200px"/> <img src="https://i.imgur.com/wfTsIKV.jpg" width="200px" /> |
