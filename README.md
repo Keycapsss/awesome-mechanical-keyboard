@@ -69,6 +69,7 @@
 | [Koda](https://github.com/larrbo/odd-rocket/tree/master/koda) | pcb, case | 4x12, pro micro, kailh choc | <img src="https://4.bp.blogspot.com/-E9gGZbziicI/WwoNKDP-YPI/AAAAAAAABYk/IXV4gGrcQKo5Bqf7CRVpR_zYH2SCxAXwACLcBGAs/s400/IMG_20180522_231738.jpg" width="200px"/> |
 | [Lily58](https://github.com/kata0510/Lily58) | pcb, case | split, oled,  4x6 | <img src="https://user-images.githubusercontent.com/6285554/47264498-53384a80-d553-11e8-907a-a03c6f2c5893.JPG" width="200px"/> |
 | [Let's Split](https://github.com/climbalima/let-s-Split-v2) | pcb, [case](https://qmk.fm/keyboards/lets_split/) | split | <img src="https://camo.githubusercontent.com/dfbf83ee712079b862fccb951aefbb508b8a631d/687474703a2f2f692e696d6775722e636f6d2f797551754e4a552e6a7067" width="200px"/> |
+| [Medusa](https://github.com/Gtrx0/Medusa) | pcb, case | 5x7, split, plate, bluetooth, nrf51822 | <img src="https://raw.githubusercontent.com/Gtrx0/Medusa/master/Renders/Front_Unpopulated.png?token=Anj1gDvVpb9Dt8Z8Zj3Az4azN7Fm_8hTks5bm9WJwA%3D%3D" width="200px" /> |
 | [Minisplit](https://github.com/kata0510/minisplit) | pcb, case | split, 4x6 | <img src="https://camo.githubusercontent.com/74766a3dbaf2b8a9ab8dae5c6cf656a7a0b9a9ac/68747470733a2f2f692e696d6775722e636f6d2f7a7767417251562e706e67" width="200px"/> |
 | [Plaid](https://github.com/hsgw/plaid) | pcb | 4x12, atmega328p | <img src="https://user-images.githubusercontent.com/2714926/49872071-481ae000-fe5b-11e8-963d-8aaa3a653e4d.jpg" width="200px"/> |
 | [Planck THK](https://github.com/olkb/planck_thk) | pcb, case | 4x12, rotary encoder | <img src="https://i.imgur.com/Jiy1jLN.jpg" width="200px"/> |
@@ -101,6 +102,7 @@
 | [Hayabusa](https://github.com/ai03-2725/Hayabusa) | pcb | 5x5, rgb, ws2812b, pro micro | <img src="https://raw.githubusercontent.com/ai03-2725/Hayabusa/master/Renders/Front.png?rev=1.0" width="200px"/> |
 | [Kbord](https://github.com/dekuNukem/kbord) | pcb, case | 5x3, oled, rgb, sd-card | <img src="https://github.com/dekuNukem/kbord/raw/master/pics/title.jpg" width="200px"/> |
 | [LFK17](https://github.com/lfkeyboards/lfk17) | pcb | 5x4, numpad, hotswap, rgb | <img src="https://i.imgur.com/N4x5wXp.jpg" width="200px"/> |
+| [Lysergic 25](https://github.com/Gtrx0/lysergic25) | pcb, plate | 5x5, pro micro, underglow, ws2812b, esd, usb-c | <img src="https://raw.githubusercontent.com/Gtrx0/lysergic25/master/Renders/Backside_populated.png" width="200px" /> |
 | []() |  |  |  |
 
 ## Case
