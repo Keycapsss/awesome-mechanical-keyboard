@@ -43,7 +43,7 @@
 | [Tanuki](https://github.com/SethSenpai/Tanuki) | pcb, case | 40%, underglow | <img src="https://github.com/SethSenpai/Tanuki/raw/master/Img/glamour1.jpg" width="200px"/> |
 | [Tg4x](https://github.com/MythosMann/tg4x) | pcb, case | pro micro, 40% | <img src="https://raw.githubusercontent.com/MythosMann/tg4x/master/pcb_raytrace.png" width="200px"/> |
 | [Ultimate Hacking Keyboard](https://github.com/UltimateHackingKeyboard/electronics) | pcb | split, display, 31FL3731 | <img src="https://ultimatehackingkeyboard.com/wordpress/wp-content/uploads/2018/07/uhk-split-palm-rest-1920.jpg" width="200px"/> |
-| [Voyager](https://github.com/ai03-2725/Voyager/blob/Rev2/README.md) | pcb | 60%, ansi, iso, rgb, led | <img src="https://raw.githubusercontent.com/ai03-2725/Voyager/Rev2/Renders/Front.png?rev=1.0" width="200px"/> |
+| [Voyager](https://github.com/ai03-2725/Voyager) | pcb | 60%, ansi, iso, rgb, led | <img src="https://raw.githubusercontent.com/ai03-2725/Voyager104/master/Renders/Front.png" width="200px"/> |
 | [Voyager65](https://github.com/ai03-2725/Voyager65) | pcb | 65%, usb-c, atxmega32a4u, rgb, underglow, switch-rgb-led, IS31FL3733 | <img src="https://raw.githubusercontent.com/ai03-2725/Voyager65/master/Renders/Back.png" width="200px"/> |
 | [XMMX TKL](https://geekhack.org/index.php?topic=93422.0) | pcb |  | <img src="https://i.imgur.com/otn8LT3.jpg" width="200px"/> |
 | []() |  |  |  |
