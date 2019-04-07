@@ -20,6 +20,7 @@
 | [Akihabara](https://www.thingiverse.com/thing:3105838) | pcb, case | 40%, 3d print | <img src="https://cdn.thingiverse.com/renders/2a/ab/3d/2a/72/20404c338dddde183e41bf112c8b3bbb_preview_featured.jpg" width="200px"/> |
 | [Alpha](https://github.com/PyrooL/Alpha) | pcb, case | <30% | <img src="https://i.imgur.com/alNWnhZ.jpg" width="200px"/> |
 | [Apoptosis](https://github.com/pseudoku/Apoptosis) | pcb | 3x6, vertically staggered, thumb keys | <img src="https://raw.githubusercontent.com/pseudoku/Apoptosis/master/Apoptosis_PCB.jpg" width="200px" /> |
+| [Arisu Keyboard PCB](https://github.com/FateNozomi/arisu-pcb) | pcb, case |  | <img src="https://camo.githubusercontent.com/52126fe22185eb48a922b8f7a2a2726cb2f19226/68747470733a2f2f692e696d6775722e636f6d2f6b6e74353138452e6a7067" width="200px" /> |
 | [Atreus](https://github.com/technomancy/atreus) | pcb, case | 40% | <img src="https://github.com/technomancy/atreus/raw/master/atreus.jpg" width="200px"/> |
 | [Atreus62](https://github.com/profet23/atreus62) | pcb, case | 60% | <img src="https://raw.githubusercontent.com/profet23/atreus62/master/images/nantucket-atreus62.jpg" width="200px"/> |
 | [Chimera Ergo/Ergo Mini/Ergo 42](https://github.com/GlenPickle/Chimera) | pcb | split, wireless, vertically staggered | <img src="https://i.imgur.com/AA6ycMQ.jpg" width="200px"> <img src="https://i.imgur.com/LAny3ue.jpg" width="200px"/> <img src="https://i.imgur.com/wfTsIKV.jpg" width="200px" /> |
@@ -105,6 +106,7 @@
 | Name | Tags | Image |
 | --- | --- | --- |
 | [60% (Poker II, Pok3r) Keyboard Case 2.0](https://www.thingiverse.com/thing:983332) | 3d print | <img src="https://cdn.thingiverse.com/renders/8a/ac/f9/d8/ad/zanmYsB_-_Imgur_preview_featured.jpg" width="200px" /> |
+| [Arisu Keyboard Case](https://github.com/FateNozomi/arisu-case) | plate | <img src="https://camo.githubusercontent.com/52126fe22185eb48a922b8f7a2a2726cb2f19226/68747470733a2f2f692e696d6775722e636f6d2f6b6e74353138452e6a7067" width="200px" /> |
 | [Atreus62 High Profile Keyboard Case](https://www.thingiverse.com/thing:3246981) | 3d print | <img src="https://cdn.thingiverse.com/renders/e5/f1/48/84/33/5c363031158a92007b63b0468cea95c6_preview_featured.jpg" width="200px" /> |
 | [Chimera Egro 42 Tenting Case](https://github.com/wizarddata/Chimera-Egro-42-Case) | 3d print, tenting, split |  |
 | [Cospad Case](https://www.thingiverse.com/thing:3233852) | 3d print, numpad | <img src="https://cdn.thingiverse.com/renders/23/ce/51/e6/60/c529ac4f1f85fb603e729532d6a4e3a5_preview_featured.jpg" width="200px" /> |
