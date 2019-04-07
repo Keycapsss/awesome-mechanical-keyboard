@@ -19,7 +19,6 @@
 | [5plit](https://github.com/larrbo/odd-rocket/tree/master/5plit%20-kailh) | pcb, case | 4x5, plate, pro micro, kailh choc | <img src="https://2.bp.blogspot.com/-bmGeoE6LDsY/WuntJ_vPaJI/AAAAAAAABPs/hSzlyzQB9x0DCwZeqpAm8_qTjESYyPDIACLcBGAs/s400/yijoz5ywkzg01.jpg" width="200px"/> |
 | [Akihabara](https://www.thingiverse.com/thing:3105838) | pcb, case | 40%, 3d print | <img src="https://cdn.thingiverse.com/renders/2a/ab/3d/2a/72/20404c338dddde183e41bf112c8b3bbb_preview_featured.jpg" width="200px"/> |
 | [Alpha](https://github.com/PyrooL/Alpha) | pcb, case | <30% | <img src="https://i.imgur.com/alNWnhZ.jpg" width="200px"/> |
-| [Atreis](https://github.com/dekonnection/atreis) | case | handwiring | <img src="https://github.com/dekonnection/atreis/raw/master/pictures/GPI0El4.jpg" width="200px"/> |
 | [Atreus](https://github.com/technomancy/atreus) | pcb, case | 40% | <img src="https://github.com/technomancy/atreus/raw/master/atreus.jpg" width="200px"/> |
 | [Atreus62](https://github.com/profet23/atreus62) | pcb, case | 60% | <img src="https://raw.githubusercontent.com/profet23/atreus62/master/images/nantucket-atreus62.jpg" width="200px"/> |
 | [Chimera Ergo/Ergo Mini/Ergo 42](https://github.com/GlenPickle/Chimera) | pcb | split, wireless, vertically staggered | <img src="https://i.imgur.com/AA6ycMQ.jpg" width="200px"> <img src="https://i.imgur.com/LAny3ue.jpg" width="200px"/> <img src="https://i.imgur.com/wfTsIKV.jpg" width="200px" /> |
@@ -33,7 +32,7 @@
 | [Gameboy Keyboard case](https://www.thingiverse.com/thing:3007828) | case, pcb | 3d print, pcb | <img src="https://cdn.thingiverse.com/renders/4c/5f/a1/08/09/5d5fe686b8dbcc86c38133f7487ddcf5_preview_featured.JPG" width="200px"/> |
 | [GH60](https://github.com/komar007/gh60) | pcb | 60%, atmega32U4 | <img src="http://blog.komar.be/wp-content/uploads/2016/05/pcb_back.png" width="200px"/> |
 | [HacKeyboard](https://github.com/masaleiro/HacKeyboard) | pcb, case |  | <img src="https://cdn.instructables.com/F9P/KCPI/IGV4DBXA/F9PKCPIIGV4DBXA.LARGE.jpg" width="200px"/> |
-| [MiniDox pcb](https://github.com/That-Canadian/MiniDox_pcb) | pcb | split, 3x6, vertically staggered, thumb keys | <img src="https://camo.githubusercontent.com/d8925d5e754c3a8998db4ad9874c1d8b093901f2/687474703a2f2f692e696d6775722e636f6d2f69576233794f302e6a7067" width="200px"/> |
+| [MiniDox pcb](https://github.com/That-Canadian/MiniDox_pcb) | pcb | split, 3x5, vertically staggered, thumb keys | <img src="https://camo.githubusercontent.com/d8925d5e754c3a8998db4ad9874c1d8b093901f2/687474703a2f2f692e696d6775722e636f6d2f69576233794f302e6a7067" width="200px"/> |
 | [Mitosis](https://github.com/reversebias/mitosis-hardware) | pcb, case | split, wireless | <img src="https://i.imgur.com/gApMkzz.jpg" width="200px"/> |
 | [Orbit](https://github.com/ai03-2725/Orbit) | pcb | split, 5x7, thumb keys, usb-c | <img src="https://raw.githubusercontent.com/ai03-2725/Orbit/master/Images/PCB-R1.5.jpg" width="200px"/> |
 | [Plain60-c](https://github.com/Maartenwut/plain60-c) | pcb | 60%, usb-c, atmega32U4 | <img src="https://camo.githubusercontent.com/85b21ccd9dfe95a86407fda6b1ee7ba14ec57bf4/68747470733a2f2f692e696d6775722e636f6d2f4f774f503956622e706e67" width="200px"/> |
@@ -61,7 +60,6 @@
 | [DMOTE](https://github.com/veikman/dactyl-keyboard) | case | concave, thumb keys, split, alps, mx | <img src="https://camo.githubusercontent.com/85b0066d64467a10e0d0bcbdde26e6726eb95fde/687474703a2f2f76696b746f722e65696b6d616e2e73652f696d6167652f646d6f74652d322d746f702d646f776e2d766965772f646973706c6179" width="200px"/> |
 | [ErgoDox official](https://github.com/Ergodox-io) | pcb, acryl case, 3d printable case | split, thumb keys, 5x7, 3d print | <img src="https://github.com/Ergodox-io/ergodox-io/blob/master/src/img/ErgoDox-original-min.png" width="200px" /> |
 | [Ergo42](https://github.com/Biacco42/Ergo42) | pcb, case | split, 4x7 | <img src="https://raw.githubusercontent.com/Biacco42/Ergo42/readme/readme_image/ergo42_image.jpg" width="200px"/> |
-| [ErgoDox-Case](https://github.com/CharlesLenk/ErgoDox-Case) | case | split, thumb keys, 7x5 | |
 | [Gherkin](https://github.com/math0ne/keyboard-gherkin) | pcb | 30%, 3x10 |  <img src="https://github.com/math0ne/keyboard-gherkin/raw/master/pcb/pcb-front.png" width="200px"/> |
 | [Helix](https://github.com/MakotoKurauchi/helix) | pcb, case | split, oled | <img src="https://camo.githubusercontent.com/348c95ff3baea20626e282b1a719eea49d0897b9/68747470733a2f2f692e696d6775722e636f6d2f5842416d796e4e2e6a7067" width="200px"/> |
 | [Koda](https://github.com/larrbo/odd-rocket/tree/master/koda) | pcb, case | 4x12, pro micro, kailh choc | <img src="https://4.bp.blogspot.com/-E9gGZbziicI/WwoNKDP-YPI/AAAAAAAABYk/IXV4gGrcQKo5Bqf7CRVpR_zYH2SCxAXwACLcBGAs/s400/IMG_20180522_231738.jpg" width="200px"/> |
@@ -73,13 +71,14 @@
 | [Science](https://github.com/peej/for-science-keyboard) | pcb | split, arduino, 5x5| <img src="https://camo.githubusercontent.com/fecf6f7bca9ec8b93e4031caa1ca3442cfb5a5f1/68747470733a2f2f692e696d6775722e636f6d2f666a6e546b42312e6a7067" width="200px"/> |
 | [SharkPCB](https://github.com/Gondolindrim/SharkPCB) | pcb | 4x12, rotary encoder, STM32, underglow | <img src="https://github.com/Gondolindrim/SharkPCB/raw/master/renders/backRender.png" width="200px" /> |
 | [Split Infinitive](https://github.com/peej/for-split-keyboard/blob/master/README.md) | pcb | split, 5x6, pro micro | <img src="https://github.com/peej/for-split-keyboard/raw/master/pcb.png" width="200px"/> |
-| [Zen (RGBKB)](https://github.com/RGBKB/Keyboard-files/tree/master/Zen) [Build Guide](https://legonut.gitbooks.io/zen-keyboard/content/) | pcb, case | split, ergo, ortho, thumb keys, rgb led | <img src="https://cdn.shopify.com/s/files/1/0008/8827/5005/products/hvXxV1L_600x.jpg" width="200px" /> |
+| [Zen (RGBKB)](https://github.com/RGBKB/Keyboard-files/tree/master/Zen) [Build Guide](https://legonut.gitbooks.io/zen-keyboard/content/) | pcb, case | split, ergo, ortho, thumb keys, rgb led | <img src="https://camo.githubusercontent.com/6bf0257847f1e1972cfd6b9f289a6e8180163ff8/68747470733a2f2f692e696d6775722e636f6d2f7a337630416b732e6a7067" width="200px" /> |
 | []() |  |  |  |
 
 ## Handwired
 | Name | Available Files | Tags | Image |
 | --- | --- | --- | --- |
 | [Arke](https://www.thingiverse.com/thing:2879329) | case | 3d print, split, pro micro | <img src="https://cdn.thingiverse.com/renders/42/c6/fc/55/83/38d59e181f2a3c892fe3f8365d00076e_preview_featured.jpg" width="200px" /> |
+| [Atreis](https://github.com/dekonnection/atreis) | case | handwiring | <img src="https://github.com/dekonnection/atreis/raw/master/pictures/GPI0El4.jpg" width="200px"/> |
 | [Atreus Split Keyboard](https://www.thingiverse.com/thing:1646718) | case | 3d print, split, pro micro | <img src="https://cdn.thingiverse.com/renders/2a/35/f6/bd/51/ee77cfa99ac6c721974f6eb92a52cce9_preview_featured.jpg" width="200px" /> |
 | [Mechanical Gamepad](https://www.thingiverse.com/thing:2593692) | case | 3d print, handwiring, pro micro, ortholinear | <img src="https://cdn.thingiverse.com/renders/61/74/20/bf/6f/387305d39edce0ec7409172e37eee126_preview_featured.jpg" width="200px" /> |
 | [SiCK-68](https://www.thingiverse.com/thing:3478494) | case | staggered, tkl, 3d print, handwiring, teensy | <img src="https://cdn.thingiverse.com/renders/b3/55/75/9b/d4/f20d6cca0ecda40347ad1802a63e518c_preview_featured.JPG" width="200px" /> |
@@ -109,6 +108,7 @@
 | [Cospad Diamond Case](https://www.thingiverse.com/thing:3389713) | 3d print, numpad | <img src="https://cdn.thingiverse.com/renders/85/59/4f/c2/34/05af4ff61e5c7829934b3206dd96247e_preview_featured.jpg" width="200px" /> |
 | [Dactyl extended bottom case with gel wrist rests](https://www.thingiverse.com/thing:2436848) | 3d print, split | <img src="https://cdn.thingiverse.com/renders/36/ef/6d/5f/59/c7a62cce09db90af7db2c013ccf94171_preview_featured.jpg" width="200px" /> |
 | [ErgoDash Tenting Case](https://github.com/wizarddata/Ergodash-Case) | 3d printing, split, tenting | |
+| [ErgoDox-Case](https://github.com/CharlesLenk/ErgoDox-Case) | split, thumb keys, 7x5 | |
 | [Ergodox Case](https://www.thingiverse.com/thing:753448) | 3d print | <img src="https://cdn.thingiverse.com/renders/4e/a2/85/36/dd/TopRightCase_preview_featured.jpg" width="200px" /> |
 | [Ergodox Case PrintDox](https://www.thingiverse.com/thing:2533064) | 3d print, split | <img src="https://cdn.thingiverse.com/renders/cf/a4/a1/db/34/c62c3dfe57add30ddfdd10bba6959503_preview_featured.jpg" width="200px" /> |
 | [Fourier - Split 40% Keybaord](https://www.thingiverse.com/thing:3456985) | 3d print, split | <img src="https://cdn.thingiverse.com/renders/95/4a/57/83/a5/c67e7861a9923e60be38f20b33bc8989_preview_featured.jpg" width="200px"/> |
@@ -126,18 +126,18 @@
 
 ## Tools
 - [ai03 Plate Generator](https://kbplate.ai03.me) - An advanced plate generator which doesn't result in 13.99999mm cutouts. [Github Repo](https://github.com/ai03-2725/another-keyboard-builder)
-- [Kalerator](https://kalerator.clueboard.co) - pcb generator for keyboard-layout-editor generated layouts. [GitHub Site](https://github.com/skullydazed/kalerator), [Eagle Parts Library](https://github.com/skullydazed/clueboard_eagle)
+- [Kalerator](https://kalerator.clueboard.co) - Pcb generator for keyboard-layout-editor generated layouts. [GitHub Site](https://github.com/skullydazed/kalerator), [Eagle Parts Library](https://github.com/skullydazed/clueboard_eagle)
 - [kbpcb](http://kbpcb.mrkeebs.com/) - Create KiCad PCB files from [KLE](http://www.keyboard-layout-editor.com) json files [Github page](https://github.com/fcoury/kbpcb)
-- [Keyboard Firmware Builder](https://kbfirmware.com) - online QMK Firmware Builder (2+ years behind QMK firmware master)
-- [keyboard-layout-editor](http://www.keyboard-layout-editor.com/) - is a web application that enables the editing of keyboard-layouts, i.e., the position and appearance of each physical key. [GitHub Site](https://github.com/ijprest/keyboard-layout-editor)
-- [Parametric Mechanical Keycap Library](https://github.com/rsheldiii/KeyV2) - is a keycap and keyset construction library for mechanical keyboards, written in openSCAD.
-- [Plate & Case Builder](http://builder.swillkb.com) - keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts
-- [QMK Configurator](https://config.qmk.fm/) - an open source configurator for QMK Firmware
-- [TMK Firmware Builder](http://kb.sized.io) - online TMK Firmware Builder
-- [kbd-prettier](https://github.com/blakedietz/kbd-prettier) - automatically format your keyboard layout
+- [Keyboard Firmware Builder](https://kbfirmware.com) - Online QMK Firmware Builder (2+ years behind QMK firmware master)
+- [keyboard-layout-editor](http://www.keyboard-layout-editor.com/) - Is a web application that enables the editing of keyboard-layouts, i.e., the position and appearance of each physical key. [GitHub Site](https://github.com/ijprest/keyboard-layout-editor)
+- [Parametric Mechanical Keycap Library](https://github.com/rsheldiii/KeyV2) - Is a keycap and keyset construction library for mechanical keyboards, written in openSCAD.
+- [Plate & Case Builder](http://builder.swillkb.com) - Keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts
+- [QMK Configurator](https://config.qmk.fm/) - An open source configurator for QMK Firmware
+- [TMK Firmware Builder](http://kb.sized.io) - Online TMK Firmware Builder
+- [kbd-prettier](https://github.com/blakedietz/kbd-prettier) - Automatically format your keyboard layout
 
 ## Firmware
-- [BlueMicro_BLE](https://github.com/jpconstantineau/BlueMicro_BLE): A Bluetooth Firmware for the NRF52832
+- [BlueMicro_BLE](https://github.com/jpconstantineau/BlueMicro_BLE) - A Bluetooth Firmware for the NRF52832
 - [Bluetosis](https://github.com/geoah/bluetosis) - Bluetooth firmware for the Mitosis keyboard
 - [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope)
 - [Keyplus](https://github.com/ahtn/keyplus)
