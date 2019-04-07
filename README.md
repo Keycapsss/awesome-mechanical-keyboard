@@ -120,6 +120,7 @@
 | [Let's Split Keyboard Plate & Case](https://www.thingiverse.com/thing:2335558) | 3d print, split, ortholinear | <img src="https://cdn.thingiverse.com/renders/79/08/a0/f0/87/73727bf9538c5aa7b80ac16c14c6686b_preview_featured.jpg" width="200px" /> |
 | [Minidox Case](https://github.com/dotdash32/cases/tree/master/Minidox) | split, 3x6, vertically staggered, thumb keys | <img src="https://camo.githubusercontent.com/b345769866acbd0ad76c22250941aa4ab23667e5/68747470733a2f2f692e696d6775722e636f6d2f686d6e6b56646e2e6a7067" width="200px"/> |
 | [Minidox Tenting Case](https://github.com/wizarddata/Minidox-Cases) | 3d print, tenting, split |  |
+| [Miuni32-Case](https://github.com/wizarddata/Miuni32-Case) | 3d print, ortholinear, 3x11 | <img src="https://preview.redd.it/da5ey5fxfyp21.jpg?width=960&crop=smart&auto=webp&s=470ec31cd4ad760dd30c16591740b238fa8a59cc" width=200px /> |
 | [Nyquist Plate + Case](https://www.thingiverse.com/thing:2389357) | 3d print, split, ortholinear | <img src="https://cdn.thingiverse.com/renders/81/82/66/eb/3d/7b3575db20022d9ffa547ea4deb728d1_preview_featured.jpg" width="200px" /> |
 | [OLKB (Planck, Preonic & Atomic)](https://github.com/olkb/olkb_parts) | 3d print, plate |  |
 | []() |  |  |
