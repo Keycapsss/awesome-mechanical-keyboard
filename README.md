@@ -41,7 +41,6 @@
 | [Orbit](https://github.com/ai03-2725/Orbit) | pcb | split, 5x7, thumb keys, usb-c | <img src="https://raw.githubusercontent.com/ai03-2725/Orbit/master/Images/PCB-R1.5.jpg" width="200px"/> |
 | [Plain60-c](https://github.com/Maartenwut/plain60-c) | pcb | 60%, usb-c, atmega32U4 | <img src="https://camo.githubusercontent.com/85b21ccd9dfe95a86407fda6b1ee7ba14ec57bf4/68747470733a2f2f692e696d6775722e636f6d2f4f774f503956622e706e67" width="200px"/> |
 | [pteron](https://github.com/FSund/pteron-keyboard) | case | 3x5, 3x6, 4x6, handwiring, pro micro | <img src="https://camo.githubusercontent.com/9f0a06184893760528f1c5db991c5463d403b528/68747470733a2f2f692e696d6775722e636f6d2f395168506c56442e6a7067" width="200px"/> |
-| [Redox-Case](https://github.com/Lenbok/scad-redox-case) | case | split, thumb keys, opensCad, 3d print | <img src="https://github.com/Lenbok/scad-redox-case/raw/master/images/redox-exploded.png" width="200px"/> |
 | [Redox](https://github.com/mattdibi/redox-keyboard) | case | split, thumb keys, opensCad, 3d print | <img src="https://cdn.thingiverse.com/renders/62/c5/d6/91/6f/f23021b44a5e59a6838fc8b440fb8b56_preview_featured.jpg" width="200px"/> |
 | [SB-147](https://github.com/sealclubber/SB-147) | case | 3d print, handwiring | <img src="https://i.imgur.com/VWGHzfU.jpg" width="200px" /> |
 | [Tanuki](https://github.com/SethSenpai/Tanuki) | pcb, case | 40%, underglow | <img src="https://github.com/SethSenpai/Tanuki/raw/master/Img/glamour1.jpg" width="200px"/> |
@@ -133,6 +132,7 @@
 | [Miuni32-Case](https://github.com/wizarddata/Miuni32-Case) | 3d print, ortholinear, 3x11 | <img src="https://preview.redd.it/da5ey5fxfyp21.jpg?width=960&crop=smart&auto=webp&s=470ec31cd4ad760dd30c16591740b238fa8a59cc" width=200px /> |
 | [Nyquist Plate + Case](https://www.thingiverse.com/thing:2389357) | 3d print, split, ortholinear | <img src="https://cdn.thingiverse.com/renders/81/82/66/eb/3d/7b3575db20022d9ffa547ea4deb728d1_preview_featured.jpg" width="200px" /> |
 | [OLKB (Planck, Preonic & Atomic)](https://github.com/olkb/olkb_parts) | 3d print, plate |  |
+| [Redox-Case](https://github.com/Lenbok/scad-redox-case) | split, thumb keys, opensCad, 3d print | <img src="https://github.com/Lenbok/scad-redox-case/raw/master/images/redox-exploded.png" width="200px"/> |
 | []() |  |  |
 
 ## Tools
