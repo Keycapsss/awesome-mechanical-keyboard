@@ -122,6 +122,7 @@
 | [Ergodox Case](https://www.thingiverse.com/thing:753448) | 3d print | <img src="https://cdn.thingiverse.com/renders/4e/a2/85/36/dd/TopRightCase_preview_featured.jpg" width="200px" /> |
 | [Ergodox Case PrintDox](https://www.thingiverse.com/thing:2533064) | 3d print, split | <img src="https://cdn.thingiverse.com/renders/cf/a4/a1/db/34/c62c3dfe57add30ddfdd10bba6959503_preview_featured.jpg" width="200px" /> |
 | [Fourier - Split 40% Keybaord](https://www.thingiverse.com/thing:3456985) | 3d print, split | <img src="https://cdn.thingiverse.com/renders/95/4a/57/83/a5/c67e7861a9923e60be38f20b33bc8989_preview_featured.jpg" width="200px"/> |
+| [Iris Case](https://www.thingiverse.com/thing:3545130) | 3d print, split | <img src="https://cdn.thingiverse.com/renders/c7/49/9a/e9/85/9781426efbd02367f1796f20f4918e63_preview_featured.jpg" width="200px" /> |
 | [Iris Case V2](https://www.thingiverse.com/thing:3186129) | 3d print, split | <img src="https://cdn.thingiverse.com/renders/ce/f1/6f/c4/1c/b10ee16c8aef868230d6b430237876b4_preview_featured.jpg" width="200px" /> |
 | [Iris Ice Project](https://github.com/rs/iris-ice) | 3d print, acrylic, white, led | <img src="https://github.com/rs/iris-ice/blob/master/img/iris-ice.jpg?raw=true" width="200px"/> |
 | [Iris Tenting Cases (High & Low Profile)](https://github.com/wizarddata/Iris-Case) | 3d print, tenting, split | |
