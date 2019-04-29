@@ -26,6 +26,7 @@
 | [Chimera Ergo/Ergo Mini/Ergo 42](https://github.com/GlenPickle/Chimera) | pcb | split, wireless, vertically staggered | <img src="https://i.imgur.com/AA6ycMQ.jpg" width="200px"> <img src="https://i.imgur.com/LAny3ue.jpg" width="200px"/> <img src="https://i.imgur.com/wfTsIKV.jpg" width="200px" /> |
 | [CPM43](https://github.com/Gtrx0/cpm43) | pcb | 40%, 4x12, underglow, atmega32U4, usb-c, esd | <img src="https://raw.githubusercontent.com/Gtrx0/cpm43/master/Renders/Render_Unpopulated_Front.png" width="200px" /> |
 | [Crkbd](https://github.com/foostan/crkbd) | pcb, case | split, oled, 3x6, vertically staggered, thumb keys, kailh choc | <img src="https://user-images.githubusercontent.com/736191/40575636-6fba63a4-6123-11e8-9ca0-3f990f1f9f4c.jpg" width="200px"/> |
+| [Crkbd x jian](https://github.com/kluelesskk/crkbd) | pcb, case | split, oled, 3x6, vertically staggered, thumb keys, kailh choc | <img src="https://i.imgur.com/QqnAWvG.jpg" width="200px" /> |
 | [ErgoDash](https://github.com/omkbd/ErgoDash) | pcb, case | 5x7, plate, led, split, thumb key | <img src="https://github.com/omkbd/picture/blob/master/Ergodash.jpg?raw=true" width="200px"/> |
 | [ErgoDash Mini](https://github.com/omkbd/ErgoDash/tree/master/mini) | pcb, case | 4x7, plate, led, split, thumb key | <img src="https://github.com/omkbd/picture/blob/master/Ergodashmini.jpg?raw=true" width="200px"/> |
 | [ErgoMac](https://github.com/LilBigMacky/ergomac) | pcb | split, vertically staggered, thumb keys | <img src="https://i.redd.it/6ndsci0gt0x11.jpg" width="200px"/> |
