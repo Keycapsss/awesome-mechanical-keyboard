@@ -96,6 +96,7 @@
 | Name | Available Files | Tags | Image |
 | --- | --- | --- | --- |
 | [Amoeba Single-Switch PCB](https://github.com/mtl/keyboard-pcbs) | pcb | single-switch, handwiring | <img src="https://deskthority.net/resources/image/25215" width="200px"/> |
+| [Cherry-Mx-Bitboard-Re](https://github.com/ogatatsu/Cherry-Mx-Bitboard-Re) | pcb | single-switch, handwiring, hotswap | <img src="https://github.com/ogatatsu/Cherry-Mx-Bitboard-Re/blob/master/Images/a.jpeg" width="200px" /> |
 | [Cherry MX Keypad](http://syncchannel.blogspot.com/2016/06/cherry-mx-keypad.html?m=1) | pcb | 1x4, led | <img src="https://1.bp.blogspot.com/-Mur6fIsKDwU/V1NmGd7T4QI/AAAAAAAAAyU/Fh40F8Zl41YVosa03zkJl2WPSQ7sGS_AwCLcB/s280/CherryMXkeypad1.jpg" width="200px"/> |
 | [Cookpad Pad](https://github.com/cookpad/cookpad-pad) | pcb, case | 2x3, pro micro, ws2812b, underglow | <img src="https://github.com/cookpad/cookpad-pad/raw/master/docs/images/cookpad-pad.jpg" width="200px" /> |
 | [Game cart macropad](https://www.thingiverse.com/thing:3029578) | pcb, case | 4x4, 3d print | <img src="https://cdn.thingiverse.com/renders/f2/ab/f5/bd/7a/590674241125b3f375c064646978a1d0_preview_featured.jpg" width="200px"/> |
