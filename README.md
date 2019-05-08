@@ -178,6 +178,7 @@
 
 ## Miscellaneous
 - [BLE Micro Pro](https://github.com/sekigon-gonnoc/BLE-Micro-Pro) - is a breakout board of BL654(nrf52840 module) which is almost compatible with Pro Micro. This board is designed for wireless split DIY keyboards
+- [Cherry Popper](https://www.thingiverse.com/thing:2685653) - 3D printable Mechanical Keyboard Switch Opening Tool
 - [Keyrigami](https://github.com/geckopfote/keyrigami) - Keycaps made from paper
 - [Kailh-Low-Profile-Keycap](https://github.com/ogatatsu/Kailh-Low-Profile-Keycap) - Kailh Low Profile Keycap 3D files
 - [KiCad Parts by Ai03](https://github.com/ai03-2725/MX_Alps_Hybrid.pretty) - KiCad Library of custom MX-Alps footprints
