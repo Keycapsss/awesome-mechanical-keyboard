@@ -109,6 +109,7 @@
 | [Kbord](https://github.com/dekuNukem/kbord) | pcb, case | 5x3, oled, rgb, sd-card | <img src="https://github.com/dekuNukem/kbord/raw/master/pics/title.jpg" width="200px"/> |
 | [LFK17](https://github.com/lfkeyboards/lfk17) | pcb | 5x4, numpad, hotswap, rgb | <img src="https://i.imgur.com/N4x5wXp.jpg" width="200px"/> |
 | [Lysergic 25](https://github.com/Gtrx0/lysergic25) | pcb, plate | 5x5, pro micro, plate, underglow, ws2812b, esd, usb-c | <img src="https://raw.githubusercontent.com/Gtrx0/lysergic25/master/Renders/Backside_populated.png" width="200px" /> |
+| [Meishi2](https://github.com/Biacco42/meishi2) | pcb | 1x4, pro micro | <img src="https://i.imgur.com/2SQqVlZ.png" width="200px"/> |
 | [SAMD21 Bridge Module Cherry Board](https://www.pcbway.com/project/shareproject/DIY_RGB_Cherry_MX_Hotkey_Board.html) | pcb, case | plate | <img src="https://file.pcbway.com/websponsor/18/07/26/195654072.jpg" width="200px" /> |
 | [Zesty 25](https://github.com/Gtrx0/zesty25) | pcb, case | 5x5, pro micro, plate, underglow, ws2812b | <img src="https://raw.githubusercontent.com/Gtrx0/zesty25/master/Renders/Backside_Unpopulated.png" width="200px" /> |
 | []() |  |  |  |
