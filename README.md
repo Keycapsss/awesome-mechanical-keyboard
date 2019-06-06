@@ -50,7 +50,6 @@
 | [Tg4x](https://github.com/MythosMann/tg4x) | pcb, case | pro micro, 40% | <img src="https://raw.githubusercontent.com/MythosMann/tg4x/master/pcb_raytrace.png" width="200px"/> |
 | [Ultimate Hacking Keyboard](https://github.com/UltimateHackingKeyboard/electronics) | pcb | split, display, 31FL3731 | <img src="https://ultimatehackingkeyboard.com/wordpress/wp-content/uploads/2018/07/uhk-split-palm-rest-1920.jpg" width="200px"/> |
 | [Voyager](https://github.com/ai03-2725/Voyager) | pcb | 60%, ansi, iso, rgb, led | <img src="https://raw.githubusercontent.com/ai03-2725/Voyager104/master/Renders/Front.png" width="200px"/> |
-| [Voyager65](https://github.com/ai03-2725/Voyager65) | pcb | 65%, usb-c, atxmega32a4u, rgb, underglow, switch-rgb-led, IS31FL3733 | <img src="https://raw.githubusercontent.com/ai03-2725/Voyager65/master/Renders/Back.png" width="200px"/> |
 | [XMMX TKL](https://geekhack.org/index.php?topic=93422.0) | pcb |  | <img src="https://i.imgur.com/otn8LT3.jpg" width="200px"/> |
 | []() |  |  |  |
 
@@ -107,7 +106,6 @@
 | [Cookpad Pad](https://github.com/cookpad/cookpad-pad) | pcb, case | 2x3, pro micro, ws2812b, underglow | <img src="https://github.com/cookpad/cookpad-pad/raw/master/docs/images/cookpad-pad.jpg" width="200px" /> |
 | [Game cart macropad](https://www.thingiverse.com/thing:3029578) | pcb, case | 4x4, 3d print | <img src="https://cdn.thingiverse.com/renders/f2/ab/f5/bd/7a/590674241125b3f375c064646978a1d0_preview_featured.jpg" width="200px"/> |
 | [GeekPad](https://git.bthlabs.pl/tomekwojcik/geekpad/) | pcb, case | 3x3, 3d print | <img src="https://i.imgur.com/FEzO81l.jpg" width="200px"/> |
-| [Hayabusa](https://github.com/ai03-2725/Hayabusa) | pcb | 5x5, rgb, ws2812b, pro micro | <img src="https://raw.githubusercontent.com/ai03-2725/Hayabusa/master/Renders/Front.png?rev=1.0" width="200px"/> |
 | [Kbord](https://github.com/dekuNukem/kbord) | pcb, case | 5x3, oled, rgb, sd-card | <img src="https://github.com/dekuNukem/kbord/raw/master/pics/title.jpg" width="200px"/> |
 | [LFK17](https://github.com/lfkeyboards/lfk17) | pcb | 5x4, numpad, hotswap, rgb | <img src="https://i.imgur.com/N4x5wXp.jpg" width="200px"/> |
 | [Lysergic 25](https://github.com/Gtrx0/lysergic25) | pcb, plate | 5x5, pro micro, plate, underglow, ws2812b, esd, usb-c | <img src="https://raw.githubusercontent.com/Gtrx0/lysergic25/master/Renders/Backside_populated.png" width="200px" /> |
@@ -158,7 +156,6 @@
 - [Plate & Case Builder](http://builder.swillkb.com) - Keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts.
 - [Q2K](https://github.com/2hwk/Q2K) - A python based utility for parsing QMK Firmware keymaps to various outputs.
 - [QMK Configurator](https://config.qmk.fm/) - An open source configurator for QMK Firmware.
-- [TMK Firmware Builder](http://kb.sized.io) - Online TMK Firmware Builder.
 - [kbd-prettier](https://github.com/blakedietz/kbd-prettier) - Automatically format your keyboard layout.
 
 ## Firmware
