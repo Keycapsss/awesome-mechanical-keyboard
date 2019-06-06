@@ -1,9 +1,13 @@
 # Awesome Mechanical Keyboard [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Table of Contents
+> keyboard A curated list of awesome Mechanical Keyboard resources.
+
+- [Contribution guide](CONTRIBUTING.md)
+
+## Contents
 
 - [Keyboards](#keyboards)
-- [Ortholinear-Keyboards](#ortholinear-Keyboards)
+- [Ortholinear-Keyboards](#ortholinear-keyboards)
 - [Handwired](#handwired)
 - [Numpad/Macropad](#numpadmacropad)
 - [Case](#case)
@@ -194,8 +198,10 @@
 - [XDA Keycap 3D Models](https://github.com/spooknik/XDA-Keycaps)
 
 ---
-### Contributing
-Contributions welcome!
+## Contributing
 
-### License
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## License
+
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
