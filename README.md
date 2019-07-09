@@ -39,6 +39,7 @@
 | [Gameboy Keyboard case](https://www.thingiverse.com/thing:3007828) | case, pcb | 3d print, pcb | <img src="https://cdn.thingiverse.com/renders/4c/5f/a1/08/09/5d5fe686b8dbcc86c38133f7487ddcf5_preview_featured.JPG" width="200px"/> |
 | [GH60](https://github.com/komar007/gh60) | pcb | 60%, atmega32U4 | <img src="http://blog.komar.be/wp-content/uploads/2016/05/pcb_back.png" width="200px"/> |
 | [HacKeyboard](https://github.com/masaleiro/HacKeyboard) | pcb, case |  | <img src="https://cdn.instructables.com/F9P/KCPI/IGV4DBXA/F9PKCPIIGV4DBXA.LARGE.jpg" width="200px"/> |
+| [Kissboard](https://github.com/fhtagnn/kissboard) | pcb | split, thumb keys, vertically staggered | <img src="https://github.com/fhtagnn/kissboard/blob/master/schematics/kissboard_top.png" width="200px"/> |
 | [MiniDox pcb](https://github.com/That-Canadian/MiniDox_pcb) | pcb | split, 3x5, vertically staggered, thumb keys | <img src="https://camo.githubusercontent.com/d8925d5e754c3a8998db4ad9874c1d8b093901f2/687474703a2f2f692e696d6775722e636f6d2f69576233794f302e6a7067" width="200px"/> |
 | [Mitosis](https://github.com/reversebias/mitosis-hardware) | pcb, case | split, wireless | <img src="https://i.imgur.com/gApMkzz.jpg" width="200px"/> |
 | [Orbit](https://github.com/ai03-2725/Orbit) | pcb | split, 5x7, thumb keys, usb-c | <img src="https://raw.githubusercontent.com/ai03-2725/Orbit/master/Images/PCB-R1.5.jpg" width="200px"/> |
