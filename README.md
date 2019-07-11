@@ -165,6 +165,7 @@
 - [Keyplus](https://github.com/ahtn/keyplus)
 - [QMK](https://github.com/qmk/qmk_firmware)
 - [TMK](https://github.com/tmk/tmk_keyboard)
+- [Mechy](https://github.com/colinta/Mechy) - Arduino compatible, plugin based.
 
 
 ## Tutorials
