@@ -2,7 +2,7 @@
 The goal of this repository is to collect mechanical keyboard related projects (preferably Open Source).
 
 View the pages on [Keebfol.io](https://keebfol.io) or GitHub:
-- [Keyboards](docs/Readme.md)
+- [Keyboards](docs/README.md)
 - [Tools](docs/tools.md)
 - [Firmware](docs/firmware.md)
 - [Tutorials](docs/tutorials.md)
