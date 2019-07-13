@@ -1,0 +1,50 @@
+@tailwind base;
+
+body {
+  @apply text-primary-dark;
+}
+.active--exact {
+  @apply font-bold;
+  @apply text-primary;
+}
+a:hover{
+    @apply text-primary;
+}
+h1 {
+  @apply text-3xl;
+  @apply font-bold;
+  @apply mb-4;
+}
+
+h2 {
+  @apply text-2xl;
+  @apply font-bold;
+  @apply mt-8;
+}
+
+h3 {
+  @apply text-xl;
+  @apply mt-4;
+}
+tr {
+  @apply border-b;
+}
+td {
+  @apply py-2;
+}
+.content {
+  @apply leading-loose;
+}
+.content a {
+  @apply border-b-2;
+}
+.content a:hover {
+  @apply border-primary;
+}
+.content ul {
+  @apply ml-5;
+  @apply list-disc;
+}
+
+@tailwind components;
+@tailwind utilities;

@@ -1,0 +1,12 @@
+- title: Section 1
+  items:
+    - title: Keyboards
+      link:  /
+    - title: Firmware
+      link: /firmware
+    - title: Tools
+      link: /tools
+    - title: Tutorials
+      link: /tutorials
+    - title: Miscellaneous
+      link:  /miscellaneous
