@@ -13,41 +13,15 @@
 </template>
 
 <script>
-import 'vue-good-table/dist/vue-good-table.css'
-import { VueGoodTable } from 'vue-good-table';
-
-const axios = require('axios');
 
 export default {
   metaInfo: {
     title: 'Mechanical Keyboard Switch Database'
   },
-  components: {
-    VueGoodTable,
-  },
   data(){
     return {
       switches: null,
-      columns: [
-        {
-          label: 'Id',
-          field: 'id',
-        },
-        {
-          label: 'Marke',
-          field: 'brand',
-        },
-        {
-          label: 'Type',
-          field: 'type',
-        },
-      ],
     };
-  },
-  mounted: function () {
-    axios
-    .get('https://benroe.github.io/switch-database/mechanical-keyboard-switches.json')
-    .then(response => (this.switches = response.data))
   }
 }
 </script>
