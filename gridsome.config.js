@@ -19,7 +19,15 @@ module.exports = {
   },
   plugins: [
     {
-      use: 'gridsome-plugin-tailwindcss'
+      use: 'gridsome-plugin-tailwindcss',
+      options: {
+        // tailwindConfig: './some/file/js',
+        // purgeConfig: {},
+        // presetEnvConfig: {},
+        shouldPurge: false, // https://www.purgecss.com/with-postcss
+        shouldImport: true, // https://github.com/postcss/postcss-import
+        shouldTimeTravel: true, // https://github.com/csstools/postcss-preset-env
+      }
     },
     {
       use: '@gridsome/source-filesystem',
