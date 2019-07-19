@@ -6,9 +6,29 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 // const axios = require('axios')
+const path = require('path')
+const fs = require('fs-extra')
+const yaml = require('js-yaml')
 
 module.exports = function (api) {
   api.loadSource(async store => {
+    
+    // updates
+    const updatesPath = path.join(__dirname, 'src/data/rss.yaml')
+    const updatesRaw = await fs.readFile(updatesPath, 'utf8')
+    const updatesJson = yaml.safeLoad(updatesRaw)
+    const updates = store.addContentType({
+      typeName: 'Updates',
+      route: '/updates/:title'
+    })
+
+    updatesJson.forEach((update, index) => {
+      updates.addNode({
+        ...update,
+        index
+      })
+    })
+    
     // const { data } = await axios.get('https://benroe.github.io/switch-database/mechanical-keyboard-switches.json')
 
     // const contentType = store.addContentType({

@@ -4,7 +4,6 @@
 // Changes here require a server restart.
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
-
 module.exports = {
   siteName: 'Keebfol.io',
   siteDescription: 'Curated list of mechanical keyboard resources.',
@@ -17,8 +16,7 @@ module.exports = {
       .use('vue-svg-loader')
       .loader('vue-svg-loader')
   },
-  plugins: [
-    {
+  plugins: [{
       use: 'gridsome-plugin-tailwindcss',
       options: {
         // tailwindConfig: './some/file/js',
@@ -43,6 +41,28 @@ module.exports = {
               value: '#'
             }
           }
+        }
+      }
+    },
+    {
+      use: 'gridsome-plugin-rss',
+      options: {
+        contentTypeName: 'Updates',
+        feedOptions: {
+          title: 'Keebfol.io - A Mechanical Keyboard Wiki',
+          feed_url: 'https://keebfol.io/rss.xml',
+          site_url: 'https://keebfol.io'
+        },
+        feedItemOptions: node => ({
+          title: node.title,
+          description: node.description,
+          date: node.date,
+          url: 'https://keebfol.io/' + node.url,
+          guid: node.index
+        }),
+        output: {
+          dir: './static/',
+          name: 'rss.xml'
         }
       }
     }

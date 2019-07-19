@@ -15,10 +15,14 @@
     "gridsome": "^0.6.6"
   },
   "devDependencies": {
-    "vue-svg-loader": "^0.12.0",
-    "gridsome-plugin-tailwindcss": "^2.2.15",
     "@gridsome/source-filesystem": "^0.5.0",
     "@gridsome/transformer-csv": "^0.2.1",
-    "@gridsome/transformer-remark": "^0.3.2"
+    "@gridsome/transformer-remark": "^0.3.2",
+    "@gridsome/transformer-yaml": "^0.2.1",
+    "fs-extra": "^8.1.0",
+    "gridsome-plugin-rss": "^1.1.0",
+    "gridsome-plugin-tailwindcss": "^2.2.15",
+    "js-yaml": "^3.13.1",
+    "vue-svg-loader": "^0.12.0"
   }
 }
