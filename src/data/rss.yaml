@@ -1,8 +1,8 @@
 - title: "Add kissboard to keyboards"
-  url: "/#keyboards"
+  url: "#keyboards"
   date: 2019-04-16 20:10:00.00
   description: 'Add kissboard keyboards <img src="https://github.com/fhtagnn/kissboard/blob/master/schematics/kissboard_top.png?raw=true" width="300px">'
 - title: "Add Mechy to firmware"
-  url: "/firmware"
+  url: "firmware"
   date: 2019-04-16 20:00:00.00
   description: "Add Mechy to firmware"

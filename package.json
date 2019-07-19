@@ -1,6 +1,12 @@
 {
-  "name": "andremadarang",
+  "name": "awesome-mechanical-keyboard",
   "private": false,
+  "keywords": ["mechanical-keyboards", "gridsome", "wiki", "awesome-list"],
+  "homepage": "https://keebfol.io",
+  "author": {
+    "name": "Ben Roe",
+    "url": "https://twitter.com/ben_roe"
+  },
   "scripts": {
     "build": "gridsome build",
     "develop": "gridsome develop",
