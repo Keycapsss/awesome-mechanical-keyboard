@@ -8,7 +8,7 @@
       <slot/>
     </div>
 
-    <!-- <Footer /> -->
+    <Footer />
 
   </div>
 </template>
@@ -23,12 +23,12 @@ query {
 
 <script>
 import Header from './partials/Header'
-// import Footer from './partials/Footer'
+import Footer from './partials/Footer'
 
 export default {
   components: {
     Header,
-    // Footer,
+    Footer,
   }
 };
 </script>

@@ -1,7 +1,12 @@
 {
   "name": "awesome-mechanical-keyboard",
   "private": false,
-  "keywords": ["mechanical-keyboards", "gridsome", "wiki", "awesome-list"],
+  "keywords": [
+    "mechanical-keyboards",
+    "gridsome",
+    "wiki",
+    "awesome-list"
+  ],
   "homepage": "https://keebfol.io",
   "author": {
     "name": "Ben Roe",
@@ -22,6 +27,7 @@
   },
   "devDependencies": {
     "@gridsome/source-filesystem": "^0.5.0",
+    "@gridsome/source-graphql": "^0.1.0",
     "@gridsome/transformer-csv": "^0.2.1",
     "@gridsome/transformer-remark": "^0.3.2",
     "@gridsome/transformer-yaml": "^0.2.1",

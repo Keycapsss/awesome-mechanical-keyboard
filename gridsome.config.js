@@ -65,7 +65,19 @@ module.exports = {
           name: 'rss.xml'
         }
       }
-    }
+    },
+    {
+      use: '@gridsome/source-graphql',
+      options: {
+        url: process.env.GITHUB_API_V4_URL,
+        fieldName: 'github',
+        typeName: 'githubTypes',
+
+        headers: {
+          Authorization: `Bearer ${process.env.GITHUB_AUTH_TOKEN}`,
+        },
+      },
+    },
   ],
   transformers: {
     remark: {
