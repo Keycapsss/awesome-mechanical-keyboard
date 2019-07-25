@@ -48,36 +48,36 @@
       </div>
       <!-- /Sidebar Nav -->
       <!-- Content -->
-      <div class="w-full lg:w-4/5 lg:p-8 lg:mt-0 leading-normal bg-white lg:border-l border-gray-300">
+      <div class="w-full lg:w-4/5 lg:p-6 lg:mt-0 leading-normal bg-white">
         <slot />
-        <hr class="mt-10 border-b border-gray-400">
-        <p>
+        <!--Back link -->
+        <div class="w-full lg:ml-auto mt-8 text-base">        
+          <nav class="flex">
+            <div class="flex-grow text-left">
+              <g-link v-if="previousPage" :to="previousPage.link"
+                      class="text-base md:text-sm font-bold text-gray-600">
+                <font-awesome :icon="['fas', 'caret-left']" class="mr-1"/>
+                {{ previousPage.title }}
+              </g-link>
+            </div>
+            <div class="flex-grow text-right">
+              <g-link v-if="nextPage" :to="nextPage.link"
+                      class="text-base md:text-sm font-bold text-gray-600">
+                {{ nextPage.title }}
+                <font-awesome :icon="['fas', 'caret-right']" class="mr-1"/>
+              </g-link>
+            </div>
+          </nav>
+        </div>    
+        <!-- /Content -->
+        <!-- <hr class="mb-6 border-b border-gray-400"> -->
+        <p class="mt-20">
           <a :href="editLink" target="_blank">
             <font-awesome :icon="['fab', 'github']" class="mr-1"/>
             <span>Edit this page on GitHub</span>
           </a>
         </p>
       </div>
-      <!-- /Content -->
-      <!--Back link -->
-      <div class="w-full lg:w-4/5 lg:ml-auto text-base">        
-        <nav class="flex">
-          <div class="flex-grow text-left pl-10 py-6">
-            <g-link v-if="previousPage" :to="previousPage.link"
-                    class="text-base md:text-sm font-bold text-gray-400">
-              <span class="text-base font-bold">&lt;</span>
-              {{ previousPage.title }}
-            </g-link>
-          </div>
-          <div class="flex-grow text-right pr-8 py-6">
-            <g-link v-if="nextPage" :to="nextPage.link"
-                    class="text-base md:text-sm font-bold text-gray-400">
-              {{ nextPage.title }}
-              <span class="text-base font-bold">&gt;</span>
-            </g-link>
-          </div>
-        </nav>
-      </div>    
   </Layout>
 </template>
 
