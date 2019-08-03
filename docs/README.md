@@ -23,7 +23,7 @@
 | [Fortitude60](https://github.com/Pekaso/fortitude60) | pcb, case | 60%, 4x6, split, vertically staggered | <img src="https://camo.githubusercontent.com/b5a0fefe70132b6c9777bbba546fcd872d97ceae/68747470733a2f2f692e696d6775722e636f6d2f54627a6e7767672e6a7067" width="200px" /> |
 | [Fourier](https://github.com/keebio/fourier) | pcb | split, staggered | <img src="https://camo.githubusercontent.com/3dadc57ab6cb05e7d43de5b1570f60c645914347/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f313835312f353132352f70726f64756374732f696d6167655f31643338373933632d656262362d346466382d626162352d3933333136323632386665355f3130323478313032344032782e6a70673f763d31353139393731373937" width="200px" /> |
 | [Gameboy Keyboard case](https://www.thingiverse.com/thing:3007828) | case, pcb | 3d print, pcb | <img src="https://cdn.thingiverse.com/renders/4c/5f/a1/08/09/5d5fe686b8dbcc86c38133f7487ddcf5_preview_featured.JPG" width="200px"/> |
-| [GH60](https://github.com/komar007/gh60) | pcb | 60%, atmega32U4 | <img src="http://blog.komar.be/wp-content/uploads/2016/05/pcb_back.png" width="200px"/> |
+| [GH60](https://github.com/komar007/gh60) | pcb | 60%, atmega32U4 | <img src="https://camo.githubusercontent.com/fdc087b8362f264e37c17212c78026bfaaa285be/687474703a2f2f626c6f672e6b6f6d61722e62652f77702d636f6e74656e742f75706c6f6164732f323031332f30322f747474312d363430783235372e6a7067" width="200px"/> |
 | [HacKeyboard](https://github.com/masaleiro/HacKeyboard) | pcb, case |  | <img src="https://cdn.instructables.com/F9P/KCPI/IGV4DBXA/F9PKCPIIGV4DBXA.LARGE.jpg" width="200px"/> |
 | [Kissboard](https://github.com/fhtagnn/kissboard) | pcb, case | split, thumb keys, vertically staggered, mx, bluetooth, pro micro, 3d print | <img src="https://github.com/fhtagnn/kissboard/blob/master/schematics/kissboard_top.png?raw=true" width="200px"/> |
 | [MiniDox pcb](https://github.com/That-Canadian/MiniDox_pcb) | pcb | split, 3x5, vertically staggered, thumb keys | <img src="https://camo.githubusercontent.com/d8925d5e754c3a8998db4ad9874c1d8b093901f2/687474703a2f2f692e696d6775722e636f6d2f69576233794f302e6a7067" width="200px"/> |
@@ -34,10 +34,9 @@
 | [Redox](https://github.com/mattdibi/redox-keyboard) | case | split, thumb keys, opensCad, 3d print | <img src="https://cdn.thingiverse.com/renders/62/c5/d6/91/6f/f23021b44a5e59a6838fc8b440fb8b56_preview_featured.jpg" width="200px"/> |
 | [SB-147](https://github.com/sealclubber/SB-147) | case | 3d print, handwiring | <img src="https://i.imgur.com/VWGHzfU.jpg" width="200px" /> |
 | [Tanuki](https://github.com/SethSenpai/Tanuki) | pcb, case | 40%, underglow | <img src="https://github.com/SethSenpai/Tanuki/raw/master/Img/glamour1.jpg" width="200px"/> |
-| [Tg4x](https://github.com/MythosMann/tg4x) | pcb, case | pro micro, 40% | <img src="https://raw.githubusercontent.com/MythosMann/tg4x/master/pcb_raytrace.png" width="200px"/> |
+| [Tg4x](https://github.com/MythosMann/tg4x) | pcb, case | pro micro, 40% | <img src="https://raw.githubusercontent.com/MythosMann/tg4x/master/pcb.jpg" width="200px"/> |
 | [Ultimate Hacking Keyboard](https://github.com/UltimateHackingKeyboard/electronics) | pcb | split, display, 31FL3731 | <img src="https://ultimatehackingkeyboard.com/wordpress/wp-content/uploads/2018/07/uhk-split-palm-rest-1920.jpg" width="200px"/> |
 | [Voyager](https://github.com/ai03-2725/Voyager) | pcb | 60%, ansi, iso, rgb, led | <img src="https://raw.githubusercontent.com/ai03-2725/Voyager104/master/Renders/Front.png" width="200px"/> |
-| [Voyager65](https://github.com/ai03-2725/Voyager65) | pcb | 65%, usb-c, atxmega32a4u, rgb, underglow, switch-rgb-led, IS31FL3733 | <img src="https://raw.githubusercontent.com/ai03-2725/Voyager65/master/Renders/Back.png" width="200px"/> |
 | [XMMX TKL](https://geekhack.org/index.php?topic=93422.0) | pcb |  | <img src="https://i.imgur.com/otn8LT3.jpg" width="200px"/> |
 
 ## Ortholinear-Keyboards
@@ -92,8 +91,7 @@
 | [Cookpad Pad](https://github.com/cookpad/cookpad-pad) | pcb, case | 2x3, pro micro, ws2812b, underglow | <img src="https://github.com/cookpad/cookpad-pad/raw/master/docs/images/cookpad-pad.jpg" width="200px" /> |
 | [Game cart macropad](https://www.thingiverse.com/thing:3029578) | pcb, case | 4x4, 3d print | <img src="https://cdn.thingiverse.com/renders/f2/ab/f5/bd/7a/590674241125b3f375c064646978a1d0_preview_featured.jpg" width="200px"/> |
 | [GeekPad](https://git.bthlabs.pl/tomekwojcik/geekpad/) | pcb, case | 3x3, 3d print | <img src="https://i.imgur.com/FEzO81l.jpg" width="200px"/> |
-| [Hayabusa](https://github.com/ai03-2725/Hayabusa) | pcb | 5x5, rgb, ws2812b, pro micro | <img src="https://raw.githubusercontent.com/ai03-2725/Hayabusa/master/Renders/Front.png?rev=1.0" width="200px"/> |
-| [Kbord](https://github.com/dekuNukem/kbord) | pcb, case | 5x3, oled, rgb, sd-card | <img src="https://github.com/dekuNukem/kbord/raw/master/pics/title.jpg" width="200px"/> |
+| [Kbord](https://github.com/dekuNukem/kbord) | pcb, case | 5x3, oled, rgb, sd-card | <img src="https://github.com/dekuNukem/kbord/raw/master/resources/pics/title.jpg" width="200px"/> |
 | [LFK17](https://github.com/lfkeyboards/lfk17) | pcb | 5x4, numpad, hotswap, rgb | <img src="https://i.imgur.com/N4x5wXp.jpg" width="200px"/> |
 | [Lysergic 25](https://github.com/Gtrx0/lysergic25) | pcb, plate | 5x5, pro micro, plate, underglow, ws2812b, esd, usb-c | <img src="https://raw.githubusercontent.com/Gtrx0/lysergic25/master/Renders/Backside_populated.png" width="200px" /> |
 | [Meishi2](https://github.com/Biacco42/meishi2) | pcb | 1x4, pro micro | <img src="https://i.imgur.com/2SQqVlZ.png" width="200px"/> |
