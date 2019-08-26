@@ -75,6 +75,7 @@
 | [Atreis](https://github.com/dekonnection/atreis) | case | handwiring | <img src="https://github.com/dekonnection/atreis/raw/master/pictures/GPI0El4.jpg" width="200px"/> |
 | [Atreus Split Keyboard](https://www.thingiverse.com/thing:1646718) | case | 3d print, split, pro micro | <img src="https://cdn.thingiverse.com/renders/2a/35/f6/bd/51/ee77cfa99ac6c721974f6eb92a52cce9_preview_featured.jpg" width="200px" /> |
 | [Ergo-Warped](https://github.com/pseudoku/ErgoWarp) | case | 3d print, split, ergo | <img src="https://raw.githubusercontent.com/pseudoku/Warped-keyboard/master/Photo/Proto6.jpg" width="200px" /> |
+| [fAuxLICE](https://github.com/ramonimbao/Alice-like_Handwired) | case | 3d print, handwiring, stm32, ergo | <img src="https://raw.githubusercontent.com/ramonimbao/Alice-like_Handwired/master/images/outside.jpg" width="200px"> |
 | [Keyberon](https://github.com/TeXitoi/keyberon) | case, firmware | 3d print, handwiring, blue pill, ortholinear | <img src="https://raw.githubusercontent.com/TeXitoi/keyberon/master/images/keyberon.jpg" width="200px" /> |
 | [Mechanical Gamepad](https://www.thingiverse.com/thing:2593692) | case | 3d print, handwiring, pro micro, ortholinear | <img src="https://cdn.thingiverse.com/renders/61/74/20/bf/6f/387305d39edce0ec7409172e37eee126_preview_featured.jpg" width="200px" /> |
 | [Redox Manuform](https://www.thingiverse.com/thing:3503380) | case | 3d print, split, pro micro, underglow | <img src="https://cdn.thingiverse.com/renders/f5/89/b2/6b/a1/8d89de5ce484ac624324fb657f01e06e_preview_featured.jpg" width="200px" /> |
