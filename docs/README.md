@@ -116,7 +116,7 @@
 | [Fourier - Split 40% Keybaord](https://www.thingiverse.com/thing:3456985) | 3d print, split | <img src="https://cdn.thingiverse.com/renders/95/4a/57/83/a5/c67e7861a9923e60be38f20b33bc8989_preview_featured.jpg" width="200px"/> |
 | [Iris Case](https://www.thingiverse.com/thing:3545130) | 3d print, split | <img src="https://cdn.thingiverse.com/renders/c7/49/9a/e9/85/9781426efbd02367f1796f20f4918e63_preview_featured.jpg" width="200px" /> |
 | [Iris Case V2](https://www.thingiverse.com/thing:3186129) | 3d print, split | <img src="https://cdn.thingiverse.com/renders/ce/f1/6f/c4/1c/b10ee16c8aef868230d6b430237876b4_preview_featured.jpg" width="200px" /> |
-| [Iris Mech Build](https://github.com/lukeg101/Iris-Mech-Build) | acrylic, brushed copper, grey, led, Zealios v2 67g, industrial  | <img src="https://github.com/lukeg101/Iris-Mech-Build/raw/master/images/IMG_8335.JPG" width="200px"/> |
+| [Iris Mech Build](https://github.com/lukeg101/Iris-Mech-Build) | acrylic, brushed copper, led  | <img src="https://github.com/lukeg101/Iris-Mech-Build/raw/master/images/IMG_8335.JPG" width="200px"/> |
 | [Iris Ice Project](https://github.com/rs/iris-ice) | 3d print, acrylic, white, led | <img src="https://github.com/rs/iris-ice/blob/master/img/iris-ice.jpg?raw=true" width="200px"/> |
 | [Iris Tenting Cases (High & Low Profile)](https://github.com/wizarddata/Iris-Case) | 3d print, tenting, split | |
 | [Let's Split Keyboard Angled Case](https://www.thingiverse.com/thing:2626039) | 3d print, split, ortholinear | <img src="https://cdn.thingiverse.com/renders/e8/05/1a/03/99/429c22d5f6e9df54f0b98e73d0ec0a19_preview_featured.jpg" width="200px"/> |
