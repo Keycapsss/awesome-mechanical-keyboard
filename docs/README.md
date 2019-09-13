@@ -32,7 +32,7 @@
 | [Mullet](https://github.com/coseyfannitutti/mullet) | pcb, case | staggered, smd, usb-c, underglow, atmega32u4 | <img src="https://camo.githubusercontent.com/2dac93377903e99500664ec9f6908cd68746fd63/68747470733a2f2f692e696d6775722e636f6d2f45424f4d6268482e6a7067" width="200px" /> |
 | [Orbit](https://github.com/ai03-2725/Orbit) | pcb | split, 5x7, thumb keys, usb-c | <img src="https://raw.githubusercontent.com/ai03-2725/Orbit/master/Images/PCB-R1.5.jpg" width="200px"/> |
 | [Plain60-c](https://github.com/Maartenwut/plain60-c) | pcb | 60%, usb-c, atmega32U4 | <img src="https://camo.githubusercontent.com/85b21ccd9dfe95a86407fda6b1ee7ba14ec57bf4/68747470733a2f2f692e696d6775722e636f6d2f4f774f503956622e706e67" width="200px"/> |
-| [pteron](https://github.com/FSund/pteron-keyboard) | case | 3x5, 3x6, 4x6, handwiring, pro micro | <img src="https://camo.githubusercontent.com/9f0a06184893760528f1c5db991c5463d403b528/68747470733a2f2f692e696d6775722e636f6d2f395168506c56442e6a7067" width="200px"/> |
+| [Pteron](https://github.com/FSund/pteron-keyboard) | case | 3x5, 3x6, 4x6, handwiring, pro micro | <img src="https://camo.githubusercontent.com/9f0a06184893760528f1c5db991c5463d403b528/68747470733a2f2f692e696d6775722e636f6d2f395168506c56442e6a7067" width="200px"/> |
 | [Redox](https://github.com/mattdibi/redox-keyboard) | case | split, thumb keys, opensCad, 3d print | <img src="https://cdn.thingiverse.com/renders/62/c5/d6/91/6f/f23021b44a5e59a6838fc8b440fb8b56_preview_featured.jpg" width="200px"/> |
 | [SB-147](https://github.com/sealclubber/SB-147) | case | 3d print, handwiring | <img src="https://i.imgur.com/VWGHzfU.jpg" width="200px" /> |
 | [Tanuki](https://github.com/SethSenpai/Tanuki) | pcb, case | 40%, underglow | <img src="https://github.com/SethSenpai/Tanuki/raw/master/Img/glamour1.jpg" width="200px"/> |
@@ -62,7 +62,7 @@
 | [Manta 60](https://github.com/KamoNanban/Manta60) | pcb, case | 5x14, split, pro micro | <img src="https://pbs.twimg.com/media/Dy80wXGU0AAGZdK.jpg:large" width="200px" /> |
 | [Medusa](https://github.com/Gtrx0/Medusa) | pcb, case | 5x7, split, plate, bluetooth, nrf51822 | <img src="https://raw.githubusercontent.com/Gtrx0/Medusa/master/Renders/Front_Unpopulated.png?token=Anj1gDvVpb9Dt8Z8Zj3Az4azN7Fm_8hTks5bm9WJwA%3D%3D" width="200px" /> |
 | [Minisplit](https://github.com/kata0510/minisplit) | pcb, case | split, 4x6 | <img src="https://camo.githubusercontent.com/74766a3dbaf2b8a9ab8dae5c6cf656a7a0b9a9ac/68747470733a2f2f692e696d6775722e636f6d2f7a7767417251562e706e67" width="200px"/> |
-| [Plaid](https://github.com/hsgw/plaid) | pcb | 4x12, atmega328p | <img src="https://user-images.githubusercontent.com/2714926/49872071-481ae000-fe5b-11e8-963d-8aaa3a653e4d.jpg" width="200px"/> |
+| [Plaid](https://github.com/hsgw/plaid) | pcb | 4x12, atmega328p, through hole | <img src="https://user-images.githubusercontent.com/2714926/49872071-481ae000-fe5b-11e8-963d-8aaa3a653e4d.jpg" width="200px"/> |
 | [Planck THK](https://github.com/olkb/planck_thk) | pcb, case | 4x12, rotary encoder | <img src="https://i.imgur.com/Jiy1jLN.jpg" width="200px"/> |
 | [QOL56](https://github.com/eswai/QOL56) | pcb, case | 4x14, pro micro, underglow, rgb | <img src="https://github.com/eswai/QOL56/raw/master/qol56-7.jpg" width="200px" /> |
 | [Science](https://github.com/peej/for-science-keyboard) | pcb | split, arduino, 5x5| <img src="https://camo.githubusercontent.com/fecf6f7bca9ec8b93e4031caa1ca3442cfb5a5f1/68747470733a2f2f692e696d6775722e636f6d2f666a6e546b42312e6a7067" width="200px"/> |
