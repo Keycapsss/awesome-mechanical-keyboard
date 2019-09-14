@@ -12,6 +12,12 @@
 - QMK Proton C symbol/footprint for [KiCad](https://github.com/qmk/qmk_hardware/tree/master/kicad/proton_c), [Eagle](https://github.com/qmk/qmk_hardware/tree/master/eagle)
 - [XDA Keycap 3D Models](https://github.com/spooknik/XDA-Keycaps)
 
+## Keyboard Controller
+| Name | Description | Tags | Image |
+| --- | --- | :---: | :---: |
+| [Adafruit Feather 32u4 Bluefruit LE](https://github.com/adafruit/Adafruit-Feather-32u4-Bluefruit-LE-PCB) | BLE controller with full QMK support | atmega32u4, nRF51822, micro usb, bluetooth, eaglecad |  |
+| [Goldfish](https://github.com/Dr-Derivative/Goldfish) | A thin, USB-C, Pro Micro/Elite-C compatible microcontroller | pro micro, atmega32u4, usb-c, kicad |  |
+
 ## Games
 - [Typing Game](https://hsgw.github.io/typing_game/) - for keyboard exhibition. ranking and dictionary data is stored in local pc. you can use offline. [Github](https://github.com/hsgw/typing_game)
 - [Typings](https://typings.gg/) - is a sleek and modern typing test website. it supports many custom themes. [Github](https://github.com/briano1905/typings)
