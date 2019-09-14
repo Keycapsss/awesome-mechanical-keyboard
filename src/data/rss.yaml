@@ -1,6 +1,10 @@
+- title: "Add new content to the Miscellaneous page and MK32 firmware"
+  url: "#miscellaneous"
+  date: 2019-09-14 12:00:00.00
+  description: "Add a game section and the game typings. <br/>Add Keyboard Controller section and Adafruit Feather 32u4 Bluefruit LE, Goldfish."
 - title: "Add some keyboards and macro pads"
   url: "#keyboards"
-  date: 2019-04-19 17:50:00.00
+  date: 2019-09-13 23:00:00.00
   description: "Add discipline, mullet and tartan keyboard. Add SAN, Remnant and Choco macro pad."
 - title: "Add Karabiner-Elements to tools"
   url: "tools"
