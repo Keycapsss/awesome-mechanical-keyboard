@@ -68,7 +68,7 @@ module.exports = {
     },
     {
       use: 'gridsome-plugin-modal'
-    }
+    },
   ],
   transformers: {
     remark: {

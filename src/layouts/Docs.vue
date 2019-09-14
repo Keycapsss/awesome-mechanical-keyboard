@@ -78,7 +78,7 @@
           </a>
         </p>
         <button v-on:click="modalShow">Suggest a Project</button>
-<ClientOnly>
+        
 <modal
   name="contact-form"
   :adaptive="true"
@@ -96,16 +96,15 @@
     </div>
 
     <form 
-      name="contact"
+      name="newContent"
       method="post"
       v-on:submit.prevent="handleSubmit"
       action="/success/"
       data-netlify="true"
       data-netlify-honeypot="bot-field"
-      class=""
     > 
 
-      <input type="hidden" name="form-name" value="contact" />
+      <input type="hidden" name="form-name" value="newContent" />
       <p hidden>
         <label>
           Don’t fill this out: <input name="bot-field" />
@@ -155,7 +154,6 @@
     </form>
   </div>
 </modal>
-</ClientOnly>
   
       </div>
   </Layout>
