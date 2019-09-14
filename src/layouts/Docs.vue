@@ -78,7 +78,7 @@
           </a>
         </p>
         <button v-on:click="modalShow">Suggest a Project</button>
-        
+<ClientOnly>    
 <modal
   name="contact-form"
   :adaptive="true"
@@ -154,7 +154,7 @@
     </form>
   </div>
 </modal>
-  
+</ClientOnly>  
       </div>
   </Layout>
 </template>
