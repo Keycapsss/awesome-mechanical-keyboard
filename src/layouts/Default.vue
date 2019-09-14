@@ -1,7 +1,5 @@
 <template>
-  <div
-    class="content-wrapper"
-  >
+  <div class="content-wrapper">
     <Header />
 
     <div class="container w-full flex flex-wrap mx-auto px-4">

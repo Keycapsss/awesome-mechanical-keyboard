@@ -77,40 +77,84 @@
             <span>Edit this page on GitHub</span>
           </a>
         </p>
-        
-        
-        <form 
-          name="contact"
-          method="post"
-          v-on:submit.prevent="handleSubmit"
-          action="/success/"
-          data-netlify="true"
-          data-netlify-honeypot="bot-field"
-        >
-          <input type="hidden" name="form-name" value="contact" />
-          <p hidden>
-            <label>
-              Don’t fill this out: <input name="bot-field" />
-            </label>
-          </p>
-          <div class="sender-info">
-            <div>
-              <label for="name" class="label" >Your name</label>
-              <input type="text" name="name" v-model="formData.name" />
-            </div>
-            <div>
-              <label for="email">Your email</label>
-              <input type="email" name="email" v-model="formData.email" />
-            </div>
-          </div>
+        <button v-on:click="modalShow">Suggest a Project</button>
+<modal
+  name="contact-form"
+  :adaptive="true"
+  :scrollable="true"
+  height="auto"
+>
+  <div class="m-4">
+    <div class="mb-4 font-bold text-xl text-center">
+      Suggest new content
+    </div>
+    <div class="absolute top-0 right-0">
+      <button v-on:click="modalHide">
+        <font-awesome :icon="['far', 'window-close']" class="m-4"/>
+      </button>
+    </div>
 
-          <div class="message-wrapper">
-            <label for="message">Message</label>
-            <textarea name="message" v-model="formData.message"></textarea>
-          </div>
+    <form 
+      name="contact"
+      method="post"
+      v-on:submit.prevent="handleSubmit"
+      action="/success/"
+      data-netlify="true"
+      data-netlify-honeypot="bot-field"
+      class=""
+    > 
 
-          <button type="submit">Submit form</button>
-        </form>
+      <input type="hidden" name="form-name" value="contact" />
+      <p hidden>
+        <label>
+          Don’t fill this out: <input name="bot-field" />
+        </label>
+      </p>
+
+      <div class="md:flex md:items-center mb-6">
+        <div class="md:w-1/3 pb-2">
+          <label for="name" class="block text-gray-500 font-bold md:text-right mb-1 md:mb-0 pr-4">
+            Project Name
+          </label>
+        </div>
+        <div class="md:w-2/3">
+          <input type="text" name="name" v-model="formData.name" class="appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500"/>
+        </div>
+      </div>
+
+      <div class="md:flex md:items-center mb-6">
+        <div class="md:w-1/3 pb-2">
+          <label for="link" class="block text-gray-500 font-bold md:text-right mb-1 md:mb-0 pr-4">
+            Link
+          </label>
+        </div>
+        <div class="md:w-2/3">
+          <input type="url" name="link" v-model="formData.link" class="appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500"/>
+        </div>
+      </div>
+      
+      <div class="md:flex md:items-center mb-6">
+        <div class="md:w-1/3 self-start">
+          <label for="description" class="block text-gray-500 font-bold md:text-right mb-1 md:mb-0 pr-4">
+            Short Description
+          </label>
+        </div>
+        <div class="md:w-2/3">
+          <textarea name="description" maxlength="300" v-model="formData.description" class="appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500"></textarea>
+        </div>
+      </div>
+
+      <div class="md:flex md:items-center">
+        <div class="md:w-1/3"></div>
+        <div class="md:w-1/3">
+          <button type="submit" class="shadow bg-purple-500 hover:bg-purple-400 focus:shadow-outline focus:outline-none text-white font-bold py-2 px-4 rounded">Submit</button>
+        </div>
+      </div>
+    
+    </form>
+  </div>
+</modal>
+
         
       </div>
   </Layout>
@@ -125,6 +169,12 @@ export default {
     }
   },
   methods: {
+    modalShow () {
+      this.$modal.show('contact-form');
+    },
+    modalHide () {
+      this.$modal.hide('contact-form');
+    },
     encode(data) {
       return Object.keys(data)
         .map(key => encodeURIComponent(key) + '=' + encodeURIComponent(data[key]))
