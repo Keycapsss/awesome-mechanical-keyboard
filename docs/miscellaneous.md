@@ -17,6 +17,7 @@
 | --- | --- | :---: | :---: |
 | [Adafruit Feather 32u4 Bluefruit LE](https://github.com/adafruit/Adafruit-Feather-32u4-Bluefruit-LE-PCB) | BLE controller with full QMK support | atmega32u4, nRF51822, micro usb, bluetooth, eaglecad |  |
 | [Goldfish](https://github.com/Dr-Derivative/Goldfish) | A thin, USB-C, Pro Micro/Elite-C compatible microcontroller | pro micro, atmega32u4, usb-c, kicad |  |
+| [Nrfmicro](https://github.com/joric/nrfmicro) | Arduino Pro Micro-sized breakout board for E73-2G4M08S1C (nRF52840) modules | pro micro, nrf52840, usb-c, micro usb, kicad | <img src="https://i.imgur.com/0YXNbpJ.jpg" width="200px" /> |
 
 ## Games
 - [Typing Game](https://hsgw.github.io/typing_game/) - for keyboard exhibition. ranking and dictionary data is stored in local pc. you can use offline. [Github](https://github.com/hsgw/typing_game)
