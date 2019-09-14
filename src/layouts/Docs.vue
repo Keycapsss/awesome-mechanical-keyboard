@@ -78,6 +78,7 @@
           </a>
         </p>
         <button v-on:click="modalShow">Suggest a Project</button>
+<ClientOnly>
 <modal
   name="contact-form"
   :adaptive="true"
@@ -154,8 +155,8 @@
     </form>
   </div>
 </modal>
-
-        
+</ClientOnly>
+  
       </div>
   </Layout>
 </template>
@@ -170,10 +171,14 @@ export default {
   },
   methods: {
     modalShow () {
+      if (process.isClient) {
       this.$modal.show('contact-form');
+      }
     },
     modalHide () {
+      if (process.isClient) {
       this.$modal.hide('contact-form');
+      }
     },
     encode(data) {
       return Object.keys(data)

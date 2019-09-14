@@ -5,8 +5,6 @@
 import DefaultLayout from '~/layouts/Default.vue'
 import DocsLayout from '~/layouts/Docs.vue'
 
-import VModal from 'vue-js-modal'
-
 import { config, library } from '@fortawesome/fontawesome-svg-core'
 import { faGithub, faFontAwesome } from '@fortawesome/free-brands-svg-icons'
 import { faKeyboard, faRss, faCaretLeft, faCaretRight } from '@fortawesome/free-solid-svg-icons'
@@ -25,7 +23,6 @@ export default function (Vue, { router, head, isClient }) {
   Vue.component('Layout', DefaultLayout)
   Vue.component('DocsLayout', DocsLayout)
   Vue.component('font-awesome', FontAwesomeIcon)
-  Vue.use(VModal)
 }
 
 

@@ -65,6 +65,9 @@ module.exports = {
           name: 'rss.xml'
         }
       }
+    },
+    {
+      use: 'gridsome-plugin-modal'
     }
   ],
   transformers: {
