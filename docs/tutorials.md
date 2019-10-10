@@ -7,3 +7,4 @@
 - [Need a USB cable? Build one!](https://josef-adamcik.cz/electronics/need-a-usb-cable-build-on.html) - How to build a custom USB cable with aviation connectors and coils.
 - [The Keyboard Matrix ](http://blog.komar.be/how-to-make-a-keyboard-the-matrix/) - How a keyboard matrix work, explained in depth.
 - [The Keyboard Matrix 2](https://www.dribin.org/dave/keyboard/one_html/) - Another explanation how a keyboard matrix work and why it needs diodes.
+- [ai03's PCD Designer Guide](https://wiki.ai03.me/books/pcb-design/chapter/pcb-designer-guide) - An updated PCB design guide that walks you through designing a 4x4 macropad PCB.
