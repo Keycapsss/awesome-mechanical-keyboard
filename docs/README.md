@@ -94,6 +94,7 @@
 | [Cherry MX Keypad](http://syncchannel.blogspot.com/2016/06/cherry-mx-keypad.html?m=1) | pcb | 1x4, led | <img src="https://1.bp.blogspot.com/-Mur6fIsKDwU/V1NmGd7T4QI/AAAAAAAAAyU/Fh40F8Zl41YVosa03zkJl2WPSQ7sGS_AwCLcB/s280/CherryMXkeypad1.jpg" width="200px"/> |
 | [CHOCO](https://github.com/hsgw/choco) | pcb, case | 4x7, choc, usb-c, STM32F072C8T6, smd | <img src="https://camo.githubusercontent.com/0f5e76c4bb7ab1fb4afcdd0db4985aaa1d235843/68747470733a2f2f692e696d6775722e636f6d2f6e32553952484f2e6a7067" width="200px" /> |
 | [Cookpad Pad](https://github.com/cookpad/cookpad-pad) | pcb, case | 2x3, pro micro, ws2812b, underglow | <img src="https://github.com/cookpad/cookpad-pad/raw/master/docs/images/cookpad-pad.jpg" width="200px" /> |
+| [Discipad](https://github.com/coseyfannitutti/discipad) | pcb, case | 4x5, through hole, usb-c, | <img src="https://images.squarespace-cdn.com/content/v1/5c533d33348cd92b886e544d/1569605273813-X4W1ZK24U81C0U381LW7/ke17ZwdGBToddI8pDm48kK60W-ob1oA2Fm-j4E_9NQB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kD6Ec8Uq9YczfrzwR7e2Mh5VMMOxnTbph8FXiclivDQnof69TlCeE0rAhj6HUpXkw/discipad-white.jpeg?format=750w" width="200px" /> |   |   |   |   |
 | [Game cart macropad](https://www.thingiverse.com/thing:3029578) | pcb, case | 4x4, 3d print | <img src="https://cdn.thingiverse.com/renders/f2/ab/f5/bd/7a/590674241125b3f375c064646978a1d0_preview_featured.jpg" width="200px"/> |
 | [GeekPad](https://git.bthlabs.pl/tomekwojcik/geekpad/) | pcb, case | 3x3, 3d print | <img src="https://i.imgur.com/FEzO81l.jpg" width="200px"/> |
 | [Kbord](https://github.com/dekuNukem/kbord) | pcb, case | 5x3, oled, rgb, sd-card | <img src="https://github.com/dekuNukem/kbord/raw/master/resources/pics/title.jpg" width="200px"/> |
@@ -135,4 +136,3 @@
 | [Nyquist Plate + Case](https://www.thingiverse.com/thing:2389357) | 3d print, split, ortholinear | <img src="https://cdn.thingiverse.com/renders/81/82/66/eb/3d/7b3575db20022d9ffa547ea4deb728d1_preview_featured.jpg" width="200px" /> |
 | [OLKB (Planck, Preonic & Atomic)](https://github.com/olkb/olkb_parts) | 3d print, plate |  |
 | [Redox-Case](https://github.com/Lenbok/scad-redox-case) | split, thumb keys, opensCad, 3d print | <img src="https://github.com/Lenbok/scad-redox-case/raw/master/images/redox-exploded.png" width="200px"/> |
-
