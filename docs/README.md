@@ -74,6 +74,7 @@
 ## Handwired
 | Name | Available Files | Tags | Image |
 | --- | --- | :---: | :---: |
+| [60% Fixed Split Mechanical Keyboard](https://www.thingiverse.com/thing:3647216) | case | 3d print, split | <img src="https://cdn.thingiverse.com/renders/38/b8/e5/18/98/e6a29d3218baab572c7461f4e953d584_preview_featured.jpg" width="200px"> |
 | [Arke](https://www.thingiverse.com/thing:2879329) | case | 3d print, split, pro micro | <img src="https://cdn.thingiverse.com/renders/42/c6/fc/55/83/38d59e181f2a3c892fe3f8365d00076e_preview_featured.jpg" width="200px" /> |
 | [Atreis](https://github.com/dekonnection/atreis) | case | handwiring | <img src="https://github.com/dekonnection/atreis/raw/master/pictures/GPI0El4.jpg" width="200px"/> |
 | [Atreus Split Keyboard](https://www.thingiverse.com/thing:1646718) | case | 3d print, split, pro micro | <img src="https://cdn.thingiverse.com/renders/2a/35/f6/bd/51/ee77cfa99ac6c721974f6eb92a52cce9_preview_featured.jpg" width="200px" /> |
