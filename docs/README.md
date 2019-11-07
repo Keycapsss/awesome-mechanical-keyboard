@@ -89,6 +89,7 @@
 ## Numpad/Macropad
 | Name | Available Files | Tags | Image |
 | --- | --- | :---: | :---: |
+| [2% Milk](https://github.com/Rionlion100/Spaceboards/tree/master/Keyboards/2%25%20Milk) | pcb, case | 1x2, pro micro | <img src="https://camo.githubusercontent.com/04ba54fa2fb06710bc98e8ee23baa0c8ee9962ca/68747470733a2f2f692e696d6775722e636f6d2f5564393675586e2e706e67" width="200px"/> |
 | [4x5-wireless-keypad-pcb](https://github.com/ogatatsu/4x5-wireless-keypad-pcb) | pcb | 4x5, bluetooth | <img src="https://github.com/ogatatsu/4x5-wireless-keypad-pcb/blob/master/images/1.png?raw=true" width="200px" /> |
 | [Amoeba Single-Switch PCB](https://github.com/mtl/keyboard-pcbs) | pcb | single-switch, handwiring | <img src="https://deskthority.net/resources/image/25215" width="200px"/> |
 | [Cherry-Mx-Bitboard-Re](https://github.com/ogatatsu/Cherry-Mx-Bitboard-Re) | pcb | single-switch, handwiring, hotswap | <img src="https://github.com/ogatatsu/Cherry-Mx-Bitboard-Re/raw/master/Images/a.jpeg" width="200px" /> |
@@ -102,7 +103,6 @@
 | [LFK17](https://github.com/lfkeyboards/lfk17) | pcb | 5x4, numpad, hotswap, rgb | <img src="https://i.imgur.com/N4x5wXp.jpg" width="200px"/> |
 | [Lysergic 25](https://github.com/Gtrx0/lysergic25) | pcb, plate | 5x5, pro micro, plate, underglow, ws2812b, esd, usb-c | <img src="https://raw.githubusercontent.com/Gtrx0/lysergic25/master/Renders/Backside_populated.png" width="200px" /> |
 | [Meishi2](https://github.com/Biacco42/meishi2) | pcb | 1x4, pro micro | <img src="https://i.imgur.com/2SQqVlZ.png" width="200px"/> |
-| [2% Milk](https://github.com/Rionlion100/Spaceboards/tree/master/Keyboards/2%25%20Milk) | pcb, case | 1x2, pro micro | <img src="https://camo.githubusercontent.com/04ba54fa2fb06710bc98e8ee23baa0c8ee9962ca/68747470733a2f2f692e696d6775722e636f6d2f5564393675586e2e706e67" width="200px"/> |
 | [Mulletpad](https://github.com/coseyfannitutti/mulletpad) | pcb, case | numpad, usb-c, atmega32u4, smd | <img src="https://camo.githubusercontent.com/a57afd3b24b297f74daf1b31e864845fbd1f31cc/68747470733a2f2f692e696d6775722e636f6d2f3676374a764c4e2e706e67" width="200px" /> |
 | [Remnant](https://github.com/hsgw/Remnant) | pcb, case | 2x4, through hole, attiny85 | <img src="https://github.com/hsgw/Remnant/raw/master/doc/img/remnant.jpg" width="200px" /> |
 | [SAMD21 Bridge Module Cherry Board](https://www.pcbway.com/project/shareproject/DIY_RGB_Cherry_MX_Hotkey_Board.html) | pcb, case | plate | <img src="https://file.pcbway.com/websponsor/18/07/26/195654072.jpg" width="200px" /> |
