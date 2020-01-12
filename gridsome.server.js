@@ -11,15 +11,14 @@ const fs = require('fs-extra')
 const yaml = require('js-yaml')
 
 module.exports = function (api) {
-  api.loadSource(async store => {
+  api.loadSource(async actions => {
     
     // updates
     const updatesPath = path.join(__dirname, 'src/data/rss.yaml')
     const updatesRaw = await fs.readFile(updatesPath, 'utf8')
     const updatesJson = yaml.safeLoad(updatesRaw)
-    const updates = store.addContentType({
-      typeName: 'Updates',
-      route: '/updates/:title'
+    const updates = actions.addCollection({
+      typeName: 'Updates'
     })
 
     updatesJson.forEach((update, index) => {
@@ -31,13 +30,12 @@ module.exports = function (api) {
     
     // Get contributor list and add to GraphQL
     const { data } = await axios.get('https://api.github.com/repos/BenRoe/awesome-mechanical-keyboard/contributors?q=contributions&order=desc') 
-    const contentType = store.addContentType({
-      typeName: 'Contributors',
-      route: '/contributor/:id'
+    const contributors = actions.addCollection({
+      typeName: 'Contributors'
     })   
     
     for (const item of data) {
-      contentType.addNode({
+      contributors.addNode({
         id: item.id,
         name: item.login,
         avatar_url: item.avatar_url,
