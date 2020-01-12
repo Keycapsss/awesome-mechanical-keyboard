@@ -37,6 +37,7 @@
     "@gridsome/transformer-remark": "^0.4.0",
     "@gridsome/transformer-yaml": "^0.2.1",
     "fs-extra": "^8.1.0",
+    "graphql-request": "^1.8.2",
     "gridsome-plugin-rss": "^1.2.0",
     "gridsome-plugin-tailwindcss": "^2.2.32",
     "js-yaml": "^3.13.1",

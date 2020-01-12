@@ -5,28 +5,60 @@
 // Changes here require a server restart.
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
+const { GraphQLClient } = require('graphql-request')
+
 const axios = require('axios')
-const path = require('path')
-const fs = require('fs-extra')
-const yaml = require('js-yaml')
 
 module.exports = function (api) {
   api.loadSource(async actions => {
     
-    // updates
-    const updatesPath = path.join(__dirname, 'src/data/rss.yaml')
-    const updatesRaw = await fs.readFile(updatesPath, 'utf8')
-    const updatesJson = yaml.safeLoad(updatesRaw)
-    const updates = actions.addCollection({
-      typeName: 'Updates'
+    // get repo's commit history via graphql for the rss feed
+    const graphqlClient = new GraphQLClient(process.env.GITHUB_API_V4_URL, {
+      headers: {
+        Authorization: `Bearer ${process.env.GITHUB_AUTH_TOKEN}`,
+      },
     })
+    const commitHistoryQuery = `
+      {
+        repository(owner: "benroe", name: "awesome-mechanical-keyboard") {
+          ref(qualifiedName: "master") {
+            target {
+              ... on Commit {
+                history(first: 30) {
+                  edges {
+                    node {
+                      oid
+                      committedDate
+                      messageHeadline
+                      messageBodyHTML
+                      author {
+                        date
+                        email
+                        name
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }`
+    const commitMessages = actions.addCollection({
+      typeName: 'CommitMessages'
+    })
+    const commitHistory = await graphqlClient.request(commitHistoryQuery)
 
-    updatesJson.forEach((update, index) => {
-      updates.addNode({
-        ...update,
-        index
+    // add each node the the collection
+    commitHistory.repository.ref.target.history.edges.forEach(function(item) {  
+      commitMessages.addNode({
+        id: item.node.oid,
+        date: item.node.committedDate,
+        message: item.node.messageHeadline,
+        body: item.node.messageBodyHTML,
+        author: item.node.author.name,
       })
-    })
+    }) 
     
     // Get contributor list and add to GraphQL
     const { data } = await axios.get('https://api.github.com/repos/BenRoe/awesome-mechanical-keyboard/contributors?q=contributions&order=desc') 

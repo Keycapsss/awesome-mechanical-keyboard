@@ -38,7 +38,7 @@ module.exports = {
           autolinkHeadings: {
             content: {
               type: 'text',
-              value: '#'
+              value: '#',
             }
           }
         }
@@ -47,27 +47,29 @@ module.exports = {
     {
       use: 'gridsome-plugin-rss',
       options: {
-        contentTypeName: 'Updates',
+        contentTypeName: 'CommitMessages',
         feedOptions: {
           title: 'Keebfol.io - A Mechanical Keyboard Wiki',
           feed_url: 'https://keebfol.io/rss.xml',
-          site_url: 'https://keebfol.io'
+          site_url: 'https://keebfol.io',
         },
         feedItemOptions: node => ({
-          title: node.title,
-          description: node.description,
+          guid: node.id,
           date: node.date,
-          url: 'https://keebfol.io/' + node.url,
-          guid: node.index
+          title: node.message,
+          description: node.body,
+          author: node.author,
+          url: 'https://keebfol.io/',
         }),
         output: {
           dir: './static/',
-          name: 'rss.xml'
-        }
+          name: 'rss.xml',
+        },
+        latest: true,
       }
     },
     {
-      use: 'gridsome-plugin-modal'
+      use: 'gridsome-plugin-modal',
     },
   ],
   transformers: {
