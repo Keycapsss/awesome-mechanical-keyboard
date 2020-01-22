@@ -2,7 +2,7 @@
   <div class="content-wrapper">
     <Header />
 
-    <div class="container w-full flex flex-wrap mx-auto px-4">
+    <div class="container w-full flex flex-wrap mx-auto px-4 pb-4">
       <slot/>
     </div>
 

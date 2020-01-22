@@ -56,9 +56,10 @@
               <g-link to="/switch-database" class="inline-block py-2 px-4">Switch Database</g-link>
             </li>
             <li>
-            <a href="/rss.xml" class="inline-block py-2 px-4">
-              <font-awesome :icon="['fas', 'rss']"></font-awesome>
-            </a>
+              <g-link to="/news" class="inline-block py-2 pl-4">What Is New</g-link>
+              <a href="/rss.xml" class="inline-block py-2 px-2">
+                <font-awesome :icon="['fas', 'rss']"></font-awesome>
+              </a>
             </li>
           </ul>
         </div>

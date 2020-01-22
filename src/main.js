@@ -7,7 +7,7 @@ import DocsLayout from '~/layouts/Docs.vue'
 
 import { config, library } from '@fortawesome/fontawesome-svg-core'
 import { faGithub, faFontAwesome } from '@fortawesome/free-brands-svg-icons'
-import { faKeyboard, faRss, faCaretLeft, faCaretRight } from '@fortawesome/free-solid-svg-icons'
+import { faKeyboard, faRss, faCaretLeft, faCaretRight, faUserNinja, faHeart} from '@fortawesome/free-solid-svg-icons'
 import { faWindowClose } from '@fortawesome/free-regular-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 
@@ -16,7 +16,7 @@ import '~/assets/css/tailwind.css'
 
 // Make sure you tell Font Awesome to skip auto-inserting CSS into the <head>
 config.autoAddCss = false
-library.add(faGithub, faKeyboard, faRss, faCaretLeft, faCaretRight, faWindowClose)
+library.add(faGithub, faKeyboard, faRss, faCaretLeft, faCaretRight, faWindowClose, faUserNinja, faHeart)
 
 export default function (Vue, { router, head, isClient }) {
   // Set default layout as a global component

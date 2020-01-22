@@ -12,12 +12,14 @@ const axios = require('axios')
 module.exports = function (api) {
   api.loadSource(async actions => {
     
-    // get repo's commit history via graphql for the rss feed
     const graphqlClient = new GraphQLClient(process.env.GITHUB_API_V4_URL, {
       headers: {
         Authorization: `Bearer ${process.env.GITHUB_AUTH_TOKEN}`,
       },
     })
+    
+    // get repo's commit history via graphql for the rss feed and
+    // news page
     const commitHistoryQuery = `
       {
         repository(owner: "benroe", name: "awesome-mechanical-keyboard") {
@@ -30,7 +32,7 @@ module.exports = function (api) {
                       oid
                       committedDate
                       messageHeadline
-                      messageBodyHTML
+                      messageBody
                       author {
                         date
                         email
@@ -47,18 +49,55 @@ module.exports = function (api) {
     const commitMessages = actions.addCollection({
       typeName: 'CommitMessages'
     })
-    const commitHistory = await graphqlClient.request(commitHistoryQuery)
+    const commitMessagesData = await graphqlClient.request(commitHistoryQuery)
 
     // add each node the the collection
-    commitHistory.repository.ref.target.history.edges.forEach(function(item) {  
+    commitMessagesData.repository.ref.target.history.edges.forEach(function(item) { 
       commitMessages.addNode({
         id: item.node.oid,
         date: item.node.committedDate,
         message: item.node.messageHeadline,
-        body: item.node.messageBodyHTML,
+        body: item.node.messageBody,
         author: item.node.author.name,
       })
     }) 
+    
+    
+    // get the sponsor list
+    const sponsorsQuery = `
+      {
+        user(login: "BenRoe") {
+          sponsorshipsAsMaintainer(first: 5) {
+            edges {
+              node {
+                sponsor {
+                  id
+                  name
+                  login
+                  avatarUrl
+                  url
+                }
+              }
+            }
+          }
+        }
+      }`
+      const sponsors = actions.addCollection({
+        typeName: 'Sponsors'
+      })
+      const sponsorsData = await graphqlClient.request(sponsorsQuery)
+      
+      // add each node the the collection
+      sponsorsData.user.sponsorshipsAsMaintainer.edges.forEach(function(item) { 
+        console.log(item.node.sponsor.login);
+        
+        sponsors.addNode({
+          id: item.node.sponsor.id,
+          login: item.node.sponsor.login,
+          avatarUrl: item.node.sponsor.avatarUrl,
+          url: item.node.sponsor.url,
+        })
+      }) 
     
     // Get contributor list and add to GraphQL
     const { data } = await axios.get('https://api.github.com/repos/BenRoe/awesome-mechanical-keyboard/contributors?q=contributions&order=desc') 
