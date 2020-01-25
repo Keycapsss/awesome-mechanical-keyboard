@@ -35,7 +35,6 @@ module.exports = function (api) {
                       messageBody
                       author {
                         date
-                        email
                         name
                       }
                     }
@@ -53,13 +52,17 @@ module.exports = function (api) {
 
     // add each node the the collection
     commitMessagesData.repository.ref.target.history.edges.forEach(function(item) { 
-      commitMessages.addNode({
-        id: item.node.oid,
-        date: item.node.committedDate,
-        message: item.node.messageHeadline,
-        body: item.node.messageBody,
-        author: item.node.author.name,
-      })
+      const coHeadline = item.node.messageHeadline
+      // add only commit messages which are relevant for website user
+      if(coHeadline.startsWith('feat') || coHeadline.startsWith('docs')) {
+        commitMessages.addNode({
+          id: item.node.oid,
+          date: item.node.committedDate,
+          message: item.node.messageHeadline,
+          body: item.node.messageBody,
+          author: item.node.author.name,
+        })
+      }
     }) 
     
     
