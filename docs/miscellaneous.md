@@ -10,6 +10,7 @@
 - [Keyswitch Datasheets](https://github.com/keyboardio/keyswitch_documentation)
 - [List of split keyboards](https://docs.google.com/spreadsheets/d/19-rTWbp8SCKdZFByPZu3RT8NSF8vVddDe8WL6R6b1qQ/edit?usp=sharing)
 - QMK Proton C symbol/footprint for [KiCad](https://github.com/qmk/qmk_hardware/tree/master/kicad/proton_c), [Eagle](https://github.com/qmk/qmk_hardware/tree/master/eagle)
+- [Unified Daughterboard Project](https://github.com/Gondolindrim/Unified-Daughterboard) - A compact daughterboard for converting USB-C to internal-facing JST-SR connection.
 
 ## Keycaps 3D Models
 
