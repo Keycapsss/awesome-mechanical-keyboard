@@ -23,18 +23,23 @@ export default function (Vue, { router, head, isClient }) {
   Vue.component('Layout', DefaultLayout)
   Vue.component('DocsLayout', DocsLayout)
   Vue.component('font-awesome', FontAwesomeIcon)
-  if (isClient || !window.location.host.startsWith('localhost')) {
-    (function(f, a, t, h, o, m){
-      a[h]=a[h]||function(){
-        (a[h].q=a[h].q||[]).push(arguments)
-      };
-      o=f.createElement('script'),
-      m=f.getElementsByTagName('script')[0];
-      o.async=1; o.src=t; o.id='fathom-script';
-      m.parentNode.insertBefore(o,m)
-    })(document, window, '//analytics.panapro.de/tracker.js', 'fathom');
-    fathom('set', 'siteId', 'XQYAD');
-    fathom('trackPageview');
+  
+  if (isClient) {
+    // prevent tracking on development
+    if (!window.location.host.startsWith('localhost')) {
+      // Fathom
+      (function(f, a, t, h, o, m){
+        a[h]=a[h]||function(){
+          (a[h].q=a[h].q||[]).push(arguments)
+        };
+        o=f.createElement('script'),
+        m=f.getElementsByTagName('script')[0];
+        o.async=1; o.src=t; o.id='fathom-script';
+        m.parentNode.insertBefore(o,m)
+      })(document, window, '//analytics.panapro.de/tracker.js', 'fathom');
+      fathom('set', 'siteId', 'XQYAD');
+      fathom('trackPageview');
+    }
   }
 }
 
