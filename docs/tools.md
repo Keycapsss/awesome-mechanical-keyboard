@@ -11,5 +11,6 @@
 - [Plate & Case Builder](http://builder.swillkb.com) - Keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts
 - [Q2K](https://github.com/2hwk/Q2K) - A python based utility for parsing QMK Firmware keymaps to various outputs
 - [QMK Configurator](https://config.qmk.fm/) - An open source configurator for QMK Firmware
+- [Svg2Shenzhen](https://github.com/badgeek/svg2shenzhen) - Inkscape extension for exporting drawing into Kicad PCB.
 - [TMK Firmware Builder](http://kb.sized.io) - Online TMK Firmware Builder
 - [kbd-prettier](https://github.com/blakedietz/kbd-prettier) - Automatically format your keyboard layout
