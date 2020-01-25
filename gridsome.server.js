@@ -91,9 +91,7 @@ module.exports = function (api) {
       const sponsorsData = await graphqlClient.request(sponsorsQuery)
       
       // add each node the the collection
-      sponsorsData.user.sponsorshipsAsMaintainer.edges.forEach(function(item) { 
-        console.log(item.node.sponsor.login);
-        
+      sponsorsData.user.sponsorshipsAsMaintainer.edges.forEach(function(item) {         
         sponsors.addNode({
           id: item.node.sponsor.id,
           login: item.node.sponsor.login,
