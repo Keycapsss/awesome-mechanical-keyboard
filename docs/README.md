@@ -27,9 +27,13 @@
 | [GH60](https://github.com/komar007/gh60) | pcb | 60%, atmega32U4 | <img src="https://camo.githubusercontent.com/fdc087b8362f264e37c17212c78026bfaaa285be/687474703a2f2f626c6f672e6b6f6d61722e62652f77702d636f6e74656e742f75706c6f6164732f323031332f30322f747474312d363430783235372e6a7067" width="200px"/> |
 | [HacKeyboard](https://github.com/masaleiro/HacKeyboard) | pcb, case |  | <img src="https://cdn.instructables.com/F9P/KCPI/IGV4DBXA/F9PKCPIIGV4DBXA.LARGE.jpg" width="200px"/> |
 | [Kissboard](https://github.com/fhtagnn/kissboard) | pcb, case | split, thumb keys, vertically staggered, mx, bluetooth, pro micro, 3d print | <img src="https://github.com/fhtagnn/kissboard/blob/master/schematics/kissboard_top.png?raw=true" width="200px"/> |
+| [Kotonoha-BONSAI](https://github.com/MasayukiFukada/kotonoha_keyboards/tree/master/bonsai) | pcb, case | split, pro micro | <img src="https://github.com/MasayukiFukada/kotonoha_keyboards/blob/master/docs/images/kotonoha_bonsai.jpg?raw=true" width="200px" /> |
+| [Kotonoha-IAI](https://github.com/MasayukiFukada/kotonoha_keyboards/tree/master/iai) | pcb, case | split, pro micro | <img src="https://github.com/MasayukiFukada/kotonoha_keyboards/blob/master/docs/images/kotonoha_iai.jpg?raw=true" width="200px" /> |
+| [Kotonoha-WABISABI](https://github.com/MasayukiFukada/kotonoha_keyboards/tree/master/wabisabi) | pcb, case | split, pro micro | <img src="https://github.com/MasayukiFukada/kotonoha_keyboards/blob/master/docs/images/kotonoha_wabisabi.jpg?raw=true" width="200px" /> |
 | [MiniDox pcb](https://github.com/That-Canadian/MiniDox_pcb) | pcb | split, 3x5, vertically staggered, thumb keys | <img src="https://camo.githubusercontent.com/d8925d5e754c3a8998db4ad9874c1d8b093901f2/687474703a2f2f692e696d6775722e636f6d2f69576233794f302e6a7067" width="200px"/> |
 | [Mitosis](https://github.com/reversebias/mitosis-hardware) | pcb, case | split, wireless | <img src="https://i.imgur.com/gApMkzz.jpg" width="200px"/> |
 | [Mullet](https://github.com/coseyfannitutti/mullet) | pcb, case | staggered, smd, usb-c, underglow, atmega32u4 | <img src="https://camo.githubusercontent.com/2dac93377903e99500664ec9f6908cd68746fd63/68747470733a2f2f692e696d6775722e636f6d2f45424f4d6268482e6a7067" width="200px" /> |
+| [Mysterium](https://github.com/coseyfannitutti/mysterium) | pcb, case | tkl, ATMEGA32A, usb-c | <img src="https://github.com/coseyfannitutti/mysterium/blob/master/doc/images/mysterium.jpg?raw=true" width="200px" /> |
 | [Orbit](https://github.com/ai03-2725/Orbit) | pcb | split, 5x7, thumb keys, usb-c | <img src="https://raw.githubusercontent.com/ai03-2725/Orbit/master/Images/PCB-R1.5.jpg" width="200px"/> |
 | [Plain60-c](https://github.com/Maartenwut/plain60-c) | pcb | 60%, usb-c, atmega32U4 | <img src="https://camo.githubusercontent.com/85b21ccd9dfe95a86407fda6b1ee7ba14ec57bf4/68747470733a2f2f692e696d6775722e636f6d2f4f774f503956622e706e67" width="200px"/> |
 | [Pteron](https://github.com/FSund/pteron-keyboard) | case | 3x5, 3x6, 4x6, handwiring, pro micro | <img src="https://camo.githubusercontent.com/9f0a06184893760528f1c5db991c5463d403b528/68747470733a2f2f692e696d6775722e636f6d2f395168506c56442e6a7067" width="200px"/> |
@@ -67,13 +71,15 @@
 | [QOL56](https://github.com/eswai/QOL56) | pcb, case | 4x14, pro micro, underglow, rgb | <img src="https://github.com/eswai/QOL56/raw/master/qol56-7.jpg" width="200px" /> |
 | [Science](https://github.com/peej/for-science-keyboard) | pcb | split, arduino, 5x5| <img src="https://camo.githubusercontent.com/fecf6f7bca9ec8b93e4031caa1ca3442cfb5a5f1/68747470733a2f2f692e696d6775722e636f6d2f666a6e546b42312e6a7067" width="200px"/> |
 | [SharkPCB](https://github.com/Gondolindrim/SharkPCB) | pcb, case | 4x12, rotary encoder, STM32, underglow, 3d print | <img src="https://github.com/Gondolindrim/SharkPCB/blob/master/renders/high/high1.png?raw=true" width="200px" /> |
+| [Sofle Keyboard](https://github.com/josefadamcik/SofleKeyboard?utm_source=share&utm_medium=ios_app&utm_name=iossmf) | pcb, case | 5x6, rotary, pro micro, split | <img src="https://github.com/josefadamcik/SofleKeyboard/blob/master/Images/IMG_20200126_114622.jpg?raw=true" width="200px" /> |
 | [Split Infinitive](https://github.com/peej/for-split-keyboard/blob/master/README.md) | pcb | split, 5x6, pro micro | <img src="https://github.com/peej/for-split-keyboard/raw/master/pcb.png" width="200px"/> |
 | [Zen (RGBKB)](https://github.com/RGBKB/Keyboard-files/tree/master/Zen) [Build Guide](https://legonut.gitbooks.io/zen-keyboard/content/) | pcb, case | split, ergo, ortho, thumb keys, rgb led | <img src="https://camo.githubusercontent.com/6bf0257847f1e1972cfd6b9f289a6e8180163ff8/68747470733a2f2f692e696d6775722e636f6d2f7a337630416b732e6a7067" width="200px" /> |
-| []() |  |  |  |
+| []() |  |  | <img src="" width="200px" /> |
 
 ## Handwired
 | Name | Available Files | Tags | Image |
 | --- | --- | :---: | :---: |
+| [52Te](https://github.com/culturalsnow/52Te) | case | pro micro, split | <img src="https://raw.githubusercontent.com/culturalsnow/52Te/master/img/52Te_Left.jpg" width="200px" /> |
 | [60% Fixed Split Mechanical Keyboard](https://www.thingiverse.com/thing:3647216) | case | 3d print, split | <img src="https://cdn.thingiverse.com/renders/38/b8/e5/18/98/e6a29d3218baab572c7461f4e953d584_preview_featured.jpg" width="200px"> |
 | [Arke](https://www.thingiverse.com/thing:2879329) | case | 3d print, split, pro micro | <img src="https://cdn.thingiverse.com/renders/42/c6/fc/55/83/38d59e181f2a3c892fe3f8365d00076e_preview_featured.jpg" width="200px" /> |
 | [Atreis](https://github.com/dekonnection/atreis) | case | handwiring | <img src="https://github.com/dekonnection/atreis/raw/master/pictures/GPI0El4.jpg" width="200px"/> |
@@ -84,6 +90,7 @@
 | [Mechanical Gamepad](https://www.thingiverse.com/thing:2593692) | case | 3d print, handwiring, pro micro, ortholinear | <img src="https://cdn.thingiverse.com/renders/61/74/20/bf/6f/387305d39edce0ec7409172e37eee126_preview_featured.jpg" width="200px" /> |
 | [Redox Manuform](https://www.thingiverse.com/thing:3503380) | case | 3d print, split, pro micro, underglow | <img src="https://cdn.thingiverse.com/renders/f5/89/b2/6b/a1/8d89de5ce484ac624324fb657f01e06e_preview_featured.jpg" width="200px" /> |
 | [SiCK-68](https://www.thingiverse.com/thing:3478494) | case | staggered, tkl, 3d print, handwiring, teensy | <img src="https://cdn.thingiverse.com/renders/b3/55/75/9b/d4/f20d6cca0ecda40347ad1802a63e518c_preview_featured.JPG" width="200px" /> |
+| [Steno keyboard](https://www.thingiverse.com/thing:4073814) | case | 3d print, handwiring | <img src="https://cdn.thingiverse.com/assets/fc/79/06/8b/9c/featured_preview_20191229_134223.jpg" width="200px" /> |
 | [Tada68](https://www.thingiverse.com/thing:3372910) | case | 3d print, handwiring, teensy, tkl, staggered | <img src="https://cdn.thingiverse.com/renders/46/14/9d/aa/0e/8b1db0b24fc25d806e61f7b51671bd08_preview_featured.JPG" width="200px" /> |
 
 ## Numpad/Macropad

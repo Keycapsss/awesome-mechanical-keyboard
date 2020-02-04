@@ -1,6 +1,7 @@
 # Tutorials
 - [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0)
 - [ai03 PCB Designer Guide](https://wiki.ai03.me/books/pcb-design) - Learn how to make mech keyboard PCBs.
+- Blog post about ["search of the best custom keyboard layout"](https://josef-adamcik.cz/electronics/in-search-of-the-best-custom-keyboard-layout.html).
 - [Hand wiring a let's split](https://johannes-jansson.github.io/projects/2018/07/23/hand-wiring-lets-split.html) (pro micro)
 - [How to integrate a trackpoint in a mechanical keyboard (TMK, Teensy)](https://github.com/alonswartz/trackpoint)
 - [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide/blob/master/README.md)
