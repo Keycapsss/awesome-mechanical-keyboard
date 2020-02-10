@@ -37,7 +37,7 @@
 | [Plaid](https://github.com/hsgw/plaid) | pcb | 4x12, atmega328p, through hole | <img src="https://user-images.githubusercontent.com/2714926/49872071-481ae000-fe5b-11e8-963d-8aaa3a653e4d.jpg" width="200px"/> |
 | [Planck THK](https://github.com/olkb/planck_thk) | pcb, case | 4x12, rotary encoder | <img src="https://i.imgur.com/Jiy1jLN.jpg" width="200px"/> |
 | [QOL56](https://github.com/eswai/QOL56) | pcb, case | 4x14, pro micro, underglow, rgb | <img src="https://github.com/eswai/QOL56/raw/master/qol56-7.jpg" width="200px" /> |
-| [SharkPCB](https://github.com/Gondolindrim/SharkPCB) | pcb, case | 4x12, rotary encoder, STM32, underglow, 3d print | <img src="https://github.com/Gondolindrim/SharkPCB/blob/master/renders/high/high1.png?raw=true" width="200px" /> |
+| [SharkPCB](https://github.com/Gondolindrim/SharkPCB) | pcb, case | 4x12, rotary encoder, STM32, underglow, 3d print | <img src="https://raw.githubusercontent.com/Gondolindrim/SharkPCB/master/graphics/renders/top.png" width="200px" /> |
 | []() |  |  | <img src="" width="200px" /> |
 
 ## Split Keyboards
@@ -55,7 +55,7 @@
 | [Ergo42](https://github.com/Biacco42/Ergo42) | pcb, case | split, 4x7 | <img src="https://raw.githubusercontent.com/Biacco42/Ergo42/readme/readme_image/ergo42_image.jpg" width="200px"/> |
 | [ErgoDash](https://github.com/omkbd/ErgoDash) | pcb, case | 5x7, plate, led, split, thumb key | <img src="https://github.com/omkbd/picture/blob/master/Ergodash.jpg?raw=true" width="200px"/> |
 | [ErgoDash Mini](https://github.com/omkbd/ErgoDash/tree/master/mini) | pcb, case | 4x7, plate, led, split, thumb key | <img src="https://github.com/omkbd/picture/blob/master/Ergodashmini.jpg?raw=true" width="200px"/> |
-| [ErgoDox official](https://github.com/Ergodox-io) | pcb, acryl case, 3d printable case | split, thumb keys, 5x7, 3d print | <img src="https://github.com/Ergodox-io/ergodox-io/blob/master/src/img/ErgoDox-original-min.png" width="200px" /> |
+| [ErgoDox official](https://github.com/Ergodox-io) | pcb, acryl case, 3d printable case | split, thumb keys, 5x7, 3d print | <img src="https://github.com/Ergodox-io/ergodox-io/blob/master/src/img/ErgoDox-original-min.png?raw=true" width="200px" /> |
 | [Ergoinu](https://github.com/hsgw/ergoinu) | pcb, case | split, plate, mx, pro micro | <img src="https://raw.githubusercontent.com/wiki/hsgw/ergoinu/images/keyboard_top.JPG" width="200px"/> |
 | [ErgoMac](https://github.com/LilBigMacky/ergomac) | pcb | split, vertically staggered, thumb keys | <img src="https://i.redd.it/6ndsci0gt0x11.jpg" width="200px"/> |
 | [ErgoTravel](https://github.com/jpconstantineau/ErgoTravel) | pcb, case | split, vertically staggered, thumb keys | <img src="https://i.imgur.com/DY0FxcM.jpg" width="200px"/> |
