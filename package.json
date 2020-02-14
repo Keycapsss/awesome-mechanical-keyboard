@@ -1,6 +1,10 @@
 {
   "name": "awesome-mechanical-keyboard",
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BenRoe/awesome-mechanical-keyboard.git"
+  },
   "keywords": [
     "mechanical-keyboards",
     "gridsome",
@@ -12,6 +16,7 @@
     "name": "Ben Roe",
     "url": "https://twitter.com/ben_roe"
   },
+  "license": "CC-BY-NC-SA-4.0",
   "scripts": {
     "build": "gridsome build",
     "develop": "gridsome develop",

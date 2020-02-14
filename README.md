@@ -17,4 +17,5 @@ The project uses [Gridsome](https://gridsome.org) as a Static Site Generator.
 [![Netlify Status](https://api.netlify.com/api/v1/badges/06821f1d-3e33-4bd4-92b2-4e44f3583060/deploy-status)](https://app.netlify.com/sites/keebfolio/deploys)
 
 ### License
-[![CC4](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![CC4](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
