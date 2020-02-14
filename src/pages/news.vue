@@ -14,8 +14,8 @@
           </p>
           
           <div class="text-sm mt-1">
-            <div class="text-gray-500 leading-none">
-              <font-awesome :icon="['fas', 'user-ninja']" class="mr-1 text-gray-300"></font-awesome>
+            <div class="text-gray-500 dark-mode:text-gray-600 leading-none">
+              <font-awesome :icon="['fas', 'user-ninja']" class="mr-1 text-gray-300 dark-mode:text-gray-600"></font-awesome>
               {{ edge.node.author }}
               {{ edge.node.date }}
             </div>

@@ -46,5 +46,22 @@ td {
   @apply list-disc;
 }
 
+@screen dark-mode {
+  body {
+    @apply text-gray-400;
+  }
+  .content a:hover {
+    @apply border-primary-light;
+  }
+  tr {
+    @apply border-gray-800;
+  }
+  .v--modal {
+    @apply bg-gray-900 !important;
+    @apply border-2 border-gray-500;
+    
+  }
+}
+
 @tailwind components;
 @tailwind utilities;

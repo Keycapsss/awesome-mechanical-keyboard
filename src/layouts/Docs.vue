@@ -1,7 +1,7 @@
 <template>
   <Layout>
       <!-- Sidebar Nav -->
-      <div v-if="links" class="w-full lg:w-1/5 p-6 pl-0 text-gray-800 leading-normal"> 
+      <div v-if="links" class="w-full lg:w-1/5 p-6 pl-0 text-gray-800 dark-mode:text-gray-400 leading-normal"> 
         <template v-for="(group, i1) in links">
           <!-- Section headline not needed -->
           <!-- <p class="font-bold py-2 lg:pb-6 text-gray-700"
@@ -11,7 +11,7 @@
           <!-- Fake dropdown field as menu toggle for mobile view -->
           <div class="block lg:hidden sticky inset-0">
             <button id="side-nav-toggle"
-                    class="flex w-full justify-end px-3 py-3 bg-white lg:bg-transparent border rounded border-gray-500 hover:border-primary appearance-none focus:outline-none">
+                    class="flex w-full justify-end px-3 py-3 bg-white dark-mode:bg-gray-900 lg:bg-transparent border rounded border-gray-500 dark-mode:border-gray-700 hover:border-primary appearance-none focus:outline-none">
               <svg class="fill-current h-4 float-right" 
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg">
@@ -20,7 +20,7 @@
             </button>
           </div>    
           <div id="menu-content"
-              class="w-full inset-0 h-64 lg:h-auto overflow-x-hidden overflow-y-scroll lg:overflow-y-hidden lg:block mt-0 border border-gray-400 rounded-b lg:border-transparent bg-white shadow lg:shadow-none lg:bg-transparent z-20"
+              class="w-full inset-0 h-64 lg:h-auto overflow-x-hidden overflow-y-scroll lg:overflow-y-hidden lg:block mt-0 border border-gray-400 rounded-b lg:border-transparent dark-mode:border-transparent shadow lg:shadow-none lg:bg-transparent z-20"
               :class="{hidden: !showDropdownMenu}">
             <ul class="list-reset ml-4 lg:ml-0 mt-4 lg:mt-0">
               <li v-for="(item, i2) in group.items"
@@ -61,7 +61,7 @@
       </div>
       
       <!-- Content -->
-      <div class="w-full lg:w-4/5 py-6 lg:p-6 lg:mt-0 leading-normal bg-white">
+      <div class="w-full lg:w-4/5 py-6 lg:p-6 lg:mt-0 leading-normal">
         <slot />
         <!--Back link -->
         <div class="w-full lg:ml-auto mt-8 text-base">        
@@ -91,84 +91,83 @@
           </a>
         </p>
         
-<ClientOnly>    
-<modal
-  name="contact-form"
-  :adaptive="true"
-  :scrollable="true"
-  height="auto"
->
-    <div class="mb-4 mt-4 pb-4 border-b font-bold text-xl text-center text-primary">
-      Suggest new content
-    </div>
-    <div class="absolute top-0 right-0">
-      <button v-on:click="modalHide">
-        <font-awesome :icon="['far', 'window-close']" class="m-6 text-gray-500 hover:text-primary-light"/>
-      </button>
-    </div>
-    
-    <div class="m-6">
-      <form 
-        name="newContent"
-        method="post"
-        v-on:submit.prevent="handleSubmit"
-        action="/success/"
-        data-netlify="true"
-        data-netlify-honeypot="bot-field"
-      > 
+        <ClientOnly>    
+          <modal
+            name="contact-form"
+            :adaptive="true"
+            :scrollable="true"
+            height="auto"
+          >
+            <div class="mb-4 mt-4 pb-4 border-b dark-mode:border-gray-800 font-bold text-xl text-center text-primary">
+              Suggest new content
+            </div>
+            <div class="absolute top-0 right-0">
+              <button v-on:click="modalHide">
+                <font-awesome :icon="['far', 'window-close']" class="m-6 text-gray-500 hover:text-primary-light"/>
+              </button>
+            </div>
+            
+            <div class="m-6">
+              <form 
+                name="newContent"
+                method="post"
+                v-on:submit.prevent="handleSubmit"
+                action="/success/"
+                data-netlify="true"
+                data-netlify-honeypot="bot-field"
+              > 
 
-        <input type="hidden" name="form-name" value="newContent" />
-        <p hidden>
-          <label>
-            Don’t fill this out: <input name="bot-field" />
-          </label>
-        </p>
+                <input type="hidden" name="form-name" value="newContent" />
+                <p hidden>
+                  <label>
+                    Don’t fill this out: <input name="bot-field" />
+                  </label>
+                </p>
 
-        <div class="md:flex md:items-center mb-6">
-          <div class="md:w-1/3 pb-2">
-            <label for="name" class="block text-gray-500 font-bold md:text-right mb-1 md:mb-0 pr-4">
-              Project Name
-            </label>
-          </div>
-          <div class="md:w-2/3">
-            <input type="text" name="name" v-model="formData.name" class="appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500"/>
-          </div>
-        </div>
+                <div class="md:flex md:items-center mb-6">
+                  <div class="md:w-1/3 pb-2">
+                    <label for="name" class="block text-gray-500 font-bold md:text-right mb-1 md:mb-0 pr-4">
+                      Project Name
+                    </label>
+                  </div>
+                  <div class="md:w-2/3">
+                    <input type="text" name="name" v-model="formData.name" class="appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500"/>
+                  </div>
+                </div>
 
-        <div class="md:flex md:items-center mb-6">
-          <div class="md:w-1/3 pb-2">
-            <label for="link" class="block text-gray-500 font-bold md:text-right mb-1 md:mb-0 pr-4">
-              Link
-            </label>
-          </div>
-          <div class="md:w-2/3">
-            <input type="url" name="link" v-model="formData.link" class="appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500"/>
-          </div>
-        </div>
-        
-        <div class="md:flex md:items-center mb-6">
-          <div class="md:w-1/3 self-start">
-            <label for="description" class="block text-gray-500 font-bold md:text-right mb-1 md:mb-0 pr-4">
-              Short Description
-            </label>
-          </div>
-          <div class="md:w-2/3">
-            <textarea name="description" maxlength="300" v-model="formData.description" class="appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500"></textarea>
-          </div>
-        </div>
+                <div class="md:flex md:items-center mb-6">
+                  <div class="md:w-1/3 pb-2">
+                    <label for="link" class="block text-gray-500 font-bold md:text-right mb-1 md:mb-0 pr-4">
+                      Link
+                    </label>
+                  </div>
+                  <div class="md:w-2/3">
+                    <input type="url" name="link" v-model="formData.link" class="appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500"/>
+                  </div>
+                </div>
+                
+                <div class="md:flex md:items-center mb-6">
+                  <div class="md:w-1/3 self-start">
+                    <label for="description" class="block text-gray-500 font-bold md:text-right mb-1 md:mb-0 pr-4">
+                      Short Description
+                    </label>
+                  </div>
+                  <div class="md:w-2/3">
+                    <textarea name="description" maxlength="300" v-model="formData.description" class="appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500"></textarea>
+                  </div>
+                </div>
 
-        <div class="md:flex md:items-center">
-          <div class="md:w-1/3"></div>
-          <div class="md:w-1/3">
-            <button type="submit" class="shadow bg-primary hover:bg-primary-light focus:shadow-outline focus:outline-none text-white font-bold py-2 px-4 rounded">Submit</button>
-          </div>
-        </div>
-      
-      </form>
-    </div>
-    
-</modal>
-</ClientOnly>
+                <div class="md:flex md:items-center">
+                  <div class="md:w-1/3"></div>
+                  <div class="md:w-1/3">
+                    <button type="submit" class="shadow bg-primary hover:bg-primary-light focus:shadow-outline focus:outline-none text-white font-bold py-2 px-4 rounded">Submit</button>
+                  </div>
+                </div>
+              
+              </form>
+            </div>
+          </modal>
+        </ClientOnly>
 
       </div>
   </Layout>

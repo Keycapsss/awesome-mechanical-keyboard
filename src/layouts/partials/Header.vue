@@ -1,6 +1,6 @@
 <template>
-  <header class="bg-white">
-    <nav id="header" class="w-full z-10 top-0 bg-white border-b border-gray-300">
+  <header>
+    <nav id="header" class="w-full z-10 top-0 border-b border-gray-300 dark-mode:border-gray-800">
       <div class="w-full container mx-auto flex flex-wrap items-center justify-between mt-0 py-4">
         <!-- Logo -->
         <div class="pl-4 flex items-center">

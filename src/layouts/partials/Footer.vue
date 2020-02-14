@@ -1,10 +1,10 @@
 <template>
-  <footer class="bg-gray-100 border-t border-gray-300">
+  <footer class="bg-gray-100 dark-mode:bg-gray-900 border-t border-gray-300 dark-mode:border-gray-800">
       <div class="container mx-auto flex py-8">
         <div class="w-full mx-auto flex flex-wrap">
           <div class="flex w-full">
             <div class="px-8">
-                <h3 class="font-bold text-gray-900">
+                <h3 class="font-bold text-gray-900 dark-mode:text-gray-600">
                   <font-awesome :icon="['fas', 'heart']" class="mr-1" size="xs"></font-awesome>
                   Sponsor
                 </h3>
@@ -23,7 +23,9 @@
 
           <div class="flex w-full">
             <div class="px-8">
-                <h3 class="font-bold text-gray-900">Contributors</h3>
+                <h3 class="font-bold text-gray-900 dark-mode:text-gray-600">
+                  Contributors
+                </h3>
                 <ul class="flex flex-wrap">
                   <li v-for="edge in $static.allContributors.edges" :key="edge.node.id"
                       class="m-4 text-xs text-gray-600">

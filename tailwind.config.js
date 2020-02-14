@@ -1,6 +1,9 @@
 module.exports = {
   theme: {
     extend: {
+      screens: {
+        'dark-mode': { raw: '(prefers-color-scheme: dark)' },
+      },
       colors: {
         'primary': {
           light: '#4ECDC4',

@@ -1,5 +1,5 @@
 <template>
-  <div class="p-4 bg-gray-200 rounded-b">
+  <div class="p-4 bg-gray-200 dark-mode:bg-gray-900 rounded-b">
     <div class="flex flex-wrap">
       <div class="md:w-1/4 w-1/3 mb-4">
         <div class="font-bold mb-1">

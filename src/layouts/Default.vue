@@ -1,5 +1,5 @@
 <template>
-  <div class="content-wrapper">
+  <div class="content-wrapper dark-mode:bg-gray-900">
     <Header />
 
     <div class="container w-full flex flex-wrap mx-auto px-4 pb-4">
