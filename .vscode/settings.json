@@ -1,0 +1,12 @@
+{
+  "vetur.grammar.customBlocks": {
+    // https://github.com/vuejs/vetur/issues/975#issuecomment-461197031
+    "docs": "md",
+    "i18n": "json",
+    "page-query": "graphql",
+    "static-query": "graphql"
+  },
+  "emmet.includeLanguages": {
+    "vue": "html"
+  },
+}
