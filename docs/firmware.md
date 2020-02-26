@@ -2,6 +2,7 @@
 
 - [BlueMicro_BLE](https://github.com/jpconstantineau/BlueMicro_BLE) - A Bluetooth Firmware for the NRF52832.
 - [Bluetosis](https://github.com/geoah/bluetosis) - Bluetooth firmware for the Mitosis keyboard.
+- [EasyAVR](https://github.com/dhowland/EasyAVR) -  is a keyboard firmware and keymapper GUI for custom keyboards based on USB AVRs.
 - [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Flexible firmware for Arduino-powered keyboards.
 - [Keyplus](https://github.com/ahtn/keyplus) - An easy to use keyboard firmware with support for wireless and wired split keyboards.
 - [Mechy](https://github.com/colinta/Mechy) - Arduino compatible, plugin based.
