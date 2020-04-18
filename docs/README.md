@@ -98,21 +98,19 @@
 | [fAuxLICE](https://github.com/ramonimbao/Alice-like_Handwired) | case | 3d print, handwiring, stm32, ergo | <img src="https://raw.githubusercontent.com/ramonimbao/Alice-like_Handwired/master/images/outside.jpg" width="200px"> |
 | [Keyberon](https://github.com/TeXitoi/keyberon) | case, firmware | 3d print, handwiring, blue pill, ortholinear | <img src="https://raw.githubusercontent.com/TeXitoi/keyberon/master/images/keyberon.jpg" width="200px" /> |
 | [Keyberon-f4](https://github.com/TeXitoi/keyberon-f4) | case | stm32f401, usb-c, handwiring, 3d print | <img src="https://github.com/TeXitoi/keyberon-f4/blob/master/images/keyberon-56.jpg?raw=true" width="200px" /> |
+| [MECH - TKL](https://www.thingiverse.com/thing:4225961) | case | 3d print, handwiring, teensy, tkl | <img src="https://raw.githubusercontent.com/joeyvigil/MechanicalKeys/master/img/misc/TKL.JPG" width="200px" /> |
+| [METATRON](https://www.thingiverse.com/thing:4228314) | case | 3d print, handwiring, teensy, 65 percent | <img src="https://raw.githubusercontent.com/joeyvigil/MechanicalKeys/master/img/misc/metatron.JPG" width="200px" /> |
+| [MHKB](https://www.thingiverse.com/thing:4220301) | case | 3d print, handwiring, teensy, HHKB Style, Happy Hacking Keyboard | <img src="https://raw.githubusercontent.com/joeyvigil/MechanicalKeys/master/img/misc/MHKB.JPG" width="200px" /> |
+| [Mech-104](https://www.thingiverse.com/thing:4205065) | case | 3d print, handwiring, teensy, full size, 104 key | <img src="https://raw.githubusercontent.com/joeyvigil/MechanicalKeys/master/img/misc/Mech-104.JPG" width="200px" /> |
+| [Mech-60](https://www.thingiverse.com/thing:4215193) | case | 3d print, handwiring, teensy, 60 percent | <img src="https://raw.githubusercontent.com/joeyvigil/MechanicalKeys/master/img/misc/Mech-60.JPG" width="200px" /> |
+| [Mechagodzilla](https://www.thingiverse.com/thing:4210984) | case | 3d print, handwiring, teensy, no number pad, no function row | <img src="https://raw.githubusercontent.com/joeyvigil/MechanicalKeys/master/img/misc/mechagodzilla.JPG" width="200px" /> |
 | [Mechanical Gamepad](https://www.thingiverse.com/thing:2593692) | case | 3d print, handwiring, pro micro, ortholinear | <img src="https://cdn.thingiverse.com/renders/61/74/20/bf/6f/387305d39edce0ec7409172e37eee126_preview_featured.jpg" width="200px" /> |
 | [Mechanical Keypad](https://www.thingiverse.com/thing:3810124) | case | 3d print, handwiring | <img src="https://cdn.thingiverse.com/renders/60/68/36/7a/e0/4b1c59c7728e2b1cb65f6cb20aaf5cf9_preview_featured.jpg" width="200px" /> |
+| [Monolith](https://www.thingiverse.com/thing:4228304) | case | 3d print, handwiring, teensy, 65 percent | <img src="https://raw.githubusercontent.com/joeyvigil/MechanicalKeys/master/img/misc/monolith.JPG" width="200px" /> |
 | [Redox Manuform](https://www.thingiverse.com/thing:3503380) | case | 3d print, split, pro micro, underglow | <img src="https://cdn.thingiverse.com/renders/f5/89/b2/6b/a1/8d89de5ce484ac624324fb657f01e06e_preview_featured.jpg" width="200px" /> |
 | [SiCK-68](https://www.thingiverse.com/thing:3478494) | case | staggered, tkl, 3d print, handwiring, teensy | <img src="https://cdn.thingiverse.com/renders/b3/55/75/9b/d4/f20d6cca0ecda40347ad1802a63e518c_preview_featured.JPG" width="200px" /> |
 | [Steno keyboard](https://www.thingiverse.com/thing:4073814) | case | 3d print, handwiring | <img src="https://cdn.thingiverse.com/assets/fc/79/06/8b/9c/featured_preview_20191229_134223.jpg" width="200px" /> |
 | [Tada68](https://www.thingiverse.com/thing:3372910) | case | 3d print, handwiring, teensy, tkl, staggered | <img src="https://cdn.thingiverse.com/renders/46/14/9d/aa/0e/8b1db0b24fc25d806e61f7b51671bd08_preview_featured.JPG" width="200px" /> |
-| [Mech-104](https://www.thingiverse.com/thing:4205065) | case | 3d print, handwiring, teensy, full size, 104 key | <img src="https://raw.githubusercontent.com/joeyvigil/MechanicalKeys/master/img/misc/Mech-104.JPG" width="200px" /> |
-| [Mechagodzilla](https://www.thingiverse.com/thing:4210984) | case | 3d print, handwiring, teensy, no number pad, no function row | <img src="https://raw.githubusercontent.com/joeyvigil/MechanicalKeys/master/img/misc/mechagodzilla.JPG" width="200px" /> |
-| [Mech-60](https://www.thingiverse.com/thing:4215193) | case | 3d print, handwiring, teensy, 60 percent | <img src="https://raw.githubusercontent.com/joeyvigil/MechanicalKeys/master/img/misc/Mech-60.JPG" width="200px" /> |
-| [MHKB](https://www.thingiverse.com/thing:4220301) | case | 3d print, handwiring, teensy, HHKB Style, Happy Hacking Keyboard | <img src="https://raw.githubusercontent.com/joeyvigil/MechanicalKeys/master/img/misc/MHKB.JPG" width="200px" /> |
-| [MECH - TKL](https://www.thingiverse.com/thing:4225961) | case | 3d print, handwiring, teensy, tkl | <img src="https://raw.githubusercontent.com/joeyvigil/MechanicalKeys/master/img/misc/TKL.JPG" width="200px" /> |
-| [Monolith](https://www.thingiverse.com/thing:4228304) | case | 3d print, handwiring, teensy, 65 percent | <img src="https://raw.githubusercontent.com/joeyvigil/MechanicalKeys/master/img/misc/monolith.JPG" width="200px" /> |
-| [METATRON](https://www.thingiverse.com/thing:4228314) | case | 3d print, handwiring, teensy, 65 percent | <img src="https://raw.githubusercontent.com/joeyvigil/MechanicalKeys/master/img/misc/metatron.JPG" width="200px" /> |
-
-
 
 ## Numpad/Macropad
 | Name | Available Files | Tags | Image |
@@ -172,4 +170,3 @@
 | [Nyquist Plate + Case](https://www.thingiverse.com/thing:2389357) | 3d print, split, ortholinear | <img src="https://cdn.thingiverse.com/renders/81/82/66/eb/3d/7b3575db20022d9ffa547ea4deb728d1_preview_featured.jpg" width="200px" /> |
 | [OLKB (Planck, Preonic & Atomic)](https://github.com/olkb/olkb_parts) | 3d print, plate |  |
 | [Redox-Case](https://github.com/Lenbok/scad-redox-case) | split, thumb keys, opensCad, 3d print | <img src="https://github.com/Lenbok/scad-redox-case/raw/master/images/redox-exploded.png" width="200px"/> |
-| [96% plate mount case](https://www.thingiverse.com/thing:4293083) | case, 3d print, 96% plate and pcb mount | <img src="https://raw.githubusercontent.com/joeyvigil/MechanicalKeys/master/img/misc/96plate.JPG" width="200px"/> |
