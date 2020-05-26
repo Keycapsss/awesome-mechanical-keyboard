@@ -39,9 +39,9 @@
 | [Koda](https://github.com/larrbo/odd-rocket/tree/master/koda) | pcb, case | 4x12, pro micro, kailh choc | <img src="https://4.bp.blogspot.com/-E9gGZbziicI/WwoNKDP-YPI/AAAAAAAABYk/IXV4gGrcQKo5Bqf7CRVpR_zYH2SCxAXwACLcBGAs/s400/IMG_20180522_231738.jpg" width="200px"/> |
 | [Plaid](https://github.com/hsgw/plaid) | pcb | 4x12, atmega328p, through hole | <img src="https://user-images.githubusercontent.com/2714926/49872071-481ae000-fe5b-11e8-963d-8aaa3a653e4d.jpg" width="200px"/> |
 | [Planck THK](https://github.com/olkb/planck_thk) | pcb, case | 4x12, rotary encoder | <img src="https://i.imgur.com/Jiy1jLN.jpg" width="200px"/> |
+| [PRKL30](https://github.com/ErkHal/prkl30) | pcb, case | 30%, pro micro, bluetooth, underglow | <img src="https://camo.githubusercontent.com/9b39ee253a7cdcbfdbe80f7ef36ddd3ad5b17382/68747470733a2f2f692e696d6775722e636f6d2f4e6b67493339492e6a7067" width="200px"/> |
 | [QOL56](https://github.com/eswai/QOL56) | pcb, case | 4x14, pro micro, underglow, rgb | <img src="https://github.com/eswai/QOL56/raw/master/qol56-7.jpg" width="200px" /> |
 | [SharkPCB](https://github.com/Gondolindrim/SharkPCB) | pcb, case | 4x12, rotary encoder, STM32, underglow, 3d print | <img src="https://raw.githubusercontent.com/Gondolindrim/SharkPCB/master/graphics/renders/top.png" width="200px" /> |
-| []() |  |  | <img src="" width="200px" /> |
 
 ## Split Keyboards
 | Name | Available Files | Tags | Image |
