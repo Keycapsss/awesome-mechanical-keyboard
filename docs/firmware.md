@@ -5,6 +5,7 @@
 - [EasyAVR](https://github.com/dhowland/EasyAVR) -  is a keyboard firmware and keymapper GUI for custom keyboards based on USB AVRs.
 - [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Flexible firmware for Arduino-powered keyboards.
 - [Keyplus](https://github.com/ahtn/keyplus) - An easy to use keyboard firmware with support for wireless and wired split keyboards.
+- [KMK](https://github.com/KMKfw/kmk_firmware) - is a feature-rich and beginner-friendly firmware for computer keyboards written and configured in CircuitPython.
 - [Mechy](https://github.com/colinta/Mechy) - Arduino compatible, plugin based.
 - [MK32](https://github.com/Galzai/MK32) - Simple BLE keyboard for ESP32
 - [nrf52-keyboard](https://github.com/Lotlab/nrf52-keyboard) - A ble keyboard firmware using nrf52810/52832
