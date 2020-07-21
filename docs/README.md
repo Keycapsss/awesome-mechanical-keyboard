@@ -136,6 +136,7 @@
 | [Remnant](https://github.com/hsgw/Remnant) | pcb, case | 2x4, through hole, attiny85 | <img src="https://github.com/hsgw/Remnant/raw/master/doc/img/remnant.jpg" width="200px" /> |
 | [SAMD21 Bridge Module Cherry Board](https://www.pcbway.com/project/shareproject/DIY_RGB_Cherry_MX_Hotkey_Board.html) | pcb, case | plate | <img src="https://file.pcbway.com/websponsor/18/07/26/195654072.jpg" width="200px" /> |
 | [SAN](https://github.com/hsgw/san) | pcb, case | 1x3, STM32F042F6P6, hotswap | <img src="https://github.com/hsgw/san/raw/master/san.JPG" width="200px" /> |
+| [Yampad](https://github.com/mattdibi/yampad)| pcb, case | numpad, pro micro, oled, hotswap, underglow, ws2812 | <img src="https://github.com/mattdibi/yampad/blob/master/img/yampad2.jpg?raw=true" width="200px" /> |
 | [Zesty 25](https://github.com/Gtrx0/zesty25) | pcb, case | 5x5, pro micro, plate, underglow, ws2812b | <img src="https://raw.githubusercontent.com/Gtrx0/zesty25/master/Renders/Backside_Unpopulated.png" width="200px" /> |
 
 ## Case
@@ -171,4 +172,5 @@
 | [Miuni32-Case](https://github.com/wizarddata/Miuni32-Case) | 3d print, ortholinear, 3x11 | <img src="https://preview.redd.it/da5ey5fxfyp21.jpg?width=960&crop=smart&auto=webp&s=470ec31cd4ad760dd30c16591740b238fa8a59cc" width=200px /> |
 | [Nyquist Plate + Case](https://www.thingiverse.com/thing:2389357) | 3d print, split, ortholinear | <img src="https://cdn.thingiverse.com/renders/81/82/66/eb/3d/7b3575db20022d9ffa547ea4deb728d1_preview_featured.jpg" width="200px" /> |
 | [OLKB (Planck, Preonic & Atomic)](https://github.com/olkb/olkb_parts) | 3d print, plate |  |
+| [Preonic & Planck 5 Degree like keyboard case](https://www.thingiverse.com/thing:4538824/files) | 3d print, ortholinear | <img src="https://cdn.thingiverse.com/assets/dd/8b/50/30/d8/featured_preview_image0.jpg" width="200px" />
 | [Redox-Case](https://github.com/Lenbok/scad-redox-case) | split, thumb keys, opensCad, 3d print | <img src="https://github.com/Lenbok/scad-redox-case/raw/master/images/redox-exploded.png" width="200px"/> |
