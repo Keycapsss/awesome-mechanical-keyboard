@@ -8,4 +8,6 @@
 - [kle_render](https://github.com/CQCumbers/kle_render) - Get prettier images of Keyboard Layout Editor designs
 - [Parametric Mechanical Keycap Library](https://github.com/rsheldiii/KeyV2) - Is a keycap and keyset construction library for mechanical keyboards, written in openSCAD.
 - [Plate & Case Builder](http://builder.swillkb.com) - Keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts
+- [qmkJsonConverter](https://github.com/jhelvy/qmkJsonConverter) - converts the .json file exported from the [QMK configurator](https://config.qmk.fm/) into the code for the keymap.c file in your QMK settings.
+- [splitKbCompare](https://jhelvy.shinyapps.io/splitkbcompare/) - an interactive tool for comparing layouts of different split mechanical keyboards [Github page](https://github.com/jhelvy/splitKbCompare).
 - [Svg2Shenzhen](https://github.com/badgeek/svg2shenzhen) - Inkscape extension for exporting drawing into Kicad PCB.
