@@ -21,7 +21,7 @@
 | [Pheromone](https://github.com/luantty2/pheromone_keyboard) | pcb, case | atmega32U4,midi encoder, midi slider, oled | <img src="https://i.imgur.com/Tf8zDl9.jpg" width="200px" /> |
 | [Plain60-c](https://github.com/Maartenwut/plain60-c) | pcb | 60%, usb-c, atmega32U4 | <img src="https://camo.githubusercontent.com/85b21ccd9dfe95a86407fda6b1ee7ba14ec57bf4/68747470733a2f2f692e696d6775722e636f6d2f4f774f503956622e706e67" width="200px" /> |
 | [Pteron](https://github.com/FSund/pteron-keyboard) | case | 3x5, 3x6, 4x6, handwiring, pro micro | <img src="https://camo.githubusercontent.com/9f0a06184893760528f1c5db991c5463d403b528/68747470733a2f2f692e696d6775722e636f6d2f395168506c56442e6a7067" width="200px" /> |
-| [Sesame](https://github.com/kb-elmo/sesame) | pcb, case | "Alice" style layout, through-hole, ATmega32A, USB-C | <img src="https://i.imgur.com/IdudbWjl.jpg" width="200px"/> |
+| [Sesame](https://github.com/kb-elmo/sesame) | pcb, case | "Alice" style layout, through-hole, ATmega32A, USB-C | <img src="https://i.imgur.com/IdudbWjl.jpg" width="200px" /> |
 | [SB-147](https://github.com/sealclubber/SB-147) | case | 3d print, handwiring | <img src="https://i.imgur.com/VWGHzfU.jpg" width="200px" /> |
 | [Tanuki](https://github.com/SethSenpai/Tanuki) | pcb, case | 40%, underglow | <img src="https://github.com/SethSenpai/Tanuki/raw/master/Img/glamour1.jpg" width="200px" /> |
 | [Tartan](https://github.com/hsgw/tartan) | pcb, case | 60%, through hole, Atmega328p | <img src="https://github.com/hsgw/tartan/raw/master/doc/img/tartan.jpg" width="200px" /> |
