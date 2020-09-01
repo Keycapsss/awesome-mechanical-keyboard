@@ -11,6 +11,7 @@
 - [nrf52-keyboard](https://github.com/Lotlab/nrf52-keyboard) - A ble keyboard firmware using nrf52810/52832
 - [QMK](https://github.com/qmk/qmk_firmware) - A keyboard firmware based on the tmk_keyboard firmware for Atmel AVR and ARM controllers.
 - [TMK](https://github.com/tmk/tmk_keyboard) - Keyboard firmwares for Atmel AVR and Cortex-M.
+- [ZMK](https://zmkfirmware.dev) - MIT-licensed firmware built on top of the Zephyr RTOS that is “wireless first”.
 
 ## QMK
 - [kbd-prettier](https://github.com/blakedietz/kbd-prettier) - Automatically format your keyboard layout
