@@ -29,9 +29,11 @@
 | [Kailh Choc Switch Opener](https://www.thingiverse.com/thing:3097933) | <img src='https://cdn.thingiverse.com/renders/3b/1d/89/ce/64/ebd40108444afa0b011d3edcf2f3ee70_preview_featured.jpg' width='200px' /> |
 | [Kailh Choc to MX converter](https://www.thingiverse.com/thing:3412249) | <img src='https://cdn.thingiverse.com/renders/b9/f3/73/62/2a/8d8d0dcb1d069b1bb0e159cab77922ce_preview_featured.jpg' width='200px' /> |
 | [Keyboard Stand](https://www.thingiverse.com/thing:3886983) | <img src='https://cdn.thingiverse.com/assets/cc/70/06/e1/34/featured_preview_Stand.png' width='200px' /> |
+| [Lalboard](https://github.com/JesusFreke/lalboard) - a 3D-printed keyboard inspired by the DataHand. | <img src="https://raw.githubusercontent.com/JesusFreke/lalboard/master/docs/lalboard.jpg" width='200px' />
 | [MX-Fidger](https://www.thingiverse.com/thing:2466068) | <img src='https://cdn.thingiverse.com/renders/74/46/5a/59/d0/2c062987277a769d7885392add908739_preview_featured.jpg' width='200px' /> |
 | [Nav Switch to MX Adapter](https://www.thingiverse.com/thing:3958026) - adapter that allows an inexpensive 5-way nav switch to be easily placed into a Cherry MX-compatible switch plate. | <img src='https://cdn.thingiverse.com/assets/e1/9f/42/19/a2/featured_preview_IMG_20191105_105145.jpg' width='200px' /> |
 | [Rhombicuboctahedron Mechanical Keyboard Switch Tester](https://www.thingiverse.com/thing:3090229) | <img src='https://cdn.thingiverse.com/renders/2e/af/9f/a7/52/6d0a1a56853bf66ed6b5bb52424feeff_preview_featured.jpg' width='200px' /> |
+| [OpenSCAD Mechanical Keyboard Cases](https://github.com/Lenbok/scad-keyboard-cases) - is a OpenSCAD script to make 3D-printable split keyboard cases. | <img src='https://github.com/Lenbok/scad-keyboard-cases/raw/master/images/corne-exploded.png' width='200px' /> |
 | [Z-Butt-1U: Artisan Keycap creation platform](https://www.thingiverse.com/thing:3146222) | <img src='https://cdn.thingiverse.com/renders/bf/89/94/7e/d6/16c33dea760a31d7371a4a9bacbfdcc2_preview_featured.jpg' width='200px' /> |
 
 
@@ -40,6 +42,7 @@
 - [Cherry Keycap](https://github.com/ConstantinoSchillebeeckx/cherry-mx-keycaps) - 3D models of Cherry keycaps.
 - [DSA Keycap](https://www.thingiverse.com/thing:2172302) - 3D models of DSA keycaps.
 - [Kailh-Low-Profile-Keycap](https://github.com/ogatatsu/Kailh-Low-Profile-Keycap) - Kailh Low Profile Keycap 3D files.
+- [KeyV2](https://github.com/rsheldiii/KeyV2) - Parametric Mechanical Keycap Library for openSCAD.
 - [Retrofit Preonic Ergonomic Keycaps](https://www.thingiverse.com/thing:4178644)
 - [SA Keycap](https://github.com/getclacking/SA-profile-keys-3D-models) - 3D models of SA keycaps.
 - [XDA Keycap](https://github.com/spooknik/XDA-Keycaps) - 3D models of XDA keycaps.
@@ -58,3 +61,4 @@
 
 - [Typing Game](https://hsgw.github.io/typing_game/) - for keyboard exhibition. ranking and dictionary data is stored in local pc. you can use offline. [Github](https://github.com/hsgw/typing_game)
 - [Typings](https://typings.gg/) - is a sleek and modern typing test website. it supports many custom themes. [Github](https://github.com/briano1905/typings)
+- [Typefast.io](https://typefast.io) - minimalistic type-test sites with 16 different languages and custom word list. [(Github)](https://github.com/CasperVerswijvelt/TypeFast)  
