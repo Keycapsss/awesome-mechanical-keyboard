@@ -35,7 +35,7 @@
 | [Z-Butt-1U: Artisan Keycap creation platform](https://www.thingiverse.com/thing:3146222) | <img src='https://cdn.thingiverse.com/renders/bf/89/94/7e/d6/16c33dea760a31d7371a4a9bacbfdcc2_preview_featured.jpg' width='200px' /> |
 
 
-## Keycaps 3D Models
+## Keycap 3D Models
 
 - [Cherry Keycap](https://github.com/ConstantinoSchillebeeckx/cherry-mx-keycaps) - 3D models of Cherry keycaps.
 - [DSA Keycap](https://www.thingiverse.com/thing:2172302) - 3D models of DSA keycaps.
