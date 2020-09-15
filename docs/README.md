@@ -139,6 +139,7 @@
 | [Meishi2](https://github.com/Biacco42/meishi2) | pcb | 1x4, pro micro | <img src="https://i.imgur.com/2SQqVlZ.png" width="200px" /> |
 | [Mulletpad](https://github.com/coseyfannitutti/mulletpad) | pcb, case | numpad, usb-c, atmega32u4, smd | <img src="https://camo.githubusercontent.com/a57afd3b24b297f74daf1b31e864845fbd1f31cc/68747470733a2f2f692e696d6775722e636f6d2f3676374a764c4e2e706e67" width="200px" /> |
 | [Remnant](https://github.com/hsgw/Remnant) | pcb, case | 2x4, through hole, attiny85 | <img src="https://github.com/hsgw/Remnant/raw/master/doc/img/remnant.jpg" width="200px" /> |
+| [RoMac+](https://www.littlekeyboards.com/collections/new-products/products/romac) | pcb, case | 3x4, oled, underglow, rotary encoder, elite-c, pro micro, mx, alps, choc | <img src="https://cdn.shopify.com/s/files/1/0071/9172/4079/products/image_01e5c797-7988-451a-b8ee-38be16a93a17_1024x1024@2x.jpg?v=1599015793" width="200px" /> |
 | [SAMD21 Bridge Module Cherry Board](https://www.pcbway.com/project/shareproject/DIY_RGB_Cherry_MX_Hotkey_Board.html) | pcb, case | plate | <img src="https://file.pcbway.com/websponsor/18/07/26/195654072.jpg" width="200px" /> |
 | [SAN](https://github.com/hsgw/san) | pcb, case | 1x3, STM32F042F6P6, hotswap | <img src="https://github.com/hsgw/san/raw/master/san.JPG" width="200px" /> |
 | [Yampad](https://github.com/mattdibi/yampad)| pcb, case | numpad, pro micro, oled, hotswap, underglow, ws2812 | <img src="https://github.com/mattdibi/yampad/blob/master/img/yampad2.jpg?raw=true" width="200px" /> |
