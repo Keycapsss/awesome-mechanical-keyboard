@@ -2,6 +2,7 @@
 ## Keyboards
 | Name | Available Files | Tags | Image |
 | --- | --- | :---: | :---: |
+| [_33-Keyboard](https://github.com/tominabox1/_33-Keyboard) | pcb, case | gerber-only, stl | <img src="https://camo.githubusercontent.com/d722817b92b9dc25fba6a236ac0a128f76339854/68747470733a2f2f692e696d6775722e636f6d2f305775663861542e706e67" width="200px" /> |
 | [ANHEDRAL](https://github.com/eswai/anhedral) | pcb, case | pro micro | <img src="https://github.com/eswai/anhedral/raw/master/anhedral1-1.jpeg" width="200px" /> |
 | ~~Akihabara~~ | pcb, case | 40%, 3d print | <img src="https://cdn.thingiverse.com/renders/2a/ab/3d/2a/72/20404c338dddde183e41bf112c8b3bbb_preview_featured.jpg" width="200px" /> |
 | [Alpha](https://github.com/PyrooL/Alpha) | pcb, case | <30% | <img src="https://i.imgur.com/alNWnhZ.jpg" width="200px" /> |
@@ -16,6 +17,7 @@
 | [Gameboy Keyboard case](https://www.thingiverse.com/thing:3007828) | case, pcb | 3d print, pcb | <img src="https://cdn.thingiverse.com/renders/4c/5f/a1/08/09/5d5fe686b8dbcc86c38133f7487ddcf5_preview_featured.JPG" width="200px" /> |
 | [GH60](https://github.com/komar007/gh60) | pcb | 60%, atmega32U4 | <img src="https://camo.githubusercontent.com/fdc087b8362f264e37c17212c78026bfaaa285be/687474703a2f2f626c6f672e6b6f6d61722e62652f77702d636f6e74656e742f75706c6f6164732f323031332f30322f747474312d363430783235372e6a7067" width="200px" /> |
 | [HacKeyboard](https://github.com/masaleiro/HacKeyboard) | pcb, case |  | <img src="https://cdn.instructables.com/F9P/KCPI/IGV4DBXA/F9PKCPIIGV4DBXA.LARGE.jpg" width="200px" /> |
+| [Le Chiffre](https://github.com/tominabox1/Le-Chiffre-Keyboard) | pcb, case | atmega32u4, ergo, smd, stl, 3d print | <img src="https://camo.githubusercontent.com/f5bc3eaabb92bb103ba741b7530000153e5bf182/68747470733a2f2f692e696d6775722e636f6d2f515834744e6f6d2e706e67" width="200px" /> |
 | ~~Mullet~~ | pcb, case | staggered, smd, usb-c, underglow, atmega32u4 | <img src="https://camo.githubusercontent.com/2dac93377903e99500664ec9f6908cd68746fd63/68747470733a2f2f692e696d6775722e636f6d2f45424f4d6268482e6a7067" width="200px" /> |
 | [Mysterium](https://github.com/coseyfannitutti/mysterium) | pcb, case | tkl, ATMEGA32A, usb-c | <img src="https://github.com/coseyfannitutti/mysterium/blob/master/doc/images/mysterium.jpg?raw=true" width="200px" /> |
 | [Pheromone](https://github.com/luantty2/pheromone_keyboard) | pcb, case | atmega32U4,midi encoder, midi slider, oled | <img src="https://i.imgur.com/Tf8zDl9.jpg" width="200px" /> |
@@ -72,6 +74,7 @@
 | [Fourier](https://github.com/keebio/fourier) | pcb | split, staggered | <img src="https://camo.githubusercontent.com/3dadc57ab6cb05e7d43de5b1570f60c645914347/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f313835312f353132352f70726f64756374732f696d6167655f31643338373933632d656262362d346466382d626162352d3933333136323632386665355f3130323478313032344032782e6a70673f763d31353139393731373937" width="200px" /> |
 | [Jiran](https://github.com/Ladniy/jiran-breakoff) | pcb, case | split, pro micro, thumb keys, hotswap | <img src="https://camo.githubusercontent.com/7097bb276026ce3e9a1ae02c34cc7b094c1c6d54/68747470733a2f2f692e696d6775722e636f6d2f486e41324f6e632e706e67" width="200px" /> |
 | [Jorne](https://github.com/joric/jorne) | pcb, case | split, pro micro, thumb keys, oled, underglow | <img src="https://camo.githubusercontent.com/b78430a5f5b8c28401e374afc1fa30fb7ef74041/68747470733a2f2f692e696d6775722e636f6d2f36706f775a31482e6a7067" width="200px" /> |
+| [KeySeeBee](https://github.com/TeXitoi/keyseebee) | pcb | split, STM32F072CBT6, smd, choc | <img src="https://github.com/TeXitoi/keyseebee/blob/master/images/keyseebee.jpg?raw=true" width="200px" /> |
 | [Kissboard](https://github.com/fhtagnn/kissboard) | pcb, case | split, thumb keys, vertically staggered, mx, bluetooth, pro micro, 3d print | <img src="https://github.com/fhtagnn/kissboard/blob/master/schematics/kissboard_top.png?raw=true" width="200px" /> |
 | [Kotonoha-BONSAI](https://github.com/MasayukiFukada/kotonoha_keyboards/tree/master/bonsai) | pcb, case | split, pro micro | <img src="https://github.com/MasayukiFukada/kotonoha_keyboards/blob/master/docs/images/kotonoha_bonsai.jpg?raw=true" width="200px" /> |
 | [Kotonoha-IAI](https://github.com/MasayukiFukada/kotonoha_keyboards/tree/master/iai) | pcb, case | split, pro micro | <img src="https://github.com/MasayukiFukada/kotonoha_keyboards/blob/master/docs/images/kotonoha_iai.jpg?raw=true" width="200px" /> |
