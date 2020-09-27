@@ -100,6 +100,13 @@
 | [Zen (RGBKB)](https://github.com/RGBKB/Keyboard-files/tree/master/Zen) [Build Guide](https://legonut.gitbooks.io/zen-keyboard/content/) | pcb, case | split, ergo, ortho, thumb keys, rgb led | <img src="https://camo.githubusercontent.com/6bf0257847f1e1972cfd6b9f289a6e8180163ff8/68747470733a2f2f692e696d6775722e636f6d2f7a337630416b732e6a7067" width="200px" /> |
 | []() |  |  | <img src="" width="200px" /> |
 
+## Drop-in replacement PCB
+- [AEK II USB](https://github.com/kb-elmo/aek2_usb) - Apple Extended Keyboard II (QMK compatible)
+- [E80-1800](https://github.com/ebastler/E80-1800) - Cherry G80-1800 (QMK compatible)
+- [M0110a USB](https://github.com/kb-elmo/m0110a_usb) - Apple M0110a (QMK compatible)
+- [M0116 USB](https://github.com/kb-elmo/m0116_usb) - Apple M0116 (QMK compatible, Mini-USB)
+- [WY-60 USB](https://github.com/kb-elmo/wy60_usb) - Wyse ASCII WY-60QMK (QMK compatible, Mini-USB)
+
 ## Handwired
 | Name | Available Files | Tags | Image |
 | --- | --- | :---: | :---: |
