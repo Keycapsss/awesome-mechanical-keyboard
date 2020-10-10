@@ -18,7 +18,7 @@
 - [Keyboard Firmware Builder](https://kbfirmware.com) - Online QMK Firmware Builder (2+ years behind QMK firmware master)
 - [Q2K](https://github.com/2hwk/Q2K) - A python based utility for parsing QMK Firmware keymaps to various outputs
 - [QMK Configurator](https://config.qmk.fm/) - An open source configurator for QMK Firmware
-- [qmk_emote_macro_generator](https://github.com/klardotsh/qmk_emote_macro_generator) - Easily generate QMK macro/leader sequences for arbitrary unicode sequences.- [Keyboard Firmware Builder](https://kbfirmware.com) - Online QMK Firmware Builder (2+ years behind QMK firmware master)
+- [qmk_emote_macro_generator](https://github.com/klardotsh/qmk_emote_macro_generator) - Easily generate QMK macro/leader sequences for arbitrary unicode sequences.
 
 ## TMK
 - [TMK Firmware Builder](http://kb.sized.io) - Online TMK Firmware Builder
