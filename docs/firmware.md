@@ -9,10 +9,10 @@
 - [Mechy](https://github.com/colinta/Mechy) - Arduino compatible, plugin based.
 - [MK32](https://github.com/Galzai/MK32) - Simple BLE keyboard for ESP32
 - [nrf52-keyboard](https://github.com/Lotlab/nrf52-keyboard) - A ble keyboard firmware using nrf52810/52832
+- [Python-Keyboard](https://github.com/makerdiary/python-keyboard) - A highly extensible firmware written in Python, based on CircuitPython, with RGB, USB and Bluetooth.
 - [QMK](https://github.com/qmk/qmk_firmware) - A keyboard firmware based on the tmk_keyboard firmware for Atmel AVR and ARM controllers.
 - [TMK](https://github.com/tmk/tmk_keyboard) - Keyboard firmwares for Atmel AVR and Cortex-M.
 - [ZMK](https://zmkfirmware.dev) - MIT-licensed firmware built on top of the Zephyr RTOS that is “wireless first”.
-- [python-keyboard](https://github.com/makerdiary/python-keyboard) - A highly extensible firmware written in Python, based on CircuitPython, with RGB, USB and Bluetooth.
 
 ## QMK
 - [kbd-prettier](https://github.com/blakedietz/kbd-prettier) - Automatically format your keyboard layout
