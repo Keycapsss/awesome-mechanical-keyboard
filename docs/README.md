@@ -118,6 +118,7 @@
 | [Atreis](https://github.com/dekonnection/atreis) | case | handwiring | <img src="https://github.com/dekonnection/atreis/raw/master/pictures/GPI0El4.jpg" width="200px" /> |
 | [Atreus Split Keyboard](https://www.thingiverse.com/thing:1646718) | case | 3d print, split, pro micro | <img src="https://cdn.thingiverse.com/renders/2a/35/f6/bd/51/ee77cfa99ac6c721974f6eb92a52cce9_preview_featured.jpg" width="200px" /> |
 | [Ergo-Warped](https://github.com/pseudoku/ErgoWarp) | case | 3d print, split, ergo | <img src="https://raw.githubusercontent.com/pseudoku/Warped-keyboard/master/Photo/Proto6.jpg" width="200px" /> |
+| [Freoduo](https://www.thingiverse.com/thing:4565609) | case | 3d print, split, ergo | <img src="https://i.imgur.com/Fvgm3Y5.jpg" width="200px" /> |
 | [fAuxLICE](https://github.com/ramonimbao/Alice-like_Handwired) | case | 3d print, handwiring, stm32, ergo | <img src="https://raw.githubusercontent.com/ramonimbao/Alice-like_Handwired/master/images/outside.jpg" width="200px"> |
 | [Keyberon](https://github.com/TeXitoi/keyberon) | case, firmware | 3d print, handwiring, blue pill, ortholinear | <img src="https://raw.githubusercontent.com/TeXitoi/keyberon/master/images/keyberon.jpg" width="200px" /> |
 | [Keyberon-f4](https://github.com/TeXitoi/keyberon-f4) | case | stm32f401, usb-c, handwiring, 3d print | <img src="https://github.com/TeXitoi/keyberon-f4/blob/master/images/keyberon-56.jpg?raw=true" width="200px" /> |
@@ -166,6 +167,7 @@
 | Name | Tags | Image |
 | --- | :---: | :---: |
 | [60% (Poker II, Pok3r) Keyboard Case 2.0](https://www.thingiverse.com/thing:983332) | 3d print | <img src="https://cdn.thingiverse.com/renders/8a/ac/f9/d8/ad/zanmYsB_-_Imgur_preview_featured.jpg" width="200px" /> |
+| [Alpha by Pyrol](https://www.myminifactory.com/object/3d-print-alpha-keyboard-case-pyrool-28-key-pcb-103767) | 3d print | <img src="https://cdn.myminifactory.com/assets/object-assets/5db6033fc6df3/images/720X720-cases.jpg" width="200px" /> |
 | [Arisu Keyboard Case](https://github.com/FateNozomi/arisu-case) | plate | <img src="https://camo.githubusercontent.com/52126fe22185eb48a922b8f7a2a2726cb2f19226/68747470733a2f2f692e696d6775722e636f6d2f6b6e74353138452e6a7067" width="200px" /> |
 | [Atreus62 High Profile Keyboard Case](https://www.thingiverse.com/thing:3246981) | 3d print | <img src="https://cdn.thingiverse.com/renders/e5/f1/48/84/33/5c363031158a92007b63b0468cea95c6_preview_featured.jpg" width="200px" /> |
 | [Chimera Egro 42 Tenting Case](https://github.com/wizarddata/Chimera-Egro-42-Case) | 3d print, tenting, split |  |
