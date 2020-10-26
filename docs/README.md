@@ -29,6 +29,7 @@
 | [Pteron](https://github.com/FSund/pteron-keyboard) | case | 3x5, 3x6, 4x6, handwiring, pro micro | <img src="https://camo.githubusercontent.com/9f0a06184893760528f1c5db991c5463d403b528/68747470733a2f2f692e696d6775722e636f6d2f395168506c56442e6a7067" width="200px" /> |
 | [Sesame](https://github.com/kb-elmo/sesame) | pcb, case | ergonomic, through-hole, atmega32A, usb-c | <img src="https://i.imgur.com/IdudbWjl.jpg" width="200px" /> |
 | [SB-147](https://github.com/sealclubber/SB-147) | case | 3d print, handwiring | <img src="https://i.imgur.com/VWGHzfU.jpg" width="200px" /> |
+| [Solheim68 (Varmilo VA68M replacement)](https://github.com/evyd13/solheim68) | pcb | | |
 | [Tanuki](https://github.com/SethSenpai/Tanuki) | pcb, case | 40%, underglow | <img src="https://github.com/SethSenpai/Tanuki/raw/master/Img/glamour1.jpg" width="200px" /> |
 | [Tartan](https://github.com/hsgw/tartan) | pcb, case | 60%, through hole, Atmega328p | <img src="https://github.com/hsgw/tartan/raw/master/doc/img/tartan.jpg" width="200px" /> |
 | [Tg4x](https://github.com/MythosMann/tg4x) | pcb, case | pro micro, 40% | <img src="https://raw.githubusercontent.com/MythosMann/tg4x/master/pcb.jpg" width="200px" /> |
@@ -66,6 +67,7 @@
 | [Crkbd x jian](https://github.com/kluelesskk/crkbd) | pcb, case | split, oled, 3x6, vertically staggered, thumb keys, kailh choc | <img src="https://i.imgur.com/QqnAWvG.jpg" width="200px" /> |
 | [Dactyl](https://github.com/adereth/dactyl-keyboard) | pcb, case | split, thumb keys, 5x6, 60%, 3d print | <img src="https://raw.githubusercontent.com/adereth/dactyl-cave/master/resources/glamourshot.png" width="200px" /> |
 | [Dactyl-ManuForm](https://github.com/tshort/dactyl-keyboard) | pcb, case | split, thumb keys, 4x5, 5x6, 40%, 60%, 3d print | <img src="https://camo.githubusercontent.com/a8dc88b0a973913a28a2373a7f3a9a3031af2672/687474703a2f2f692e696d6775722e636f6d2f4c646a456872522e6a7067" width="200px" /> |
+| [Djinn](https://github.com/tzarc/djinn) | pcb, case | 4x7, split, rotary encoder, underglow  | <img src="https://camo.githubusercontent.com/662433910ee7010207ec21f736a1d2841608ebab/68747470733a2f2f692e696d6775722e636f6d2f695a6d454732652e6a7067" width="200px" /> |
 | [DMOTE](https://github.com/veikman/dactyl-keyboard) | case | concave, thumb keys, split, alps, mx | <img src="https://camo.githubusercontent.com/85b0066d64467a10e0d0bcbdde26e6726eb95fde/687474703a2f2f76696b746f722e65696b6d616e2e73652f696d6167652f646d6f74652d322d746f702d646f776e2d766965772f646973706c6179" width="200px" /> |
 | [Elephant42](https://github.com/illness072/elephant42) | pcb, case | split, pro micro | <img src="https://github.com/illness072/elephant42/blob/master/what-is-this.jpg?raw=true" width="200px" /> |
 | [Ergo42](https://github.com/Biacco42/Ergo42) | pcb, case | split, 4x7 | <img src="https://raw.githubusercontent.com/Biacco42/Ergo42/readme/readme_image/ergo42_image.jpg" width="200px" /> |
