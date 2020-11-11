@@ -27,7 +27,7 @@
 | [Pheromone](https://github.com/luantty2/pheromone_keyboard) | pcb, case | atmega32U4,midi encoder, midi slider, oled | <img src="https://i.imgur.com/Tf8zDl9.jpg" width="200px" /> |
 | [Plain60-c](https://github.com/Maartenwut/plain60-c) | pcb | 60%, usb-c, atmega32U4 | <img src="https://camo.githubusercontent.com/85b21ccd9dfe95a86407fda6b1ee7ba14ec57bf4/68747470733a2f2f692e696d6775722e636f6d2f4f774f503956622e706e67" width="200px" /> |
 | [Pteron](https://github.com/FSund/pteron-keyboard) | case | 3x5, 3x6, 4x6, handwiring, pro micro | <img src="https://camo.githubusercontent.com/9f0a06184893760528f1c5db991c5463d403b528/68747470733a2f2f692e696d6775722e636f6d2f395168506c56442e6a7067" width="200px" /> |
-| [Reviung](https://github.com/gtips/reviung) | pcb, case | ergo, vertically staggered | <img src="https://raw.githubusercontent.com/gtips/reviung/master/reviung41/image/REVIUNG41B-1.jpg" width="200px" /> |
+| [Reviung](https://github.com/gtips/reviung) | pcb, case | ergo, vertically staggered, pro micro, ws2812b, underglow | <img src="https://raw.githubusercontent.com/gtips/reviung/master/reviung41/image/REVIUNG41B-1.jpg" width="200px" /> |
 | [Sesame](https://github.com/kb-elmo/sesame) | pcb, case | ergonomic, through-hole, atmega32A, usb-c | <img src="https://i.imgur.com/IdudbWjl.jpg" width="200px" /> |
 | [SB-147](https://github.com/sealclubber/SB-147) | case | 3d print, handwiring | <img src="https://i.imgur.com/VWGHzfU.jpg" width="200px" /> |
 | [Solheim68 (Varmilo VA68M replacement)](https://github.com/evyd13/solheim68) | pcb | | |
@@ -65,7 +65,7 @@
 | [Apoptosis](https://github.com/pseudoku/Apoptosis) | pcb | 3x6, vertically staggered, thumb keys | <img src="https://raw.githubusercontent.com/pseudoku/Apoptosis/master/Apoptosis_PCB.jpg" width="200px" /> |
 | [Chimera Ortho](https://github.com/GlenPickle/Chimera) | pcb | split, wireless | <img src="https://i.imgur.com/WqYzK5J.jpg" width="200px" /> |
 | [Chimera Ergo/Ergo Mini/Ergo 42](https://github.com/GlenPickle/Chimera) | pcb | split, wireless, vertically staggered | <img src="https://i.imgur.com/AA6ycMQ.jpg" width="200px"> <img src="https://i.imgur.com/LAny3ue.jpg" width="200px" /> <img src="https://i.imgur.com/wfTsIKV.jpg" width="200px" /> |
-| [Comet46](https://github.com/satt99/comet46-hardware) | pcb, case | split, wireless, 40%, column-staggered, atmega32u4, nRF51822 | <img src="https://user-images.githubusercontent.com/39004890/50396817-a1660600-07af-11e9-8611-3156c635db43.jpg" width="200px" /> |
+| [Comet46](https://github.com/satt99/comet46-hardware) | pcb, case | split, wireless, 40%, column-staggered, atmega32u4, nrf51822 | <img src="https://user-images.githubusercontent.com/39004890/50396817-a1660600-07af-11e9-8611-3156c635db43.jpg" width="200px" /> |
 | [Crkbd](https://github.com/foostan/crkbd) | pcb, case | split, oled, 3x6, vertically staggered, thumb keys, kailh choc | <img src="https://user-images.githubusercontent.com/736191/40575636-6fba63a4-6123-11e8-9ca0-3f990f1f9f4c.jpg" width="200px" /> |
 | [Crkbd x jian](https://github.com/kluelesskk/crkbd) | pcb, case | split, oled, 3x6, vertically staggered, thumb keys, kailh choc | <img src="https://i.imgur.com/QqnAWvG.jpg" width="200px" /> |
 | [Dactyl](https://github.com/adereth/dactyl-keyboard) | pcb, case | split, thumb keys, 5x6, 60%, 3d print | <img src="https://raw.githubusercontent.com/adereth/dactyl-cave/master/resources/glamourshot.png" width="200px" /> |
@@ -100,13 +100,13 @@
 | [Mitosis](https://github.com/reversebias/mitosis-hardware) | pcb, case | split, wireless | <img src="https://i.imgur.com/gApMkzz.jpg" width="200px" /> |
 | [Orbit](https://github.com/ai03-2725/Orbit) | pcb | split, 5x7, thumb keys, usb-c | <img src="https://raw.githubusercontent.com/ai03-2725/Orbit/master/Images/PCB-R1.5.jpg" width="200px" /> |
 | [Redox](https://github.com/mattdibi/redox-keyboard) | case | split, thumb keys, opensCad, 3d print | <img src="https://cdn.thingiverse.com/renders/62/c5/d6/91/6f/f23021b44a5e59a6838fc8b440fb8b56_preview_featured.jpg" width="200px" /> |
-| [Science](https://github.com/peej/for-science-keyboard) | pcb | split, arduino, 5x5| <img src="https://camo.githubusercontent.com/fecf6f7bca9ec8b93e4031caa1ca3442cfb5a5f1/68747470733a2f2f692e696d6775722e636f6d2f666a6e546b42312e6a7067" width="200px" /> |
-| [Sector](https://github.com/omkbd/Sector) | pcb, case | split, arduino| <img src="https://raw.githubusercontent.com/omkbd/Sector/master/Picture/SectorC.jpg" width="200px" /> |
+| [Science](https://github.com/peej/for-science-keyboard) | pcb | split, arduino, 5x5 | <img src="https://camo.githubusercontent.com/fecf6f7bca9ec8b93e4031caa1ca3442cfb5a5f1/68747470733a2f2f692e696d6775722e636f6d2f666a6e546b42312e6a7067" width="200px" /> |
+| [Sector](https://github.com/omkbd/Sector) | pcb, case | split, arduino, pro micro, oled | <img src="https://raw.githubusercontent.com/omkbd/Sector/master/Picture/SectorC.jpg" width="200px" /> |
 | [Sofle Keyboard](https://github.com/josefadamcik/SofleKeyboard?utm_source=share&utm_medium=ios_app&utm_name=iossmf) | pcb, case | 5x6, rotary, pro micro, split | <img src="https://github.com/josefadamcik/SofleKeyboard/blob/master/Images/IMG_20200126_114622.jpg?raw=true" width="200px" /> |
 | [Split Infinitive](https://github.com/peej/for-split-keyboard/blob/master/README.md) | pcb | split, 5x6, pro micro | <img src="https://github.com/peej/for-split-keyboard/raw/master/pcb.png" width="200px" /> |
 | [Torn](https://github.com/rtitmuss/torn) | pcb, case | split, oled, 3x6, vertically staggered, thumb keys, atmega328p, through hole | <img src="https://raw.githubusercontent.com/rtitmuss/torn/master/doc/img/torn.jpg" width="200px" /> |
 | [Ultimate Hacking Keyboard](https://github.com/UltimateHackingKeyboard/electronics) | pcb | split, display, 31FL3731 | <img src="https://ultimatehackingkeyboard.com/wordpress/wp-content/uploads/2018/07/uhk-split-palm-rest-1920.jpg" width="200px" /> |
-| [Xenon Keyboard](https://github.com/narinari/xenon-keyboard) | pcb, case | split, vertically staggered, thumb keys | <img src="https://raw.githubusercontent.com/narinari/xenon-keyboard/master/resources/example/xenon-classic_godspeed-custom-sa.jpg" width="200px" /> |
+| [Xenon Keyboard](https://github.com/narinari/xenon-keyboard) | pcb, case | split, vertically staggered, thumb keys, oled, pro micro | <img src="https://raw.githubusercontent.com/narinari/xenon-keyboard/master/resources/example/xenon-classic_godspeed-custom-sa.jpg" width="200px" /> |
 | [Zen (RGBKB)](https://github.com/RGBKB/Keyboard-files/tree/master/Zen) [Build Guide](https://legonut.gitbooks.io/zen-keyboard/content/) | pcb, case | split, ergo, ortho, thumb keys, rgb led | <img src="https://camo.githubusercontent.com/6bf0257847f1e1972cfd6b9f289a6e8180163ff8/68747470733a2f2f692e696d6775722e636f6d2f7a337630416b732e6a7067" width="200px" /> |
 | []() |  |  | <img src="" width="200px" /> |
 
