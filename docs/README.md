@@ -158,6 +158,7 @@
 | [Dumbpad](https://github.com/imchipwood/dumbpad) | pcb | pcb, atmega32u4, rotary encoder | <img src="https://i.imgur.com/sS3fq1Z.jpg" width="200px" /> |
 | [Game cart macropad](https://www.thingiverse.com/thing:3029578) | pcb, case | 4x4, 3d print | <img src="https://cdn.thingiverse.com/renders/f2/ab/f5/bd/7a/590674241125b3f375c064646978a1d0_preview_featured.jpg" width="200px" /> |
 | [GeekPad](https://git.bthlabs.pl/tomekwojcik/geekpad/) | pcb, case | 3x3, 3d print | <img src="https://i.imgur.com/FEzO81l.jpg" width="200px" /> |
+| [Hub16](https://github.com/joshajohnson/Hub16) | pcb, case | 4x4, rotary encoder, usb hub, hotswap, underglow, ws2812  | <img src="https://github.com/joshajohnson/Hub16/raw/master/Documents/imgs/header-img.JPG" width="200px" /> |
 | [Kbord](https://github.com/dekuNukem/kbord) | pcb, case | 5x3, oled, rgb, sd-card | <img src="https://github.com/dekuNukem/kbord/raw/master/resources/pics/title.jpg" width="200px" /> |
 | [LFK17](https://github.com/lfkeyboards/lfk17) | pcb | 5x4, numpad, hotswap, rgb | <img src="https://i.imgur.com/N4x5wXp.jpg" width="200px" /> |
 | [Lysergic 25](https://github.com/Gtrx0/lysergic25) | pcb, plate | 5x5, pro micro, plate, underglow, ws2812b, esd, usb-c | <img src="https://raw.githubusercontent.com/Gtrx0/lysergic25/master/Renders/Backside_populated.png" width="200px" /> |
