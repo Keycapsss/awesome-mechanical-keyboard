@@ -183,6 +183,7 @@
 | [60% (Poker II, Pok3r) Keyboard Case 2.0](https://www.thingiverse.com/thing:983332) | 3d print | <img src="https://cdn.thingiverse.com/renders/8a/ac/f9/d8/ad/zanmYsB_-_Imgur_preview_featured.jpg" width="200px" /> |
 | [Alpha keyboard case](https://www.myminifactory.com/object/3d-print-alpha-keyboard-case-pyrool-28-key-pcb-103767) | 3d print | <img src="https://cdn.myminifactory.com/assets/object-assets/5db6033fc6df3/images/720X720-cases.jpg" width="200px" /> |
 | [Arisu Keyboard Case](https://github.com/FateNozomi/arisu-case) | plate | <img src="https://camo.githubusercontent.com/52126fe22185eb48a922b8f7a2a2726cb2f19226/68747470733a2f2f692e696d6775722e636f6d2f6b6e74353138452e6a7067" width="200px" /> |
+| [Atom47 for Vortex Core](https://github.com/evyd13/atom47) | 3d print | <img src="https://github.com/evyd13/atom47/raw/master/photo.jpg" width="200px" /> |
 | [Atreus62 High Profile Keyboard Case](https://www.thingiverse.com/thing:3246981) | 3d print | <img src="https://cdn.thingiverse.com/renders/e5/f1/48/84/33/5c363031158a92007b63b0468cea95c6_preview_featured.jpg" width="200px" /> |
 | [Chimera Egro 42 Tenting Case](https://github.com/wizarddata/Chimera-Egro-42-Case) | 3d print, tenting, split |  |
 | [Cospad Case](https://www.thingiverse.com/thing:3233852) | 3d print, numpad | <img src="https://cdn.thingiverse.com/renders/23/ce/51/e6/60/c529ac4f1f85fb603e729532d6a4e3a5_preview_featured.jpg" width="200px" /> |
@@ -190,6 +191,7 @@
 | [CRKBD Case](https://www.thingiverse.com/thing:4039133) | 3d print, split | <img src="https://cdn.thingiverse.com/assets/52/9b/1f/05/0b/featured_preview_20191211_113759.jpg" width="200px" />
 | [CRKBD Case Cloud](https://www.thingiverse.com/thing:4047797) | 3d print, split | <img src="https://cdn.thingiverse.com/assets/ce/f2/81/fd/94/featured_preview_20191214_104210.jpg" width="200px" />
 | [CRKBD SpaceCase](https://www.thingiverse.com/thing:4003113) | 3d print, split | <img src="https://cdn.thingiverse.com/assets/2f/3d/a8/cc/e9/featured_preview_Right.jpg" width="200px" /> |
+| [CRKBD Case VOID Ergo S](https://www.thingiverse.com/thing:4628137) | 3d print, split | <img src="https://cdn.thingiverse.com/assets/82/5a/99/b6/cf/featured_preview_resized_IMG_20201005_133140.jpg" width="200px" />
 | [Dactyl extended bottom case with gel wrist rests](https://www.thingiverse.com/thing:2436848) | 3d print, split | <img src="https://cdn.thingiverse.com/renders/36/ef/6d/5f/59/c7a62cce09db90af7db2c013ccf94171_preview_featured.jpg" width="200px" /> |
 | [Dactyl Manuform 5x6 keyboard wrist rests](https://www.thingiverse.com/thing:2964741) | 3d print, split | <img src="https://cdn.thingiverse.com/renders/1c/ed/76/59/b5/d054143d7a52b02d6d7d55cc49839b8e_preview_featured.JPG" width="200px" /> |
 | [ErgoDash Tenting Case](https://github.com/wizarddata/Ergodash-Case) | 3d printing, split, tenting | |
