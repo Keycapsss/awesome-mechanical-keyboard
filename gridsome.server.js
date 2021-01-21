@@ -71,6 +71,7 @@ module.exports = function (api) {
       {
         user(login: "BenRoe") {
           sponsorshipsAsMaintainer(first: 5) {
+            totalCount
             edges {
               node {
                 sponsor {
@@ -90,15 +91,25 @@ module.exports = function (api) {
       })
       const sponsorsData = await graphqlClient.request(sponsorsQuery)
       
-      // add each node the the collection
-      sponsorsData.user.sponsorshipsAsMaintainer.edges.forEach(function(item) {         
+      if (sponsorsData.user.sponsorshipsAsMaintainer.edges.node) {
+        // add each node the the collection
+        sponsorsData.user.sponsorshipsAsMaintainer.edges.forEach(function(item) {         
+          sponsors.addNode({
+            id: item.node.sponsor.id,
+            login: item.node.sponsor.login,
+            avatarUrl: item.node.sponsor.avatarUrl,
+            url: item.node.sponsor.url,
+          })
+        }) 
+      } else {
+        // fill node with data, to prevent an error during build process
         sponsors.addNode({
-          id: item.node.sponsor.id,
-          login: item.node.sponsor.login,
-          avatarUrl: item.node.sponsor.avatarUrl,
-          url: item.node.sponsor.url,
-        })
-      }) 
+          id: '0',
+          login: 'Support This Project',
+          avatarUrl: 'https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/batman_hero_avatar_comics-512.png',
+          url: 'https://github.com/sponsors/BenRoe',
+        })   
+      }
     
     // Get contributor list and add to GraphQL
     const { data } = await axios.get('https://api.github.com/repos/BenRoe/awesome-mechanical-keyboard/contributors?q=contributions&order=desc') 
