@@ -5,10 +5,10 @@ body {
 }
 .active--exact {
   @apply font-bold;
-  @apply text-primary;
+  @apply text-primary-default;
 }
 a:hover{
-    @apply text-primary;
+    @apply text-primary-default;
 }
 h1 {
   @apply text-3xl;
@@ -39,7 +39,7 @@ td {
   @apply border-b-2;
 }
 .content a:hover {
-  @apply border-primary;
+  @apply border-primary-default;
 }
 .content ul {
   @apply ml-5;
