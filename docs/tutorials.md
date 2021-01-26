@@ -9,3 +9,8 @@
 - [Need a USB cable? Build one!](https://josef-adamcik.cz/electronics/need-a-usb-cable-build-on.html) - How to build a custom USB cable with aviation connectors and coils.
 - [The Keyboard Matrix ](http://blog.komar.be/how-to-make-a-keyboard-the-matrix/) - How a keyboard matrix work, explained in depth.
 - [The Keyboard Matrix 2](https://www.dribin.org/dave/keyboard/one_html/) - Another explanation how a keyboard matrix work and why it needs diodes.
+
+## Build-Guide Videos
+- [Crkbd v2.1 build - no leds](https://www.youtube.com/watch?v=-E7KRnVCjq8)
+- [Crkbd v3.0 build](https://www.youtube.com/watch?v=O49hrYDCL3o)
+- [ErgoDash v1.2 build - no leds](https://www.youtube.com/watch?v=weV0FkCVkLE)
