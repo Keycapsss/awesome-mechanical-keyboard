@@ -5,7 +5,7 @@
 | [_33-Keyboard](https://github.com/tominabox1/_33-Keyboard) | pcb, case | gerber-only, stl | <img src="https://camo.githubusercontent.com/d722817b92b9dc25fba6a236ac0a128f76339854/68747470733a2f2f692e696d6775722e636f6d2f305775663861542e706e67" width="200px" /> |
 | [00Key](https://github.com/jefjef/00Key) | pcb, case | 75%, teensy, ssd1306, oled, backlight, through hole | <img src="https://github.com/jefjef/00Key/blob/master/images/build/DSCF2616.JPG?raw=true" width="200px" /> |
 | [ANHEDRAL](https://github.com/eswai/anhedral) | pcb, case | pro micro | <img src="https://github.com/eswai/anhedral/raw/master/anhedral1-1.jpeg" width="200px" /> |
-| ~~Akihabara~~ | pcb, case | 40%, 3d print | <img src="https://cdn.thingiverse.com/renders/2a/ab/3d/2a/72/20404c338dddde183e41bf112c8b3bbb_preview_featured.jpg" width="200px" /> |
+| ~~Akihabara~~ | pcb, case | 40%, 3d print | <img src="" width="200px" /> |
 | [Alpha](https://github.com/PyrooL/Alpha) | pcb, case | <30% | <img src="https://i.imgur.com/alNWnhZ.jpg" width="200px" /> |
 | [Arisu Keyboard PCB](https://github.com/FateNozomi/arisu-pcb) | pcb, case |  | <img src="https://camo.githubusercontent.com/52126fe22185eb48a922b8f7a2a2726cb2f19226/68747470733a2f2f692e696d6775722e636f6d2f6b6e74353138452e6a7067" width="200px" /> |
 | [Atreus](https://github.com/technomancy/atreus) | pcb, case | 40% | <img src="https://github.com/technomancy/atreus/raw/master/atreus.jpg" width="200px" /> |
@@ -18,10 +18,10 @@
 | [CW40](https://github.com/ktec-hq/CW40) | pcb | 40%, underglow, alps | <img src="" width="200px" /> |
 | [Discipline](https://github.com/coseyfannitutti/discipline) | pcb, case | 65%, staggered, through hole, usb-c,  | <img src="https://github.com/coseyfannitutti/discipline/blob/master/doc/images/discipline.jpeg?raw=true" width="200px" /> |
 | [Flounder](https://hackaday.io/project/167912-flounder-keyboard) | pcb | micro-usb, kailh-choc, low-profile | <img src="https://cdn.hackaday.io/images/4931491573980185604.JPG" width="200px" /> |
-| [Gameboy Keyboard case](https://www.thingiverse.com/thing:3007828) | case, pcb | 3d print, pcb | <img src="https://cdn.thingiverse.com/renders/4c/5f/a1/08/09/5d5fe686b8dbcc86c38133f7487ddcf5_preview_featured.JPG" width="200px" /> |
+| [~~Gameboy Keyboard case~~](https://www.thingiverse.com/thing:3007828) | case, pcb | 3d print, pcb | <img src="" width="200px" /> |
 | [GH60](https://github.com/komar007/gh60) | pcb | 60%, atmega32U4 | <img src="https://camo.githubusercontent.com/fdc087b8362f264e37c17212c78026bfaaa285be/687474703a2f2f626c6f672e6b6f6d61722e62652f77702d636f6e74656e742f75706c6f6164732f323031332f30322f747474312d363430783235372e6a7067" width="200px" /> |
-| [HacKeyboard](https://github.com/masaleiro/HacKeyboard) | pcb, case |  | <img src="https://cdn.instructables.com/F9P/KCPI/IGV4DBXA/F9PKCPIIGV4DBXA.LARGE.jpg" width="200px" /> |
-| [Isometria75](https://github.com/ebastler/isometria-75) | pcb, case | 75%, iso, sk6812-mini, rotary-encoder, stm32f072cbt6 | <img src="https://github.com/ebastler/isometria-75/blob/master/render/render_bottom3.png?raw=true" width="200px" /> |
+| [HacKeyboard](https://github.com/masaleiro/HacKeyboard) | pcb, case |  | <img src="https://i0.wp.com/lh3.googleusercontent.com/-_3srWrw52N0/VkKU25cRm-I/AAAAAAAAME8/l_oKwqZEeyk/w2048-o/Hackeyboard%252520photoshoot%25252041.JPG?w=200" width="200px" /> |
+| [Isometria75](https://github.com/ebastler/isometria-75) | pcb, case | 75%, iso, sk6812-mini, rotary-encoder, stm32f072cbt6 | <img src="https://camo.githubusercontent.com/ba20d0e50fa859956382800780cadcf3bd9a7d2b2f69852b7a40aff89d78442f/68747470733a2f2f6d7077722e78797a2f70726f6a656374732f69736f6d657472696137352f66756c6c2f70726f746f5f76315f342e4a5047" width="200px" /> |
 | [Le Chiffre](https://github.com/tominabox1/Le-Chiffre-Keyboard) | pcb, case | atmega32u4, ergo, smd, stl, 3d print | <img src="https://camo.githubusercontent.com/f5bc3eaabb92bb103ba741b7530000153e5bf182/68747470733a2f2f692e696d6775722e636f6d2f515834744e6f6d2e706e67" width="200px" /> |
 | ~~Mullet~~ | pcb, case | staggered, smd, usb-c, underglow, atmega32u4 | <img src="https://camo.githubusercontent.com/2dac93377903e99500664ec9f6908cd68746fd63/68747470733a2f2f692e696d6775722e636f6d2f45424f4d6268482e6a7067" width="200px" /> |
 | [Mysterium](https://github.com/coseyfannitutti/mysterium) | pcb, case | tkl, ATMEGA32A, usb-c | <img src="https://github.com/coseyfannitutti/mysterium/blob/master/doc/images/mysterium.jpg?raw=true" width="200px" /> |
@@ -104,6 +104,7 @@
 | [Mitosis](https://github.com/reversebias/mitosis-hardware) | pcb, case | split, wireless | <img src="https://i.imgur.com/gApMkzz.jpg" width="200px" /> |
 | [Orbit](https://github.com/ai03-2725/Orbit) | pcb | split, 5x7, thumb keys, usb-c | <img src="https://raw.githubusercontent.com/ai03-2725/Orbit/master/Images/PCB-R1.5.jpg" width="200px" /> |
 | [Ortholink-5x4](https://easyeda.com/andrew_8176/ortholink-5x4) [Build Guide](https://imgur.com/gallery/scsFThK) | pcb, case | 38keys, split, smd | <img src="https://i.imgur.com/1Yydd96.jpg" width="200px" /> |
+| [Pinky2](https://github.com/tamanishi/Pinky2) [Pinky3](https://github.com/tamanishi/Pinky3) [Pinky4](https://github.com/tamanishi/Pinky4) | pcb, case | 2x5 / 3x7 / 4x7, vertically staggered, thumb keys, split, through hole | <img src="https://raw.githubusercontent.com/tamanishi/Pinky3/master/product.jpg" width="200px" /> |
 | [Redox](https://github.com/mattdibi/redox-keyboard) | case | split, thumb keys, opensCad, 3d print | <img src="https://cdn.thingiverse.com/renders/62/c5/d6/91/6f/f23021b44a5e59a6838fc8b440fb8b56_preview_featured.jpg" width="200px" /> |
 | [Science](https://github.com/peej/for-science-keyboard) | pcb | split, arduino, 5x5 | <img src="https://camo.githubusercontent.com/fecf6f7bca9ec8b93e4031caa1ca3442cfb5a5f1/68747470733a2f2f692e696d6775722e636f6d2f666a6e546b42312e6a7067" width="200px" /> |
 | [Sector](https://github.com/omkbd/Sector) | pcb, case | split, arduino, pro micro, oled | <img src="https://raw.githubusercontent.com/omkbd/Sector/master/Picture/SectorC.jpg" width="200px" /> |
@@ -169,10 +170,10 @@
 | [Cookpad Pad](https://github.com/cookpad/cookpad-pad) | pcb, case | 2x3, pro micro, ws2812b, underglow | <img src="https://github.com/cookpad/cookpad-pad/raw/master/docs/images/cookpad-pad.jpg" width="200px" /> |
 | [Discipad](https://github.com/coseyfannitutti/discipad) | pcb, case | 4x5, through hole, usb-c, | <img src="https://images.squarespace-cdn.com/content/v1/5c533d33348cd92b886e544d/1569605273813-X4W1ZK24U81C0U381LW7/ke17ZwdGBToddI8pDm48kK60W-ob1oA2Fm-j4E_9NQB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kD6Ec8Uq9YczfrzwR7e2Mh5VMMOxnTbph8FXiclivDQnof69TlCeE0rAhj6HUpXkw/discipad-white.jpeg?format=750w" width="200px" /> |   |   |   |   |
 | [Dumbpad](https://github.com/imchipwood/dumbpad) | pcb | pcb, atmega32u4, rotary encoder | <img src="https://i.imgur.com/sS3fq1Z.jpg" width="200px" /> |
-| [Game cart macropad](https://www.thingiverse.com/thing:3029578) | pcb, case | 4x4, 3d print | <img src="https://cdn.thingiverse.com/renders/f2/ab/f5/bd/7a/590674241125b3f375c064646978a1d0_preview_featured.jpg" width="200px" /> |
+| [~~Game cart macropad~~](https://www.thingiverse.com/thing:3029578) | pcb, case | 4x4, 3d print | <img src="" width="200px" /> |
 | [GeekPad](https://git.bthlabs.pl/tomekwojcik/geekpad/) | pcb, case | 3x3, 3d print | <img src="https://i.imgur.com/FEzO81l.jpg" width="200px" /> |
 | [Hub16](https://github.com/joshajohnson/Hub16) | pcb, case | 4x4, rotary encoder, usb hub, hotswap, underglow, ws2812  | <img src="https://github.com/joshajohnson/Hub16/raw/master/Documents/imgs/header-img.JPG" width="200px" /> |
-| [Kbord](https://github.com/dekuNukem/kbord) | pcb, case | 5x3, oled, rgb, sd-card | <img src="https://github.com/dekuNukem/kbord/raw/master/resources/pics/title.jpg" width="200px" /> |
+| [duckyPad](https://github.com/dekuNukem/duckyPad) | pcb, case | 5x3, oled, rgb, sd-card | <img src="https://github.com/dekuNukem/duckyPad/raw/master/resources/pics/title.png" width="200px" /> |
 | [LFK17](https://github.com/lfkeyboards/lfk17) | pcb | 5x4, numpad, hotswap, rgb | <img src="https://i.imgur.com/N4x5wXp.jpg" width="200px" /> |
 | [Lysergic 25](https://github.com/Gtrx0/lysergic25) | pcb, plate | 5x5, pro micro, plate, underglow, ws2812b, esd, usb-c | <img src="https://raw.githubusercontent.com/Gtrx0/lysergic25/master/Renders/Backside_populated.png" width="200px" /> |
 | [Meishi2](https://github.com/Biacco42/meishi2) | pcb | 1x4, pro micro | <img src="https://i.imgur.com/2SQqVlZ.png" width="200px" /> |
