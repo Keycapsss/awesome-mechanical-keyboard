@@ -118,6 +118,7 @@
 | [Torn](https://github.com/rtitmuss/torn) | pcb, case | split, oled, 3x6, vertically staggered, thumb keys, atmega328p, through hole | <img src="https://raw.githubusercontent.com/rtitmuss/torn/master/doc/img/torn.jpg" width="200px" /> |
 | [Ultimate Hacking Keyboard](https://github.com/UltimateHackingKeyboard/electronics) | pcb | split, display, 31FL3731 | <img src="https://ultimatehackingkeyboard.com/wordpress/wp-content/uploads/2018/07/uhk-split-palm-rest-1920.jpg" width="200px" /> |
 | [Xenon Keyboard](https://github.com/narinari/xenon-keyboard) | pcb, case | split, vertically staggered, thumb keys, oled, pro micro | <img src="https://raw.githubusercontent.com/narinari/xenon-keyboard/master/resources/example/xenon-classic_godspeed-custom-sa.jpg" width="200px" /> |
+| [YAEMK Keyboard](https://karlk90.github.io/yaemk-split-kb/) | pcb, case | split, 5x8, vertically staggered, hotswap, thumb keys, oled, rgb led, arm, risc-v, usb-c | <img src="https://raw.githubusercontent.com/KarlK90/yaemk-split-kb/main/docs/images/1_yaemk_wide.jpg" width="200px" /> |
 | [Zen (RGBKB)](https://github.com/RGBKB/Keyboard-files/tree/master/Zen) [Build Guide](https://legonut.gitbooks.io/zen-keyboard/content/) | pcb, case | split, ergo, ortho, thumb keys, rgb led | <img src="https://camo.githubusercontent.com/6bf0257847f1e1972cfd6b9f289a6e8180163ff8/68747470733a2f2f692e696d6775722e636f6d2f7a337630416b732e6a7067" width="200px" /> |
 | []() |  |  | <img src="" width="200px" /> |
 
