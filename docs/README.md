@@ -10,6 +10,7 @@
 | [Arisu Keyboard PCB](https://github.com/FateNozomi/arisu-pcb) | pcb, case |  | <img src="https://camo.githubusercontent.com/52126fe22185eb48a922b8f7a2a2726cb2f19226/68747470733a2f2f692e696d6775722e636f6d2f6b6e74353138452e6a7067" width="200px" /> |
 | [Atreus](https://github.com/technomancy/atreus) | pcb, case | 40% | <img src="https://github.com/technomancy/atreus/raw/master/atreus.jpg" width="200px" /> |
 | [Atreus62](https://github.com/profet23/atreus62) | pcb, case | 60% | <img src="https://raw.githubusercontent.com/profet23/atreus62/master/images/nantucket-atreus62.jpg" width="200px" /> |
+| [Bevi](https://github.com/sendyyeah/bevi) | pcb | 60%, southpaw, numpad | <img src="https://user-images.githubusercontent.com/3537856/115094858-48ef3f80-9f49-11eb-9e5f-1ed481c59b7c.jpg" width="200px" alt="bevi"> |
 | [Bakeneko 60](https://github.com/kkatano/bakeneko-60) | pcb, case | 60%, usb-c, atmega32U4 | <img src="https://i.imgur.com/GM0IH8R.jpg" width="200px" /> |
 | [Bakeneko 65](https://github.com/kkatano/bakeneko-65) | pcb, case | 65%, usb-c, atmega32U4 | <img src="https://i.imgur.com/Va1caBv.jpg" width="200px" /> |
 | [BMEK - Bemeier Ergonomic Keyboard](https://github.com/Bemeier/bmek) | pcb, case | ergo, hotswap, usb-c | <img src="https://camo.githubusercontent.com/35605dc5a4f1219613ac62d6c23c24716f7039cd/68747470733a2f2f692e696d6775722e636f6d2f5a4d323775506f2e6a7067" width="200px" /> |
