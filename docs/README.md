@@ -18,6 +18,7 @@
 | [CPM43](https://github.com/Gtrx0/cpm43) | pcb | 40%, 4x12, underglow, atmega32U4, usb-c, esd | <img src="https://raw.githubusercontent.com/Gtrx0/cpm43/master/Renders/Render_Unpopulated_Front.png" width="200px" /> |
 | [CW40](https://github.com/ktec-hq/CW40) | pcb | 40%, underglow, alps | <img src="" width="200px" /> |
 | [Discipline](https://github.com/coseyfannitutti/discipline) | pcb, case | 65%, staggered, through hole, usb-c,  | <img src="https://github.com/coseyfannitutti/discipline/blob/master/doc/images/discipline.jpeg?raw=true" width="200px" /> |
+| [Env-KB](https://github.com/Envious-Data/Env-KB) | pcb, case | 65%, staggered, through hole, usb-c, rpi-pico  | <img src="https://github.com/Envious-Data/Env-KB/blob/main/_pictures/PCB3.JPG?raw=true" width="200px" /> |
 | [Flounder](https://hackaday.io/project/167912-flounder-keyboard) | pcb | micro-usb, kailh-choc, low-profile | <img src="https://cdn.hackaday.io/images/4931491573980185604.JPG" width="200px" /> |
 | [~~Gameboy Keyboard case~~](https://www.thingiverse.com/thing:3007828) | case, pcb | 3d print, pcb | <img src="" width="200px" /> |
 | [GH60](https://github.com/komar007/gh60) | pcb | 60%, atmega32U4 | <img src="https://camo.githubusercontent.com/fdc087b8362f264e37c17212c78026bfaaa285be/687474703a2f2f626c6f672e6b6f6d61722e62652f77702d636f6e74656e742f75706c6f6164732f323031332f30322f747474312d363430783235372e6a7067" width="200px" /> |
@@ -142,6 +143,7 @@
 | [Arke](https://www.thingiverse.com/thing:2879329) | case | 3d print, split, pro micro | <img src="https://cdn.thingiverse.com/renders/42/c6/fc/55/83/38d59e181f2a3c892fe3f8365d00076e_preview_featured.jpg" width="200px" /> |
 | [Atreis](https://github.com/dekonnection/atreis) | case | handwiring | <img src="https://github.com/dekonnection/atreis/raw/master/pictures/GPI0El4.jpg" width="200px" /> |
 | [Atreus Split Keyboard](https://www.thingiverse.com/thing:1646718) | case | 3d print, split, pro micro | <img src="https://cdn.thingiverse.com/renders/2a/35/f6/bd/51/ee77cfa99ac6c721974f6eb92a52cce9_preview_featured.jpg" width="200px" /> |
+| [Bloid40](https://github.com/hanhanhan-kim/bloid40) | case | 3d print, bluefruit-32u4-le, bluetooth | <img src="https://github.com/hanhanhan-kim/bloid40/blob/master/docs/bloid40.jpg?raw=true" width="200px" /> 
 | [Ergo-Warped](https://github.com/pseudoku/ErgoWarp) | case | 3d print, split, ergo | <img src="https://raw.githubusercontent.com/pseudoku/Warped-keyboard/master/Photo/Proto6.jpg" width="200px" /> |
 | [fAuxLICE](https://github.com/ramonimbao/Alice-like_Handwired) | case | 3d print, handwiring, stm32, ergo | <img src="https://raw.githubusercontent.com/ramonimbao/Alice-like_Handwired/master/images/outside.jpg" width="200px"> |
 | [Freoduo](https://www.thingiverse.com/thing:4565609) | case | 3d print, split, ergo | <img src="https://i.imgur.com/Fvgm3Y5.jpg" width="200px" /> |
@@ -176,6 +178,8 @@
 | [Cookpad Pad](https://github.com/cookpad/cookpad-pad) | pcb, case | 2x3, pro micro, ws2812b, underglow | <img src="https://github.com/cookpad/cookpad-pad/raw/master/docs/images/cookpad-pad.jpg" width="200px" /> |
 | [Discipad](https://github.com/coseyfannitutti/discipad) | pcb, case | 4x5, through hole, usb-c, | <img src="https://images.squarespace-cdn.com/content/v1/5c533d33348cd92b886e544d/1569605273813-X4W1ZK24U81C0U381LW7/ke17ZwdGBToddI8pDm48kK60W-ob1oA2Fm-j4E_9NQB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kD6Ec8Uq9YczfrzwR7e2Mh5VMMOxnTbph8FXiclivDQnof69TlCeE0rAhj6HUpXkw/discipad-white.jpeg?format=750w" width="200px" /> |   |   |   |   |
 | [Dumbpad](https://github.com/imchipwood/dumbpad) | pcb | pcb, atmega32u4, rotary encoder | <img src="https://i.imgur.com/sS3fq1Z.jpg" width="200px" /> |
+| [Env-MCRO](https://github.com/Envious-Data/Env-MCRO) | pcb | pcb, rpi-pico | <img src="https://github.com/Envious-Data/Env-MCRO/blob/main/EnvMCRO.png?raw=true" width="200px" /> |
+| [Env-NPD](https://github.com/Envious-Data/Env-NPD) | pcb | pcb, numpad, rpi-pico | <img src="https://github.com/Envious-Data/Env-NPD/blob/main/env-npd.png?raw=true" width="200px" /> |
 | [~~Game cart macropad~~](https://www.thingiverse.com/thing:3029578) | pcb, case | 4x4, 3d print | <img src="" width="200px" /> |
 | [GeekPad](https://git.bthlabs.pl/tomekwojcik/geekpad/) | pcb, case | 3x3, 3d print | <img src="https://i.imgur.com/FEzO81l.jpg" width="200px" /> |
 | [Hub16](https://github.com/joshajohnson/Hub16) | pcb, case | 4x4, rotary encoder, usb hub, hotswap, underglow, ws2812  | <img src="https://github.com/joshajohnson/Hub16/raw/master/Documents/imgs/header-img.JPG" width="200px" /> |
