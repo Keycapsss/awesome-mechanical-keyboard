@@ -230,3 +230,4 @@
 | [OLKB (Planck, Preonic & Atomic)](https://github.com/olkb/olkb_parts) | 3d print, plate |  |
 | [Preonic & Planck 5 Degree like keyboard case](https://www.thingiverse.com/thing:4538824/files) | 3d print, ortholinear | <img src="https://cdn.thingiverse.com/assets/dd/8b/50/30/d8/featured_preview_image0.jpg" width="200px" />
 | [Redox-Case](https://github.com/Lenbok/scad-redox-case) | split, thumb keys, opensCad, 3d print | <img src="https://github.com/Lenbok/scad-redox-case/raw/master/images/redox-exploded.png" width="200px" /> |
+| [Sofle v2 5 degree high profile](https://www.thingiverse.com/thing:4822438) | split, thumb keys, stl, 3d print | <img src="https://i.imgur.com/JOBm0cm.jpg" width="200px" />|
