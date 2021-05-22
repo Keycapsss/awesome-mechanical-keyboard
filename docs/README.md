@@ -64,6 +64,7 @@
 | [QOL56](https://github.com/eswai/QOL56) | pcb, case | 4x14, pro micro, underglow, rgb | <img src="https://github.com/eswai/QOL56/raw/master/qol56-7.jpg" width="200px" /> |
 | [SharkPCB](https://github.com/Gondolindrim/SharkPCB) | pcb, case | 4x12, rotary encoder, STM32, underglow, 3d print | <img src="https://raw.githubusercontent.com/Gondolindrim/SharkPCB/master/graphics/renders/top.png" width="200px" /> |
 | [Ukiha](https://github.com/e3w2q/ukiha-keyboard) | pcb, case | 5x12, smd, micro-usb | <img src="https://raw.githubusercontent.com/e3w2q/ukiha-keyboard/main/doc/ukiha.jpg" width="200px" /> |
+| [PouetPouet](https://github.com/dkm/pouetpouet-board) | pcb  | 5x12, smd, usb-c, STM32F072CBT6 | <img src="https://raw.githubusercontent.com/dkm/pouetpouet-board/master/images/nyan-keeb.jpg" width="200px" /> |
 | []() |  |  | <img src="" width="200px" /> |
 
 ## Split Keyboards

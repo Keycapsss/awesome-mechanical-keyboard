@@ -4,6 +4,7 @@
 - [Bluetosis](https://github.com/geoah/bluetosis) - Bluetooth firmware for the Mitosis keyboard.
 - [EasyAVR](https://github.com/dhowland/EasyAVR) -  is a keyboard firmware and keymapper GUI for custom keyboards based on USB AVRs.
 - [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Flexible firmware for Arduino-powered keyboards.
+- [Keyberon](https://github.com/TeXitoi/keyberon) - A pure rust keyboard firmware.
 - [Keyplus](https://github.com/ahtn/keyplus) - An easy to use keyboard firmware with support for wireless and wired split keyboards.
 - [KMK](https://github.com/KMKfw/kmk_firmware) - is a feature-rich and beginner-friendly firmware for computer keyboards written and configured in CircuitPython.
 - [Mechy](https://github.com/colinta/Mechy) - Arduino compatible, plugin based.
