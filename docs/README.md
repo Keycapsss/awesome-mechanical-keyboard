@@ -48,7 +48,7 @@
 | --- | --- | :---: | :---: |
 | [Alpsie](https://github.com/larrbo/odd-rocket/tree/master/alpsie) | pcb, case | 4x12, pro micro, alps, plate | <img src="https://3.bp.blogspot.com/-IAVUSnTmtZA/XArbAHFK5wI/AAAAAAAABeE/FKTl072R1CkIZwXr4AVCZ-_qG7uRjHw9wCLcBGAs/s640/IMG_20181128_194036.jpg" width="200px" /> |
 | [Cheap_boi](https://github.com/MangoIV/cheap_boi) | pcb, case | atmega32u4, ssd1306, oled | <img src="https://github.com/MangoIV/cheap_boi/blob/master/renders/pcb_front.jpg?raw=true" width="200px" /> |
-| [Contra](https://github.com/ai03-2725/Contra) | pcb | 4x12 | <img src="" width="200px" /> |
+| [Contra](https://github.com/ai03-2725/Contra) | pcb | 4x12 | <img src="https://raw.githubusercontent.com/ai03-2725/Contra/master/Images/back-2.0.jpg" width="200px" /> |
 | [DIY Low-Profile Ortholinear](https://www.reddit.com/r/MechanicalKeyboards/comments/8sy17h/diy_low_profile_ortho/) ([PCB File](https://easyeda.com/7zark7/Kailh-Ortholinear)) | pcb | 14x6, low profile, teensy | <img src="https://i.imgur.com/cfNpqEE.jpg" width="200px" /> |
 | [Dorsch 40k](https://hackaday.io/project/174095-dorsch-40k-keyboard) | pcb | 4x10, micro-usb, kailh-choc, low-profile | <img src="https://cdn.hackaday.io/images/3652331597248546262.jpg" width="200px" /> |
 | [Dorsch 48k](https://hackaday.io/project/174917-dorsch-48k-keyboard) | pcb | 4x12, micro-usb, kailh-choc, low-profile | <img src="https://cdn.hackaday.io/images/1324301600590596407.jpg" width="200px" /> |
@@ -82,7 +82,7 @@
 | [Dactyl-ManuForm](https://github.com/tshort/dactyl-keyboard) | pcb, case | split, thumb keys, 4x5, 5x6, 40%, 60%, 3d print | <img src="https://camo.githubusercontent.com/a8dc88b0a973913a28a2373a7f3a9a3031af2672/687474703a2f2f692e696d6775722e636f6d2f4c646a456872522e6a7067" width="200px" /> |
 | [Djinn](https://github.com/tzarc/djinn) | pcb, case | 4x7, split, rotary encoder, underglow  | <img src="https://camo.githubusercontent.com/662433910ee7010207ec21f736a1d2841608ebab/68747470733a2f2f692e696d6775722e636f6d2f695a6d454732652e6a7067" width="200px" /> |
 | [DMOTE](https://github.com/veikman/dactyl-keyboard) | case | concave, thumb keys, split, alps, mx | <img src="https://camo.githubusercontent.com/85b0066d64467a10e0d0bcbdde26e6726eb95fde/687474703a2f2f76696b746f722e65696b6d616e2e73652f696d6167652f646d6f74652d322d746f702d646f776e2d766965772f646973706c6179" width="200px" /> |
-| [DracuLad](https://github.com/MangoIV/dracuLad) | pcb, case | 3x5, 36keys, split, rotary encoder, underglow  | <img src="" width="200px" /> |
+| [DracuLad](https://github.com/MangoIV/dracuLad) | pcb, case | 3x5, 36keys, split, rotary encoder, underglow  | <img src="https://raw.githubusercontent.com/mangoiv/draculad/master/pictures/rev2/fr4_glamour2.jpeg" width="200px" /> |
 | [Elephant42](https://github.com/illness072/elephant42) | pcb, case | split, pro micro | <img src="https://github.com/illness072/elephant42/blob/master/what-is-this.jpg?raw=true" width="200px" /> |
 | [Ergo42](https://github.com/Biacco42/Ergo42) | pcb, case | split, 4x7 | <img src="https://raw.githubusercontent.com/Biacco42/Ergo42/readme/readme_image/ergo42_image.jpg" width="200px" /> |
 | [ErgoDash](https://github.com/omkbd/ErgoDash) | pcb, case | 5x7, plate, led, split, thumb key | <img src="https://github.com/omkbd/picture/blob/master/Ergodash.jpg?raw=true" width="200px" /> |
@@ -203,7 +203,7 @@
 | [60% (Poker II, Pok3r) Keyboard Case 2.0](https://www.thingiverse.com/thing:983332) | 3d print | <img src="https://cdn.thingiverse.com/renders/8a/ac/f9/d8/ad/zanmYsB_-_Imgur_preview_featured.jpg" width="200px" /> |
 | [Alpha keyboard case](https://www.myminifactory.com/object/3d-print-alpha-keyboard-case-pyrool-28-key-pcb-103767) | 3d print | <img src="https://cdn.myminifactory.com/assets/object-assets/5db6033fc6df3/images/720X720-cases.jpg" width="200px" /> |
 | [Arisu Keyboard Case](https://github.com/FateNozomi/arisu-case) | plate | <img src="https://camo.githubusercontent.com/52126fe22185eb48a922b8f7a2a2726cb2f19226/68747470733a2f2f692e696d6775722e636f6d2f6b6e74353138452e6a7067" width="200px" /> |
-| [Atom47 for Vortex Core](https://github.com/evyd13/atom47) | 3d print | <img src="" width="200px" /> |
+| [Atom47 for Vortex Core](https://github.com/evyd13/atom47) | 3d print | <img src="https://i.imgur.com/uUfzeCa.png" width="200px" /> |
 | [Atreus62 High Profile Keyboard Case](https://www.thingiverse.com/thing:3246981) | 3d print | <img src="https://cdn.thingiverse.com/renders/e5/f1/48/84/33/5c363031158a92007b63b0468cea95c6_preview_featured.jpg" width="200px" /> |
 | [Chimera Egro 42 Tenting Case](https://github.com/wizarddata/Chimera-Egro-42-Case) | 3d print, tenting, split |  |
 | [Cospad Case](https://www.thingiverse.com/thing:3233852) | 3d print, numpad | <img src="https://cdn.thingiverse.com/renders/23/ce/51/e6/60/c529ac4f1f85fb603e729532d6a4e3a5_preview_featured.jpg" width="200px" /> |
