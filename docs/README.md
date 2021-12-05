@@ -16,7 +16,7 @@
 | [BMEK - Bemeier Ergonomic Keyboard](https://github.com/Bemeier/bmek) | pcb, case | ergo, hotswap, usb-c | <img src="https://camo.githubusercontent.com/35605dc5a4f1219613ac62d6c23c24716f7039cd/68747470733a2f2f692e696d6775722e636f6d2f5a4d323775506f2e6a7067" width="200px" /> |
 | [CozyKeys Bloomer](https://github.com/cozykeys/bloomer) | pcb, case | 75%, underglow | <img src="https://camo.githubusercontent.com/d06fa0fd471810b747137c0828502567c2323fe3/687474703a2f2f6173736574732e636f7a796b6579732e78797a2f696d616765732f6b6579626f617264732f626c6f6f6d65722f626c6f6f6d65722d616e676c652d325f383030783830302e6a7067" width="200px" /> |
 | [CPM43](https://github.com/Gtrx0/cpm43) | pcb | 40%, 4x12, underglow, atmega32U4, usb-c, esd | <img src="https://raw.githubusercontent.com/Gtrx0/cpm43/master/Renders/Render_Unpopulated_Front.png" width="200px" /> |
-| [CW40](https://github.com/ktec-hq/CW40) | pcb | 40%, underglow, alps | <img src="" width="200px" /> |
+| [CW40](https://github.com/ktec-hq/CW40) | pcb | 40%, underglow, alps | |
 | [Discipline](https://github.com/coseyfannitutti/discipline) | pcb, case | 65%, staggered, through hole, usb-c,  | <img src="https://github.com/coseyfannitutti/discipline/blob/master/doc/images/discipline.jpeg?raw=true" width="200px" /> |
 | [Env-KB](https://github.com/Envious-Data/Env-KB) | pcb, case | 65%, staggered, through hole, usb-c, rpi-pico  | <img src="https://github.com/Envious-Data/Env-KB/blob/main/_pictures/PCB3.JPG?raw=true" width="200px" /> |
 | [Flounder](https://hackaday.io/project/167912-flounder-keyboard) | pcb | micro-usb, kailh-choc, low-profile | <img src="https://cdn.hackaday.io/images/4931491573980185604.JPG" width="200px" /> |
@@ -89,7 +89,7 @@
 | [Ergo42](https://github.com/Biacco42/Ergo42) | pcb, case | split, 4x7 | <img src="https://raw.githubusercontent.com/Biacco42/Ergo42/readme/readme_image/ergo42_image.jpg" width="200px" /> |
 | [ErgoDash](https://github.com/omkbd/ErgoDash) | pcb, case | 5x7, plate, led, split, thumb key | <img src="https://github.com/omkbd/picture/blob/master/Ergodash.jpg?raw=true" width="200px" /> |
 | [ErgoDash Mini](https://github.com/omkbd/ErgoDash/tree/master/mini) | pcb, case | 4x7, plate, led, split, thumb key | <img src="https://github.com/omkbd/picture/blob/master/Ergodashmini.jpg?raw=true" width="200px" /> |
-| [ErgoDone](https://github.com/ktec-hq/ErgoDone) | pcb | pro micro | <img src="" width="200px" /> |
+| [ErgoDone](https://github.com/ktec-hq/ErgoDone) | pcb | pro micro | |
 | [ErgoDox official](https://github.com/Ergodox-io) | pcb, acryl case, 3d printable case | split, thumb keys, 5x7, 3d print | <img src="https://github.com/Ergodox-io/ergodox-io/blob/master/src/img/ErgoDox-original-min.png?raw=true" width="200px" /> |
 | [Ergoinu](https://github.com/hsgw/ergoinu) | pcb, case | split, plate, mx, pro micro | <img src="https://raw.githubusercontent.com/wiki/hsgw/ergoinu/images/keyboard_top.JPG" width="200px" /> |
 | [ErgoMac](https://github.com/LilBigMacky/ergomac) | pcb | split, vertically staggered, thumb keys | <img src="https://i.redd.it/6ndsci0gt0x11.jpg" width="200px" /> |
