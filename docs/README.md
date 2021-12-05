@@ -20,7 +20,7 @@
 | [Discipline](https://github.com/coseyfannitutti/discipline) | pcb, case | 65%, staggered, through hole, usb-c,  | <img src="https://github.com/coseyfannitutti/discipline/blob/master/doc/images/discipline.jpeg?raw=true" width="200px" /> |
 | [Env-KB](https://github.com/Envious-Data/Env-KB) | pcb, case | 65%, staggered, through hole, usb-c, rpi-pico  | <img src="https://github.com/Envious-Data/Env-KB/blob/main/_pictures/PCB3.JPG?raw=true" width="200px" /> |
 | [Flounder](https://hackaday.io/project/167912-flounder-keyboard) | pcb | micro-usb, kailh-choc, low-profile | <img src="https://cdn.hackaday.io/images/4931491573980185604.JPG" width="200px" /> |
-| [~~Gameboy Keyboard case~~](https://web.archive.org/web/20200521235621/https://www.thingiverse.com/thing:3007828) | case, pcb | 3d print, pcb | <img src="https://web.archive.org/web/20200521235623/https://cdn.thingiverse.com/renders/eb/c9/e7/30/fd/2c3cf9c08aa768cf6c86cf91efa8e06c_preview_featured.JPG" width="200px" /> |
+| [~~Gameboy Keyboard case~~](https://web.archive.org/web/20200521235621/https://www.thingiverse.com/thing:3007828) | case, pcb | 3d print, pcb | |
 | [GH60](https://github.com/komar007/gh60) | pcb | 60%, atmega32U4 | <img src="https://camo.githubusercontent.com/fdc087b8362f264e37c17212c78026bfaaa285be/687474703a2f2f626c6f672e6b6f6d61722e62652f77702d636f6e74656e742f75706c6f6164732f323031332f30322f747474312d363430783235372e6a7067" width="200px" /> |
 | [Grabert](https://github.com/KoBussLLC/grabert-hardware) | pcb, case | 60%, usb-c, oled, rotary-encoder, stm32f072v8t6 | <img src="https://raw.githubusercontent.com/KoBussLLC/grabert-hardware/e04fabde3759e065457ee6ca55711569b234af34/doc/grabert_white_canvas_angled.jpg" width="200px" /> |
 | [HacKeyboard](https://github.com/masaleiro/HacKeyboard) | pcb, case |  | <img src="https://i0.wp.com/lh3.googleusercontent.com/-_3srWrw52N0/VkKU25cRm-I/AAAAAAAAME8/l_oKwqZEeyk/w2048-o/Hackeyboard%252520photoshoot%25252041.JPG?w=200" width="200px" /> |
@@ -145,7 +145,7 @@
 | --- | --- | :---: | :---: |
 | [52Te](https://github.com/culturalsnow/52Te) | case | pro micro, split | <img src="https://raw.githubusercontent.com/culturalsnow/52Te/master/img/52Te_Left.jpg" width="200px" /> |
 | [60% Fixed Split Mechanical Keyboard](https://www.thingiverse.com/thing:3647216) | case | 3d print, split | <img src="https://cdn.thingiverse.com/renders/38/b8/e5/18/98/e6a29d3218baab572c7461f4e953d584_preview_featured.jpg" width="200px"> |
-| [~~Arke~~](http://web.archive.org/web/20201204050758/https://www.thingiverse.com/thing:2879329) | case | 3d print, split, pro micro | <img src="http://web.archive.org/web/20200510102016/https://cdn.thingiverse.com/renders/db/2f/35/94/6e/299fdb994a90a153bae6b9eea8a3ba2d_preview_featured.jpg" width="200px" /> |
+| [~~Arke~~](https://web.archive.org/web/20201204050758/https://www.thingiverse.com/thing:2879329) | case | 3d print, split, pro micro | |
 | [Atreis](https://github.com/dekonnection/atreis) | case | handwiring | <img src="https://github.com/dekonnection/atreis/raw/master/pictures/GPI0El4.jpg" width="200px" /> |
 | [Atreus Split Keyboard](https://www.thingiverse.com/thing:1646718) | case | 3d print, split, pro micro | <img src="https://cdn.thingiverse.com/renders/2a/35/f6/bd/51/ee77cfa99ac6c721974f6eb92a52cce9_preview_featured.jpg" width="200px" /> |
 | [Bloid40](https://github.com/hanhanhan-kim/bloid40) | case | 3d print, bluefruit-32u4-le, bluetooth | <img src="https://github.com/hanhanhan-kim/bloid40/blob/master/docs/bloid40.jpg?raw=true" width="200px" /> 
