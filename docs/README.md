@@ -148,7 +148,7 @@
 | [Arke](https://www.thingiverse.com/thing:2879329) | case | 3d print, split, pro micro | <img src="https://cdn.thingiverse.com/renders/42/c6/fc/55/83/38d59e181f2a3c892fe3f8365d00076e_preview_featured.jpg" width="200px" /> |
 | [Atreis](https://github.com/dekonnection/atreis) | case | handwiring | <img src="https://github.com/dekonnection/atreis/raw/master/pictures/GPI0El4.jpg" width="200px" /> |
 | [Atreus Split Keyboard](https://www.thingiverse.com/thing:1646718) | case | 3d print, split, pro micro | <img src="https://cdn.thingiverse.com/renders/2a/35/f6/bd/51/ee77cfa99ac6c721974f6eb92a52cce9_preview_featured.jpg" width="200px" /> |
-| [Bloid40](https://github.com/hanhanhan-kim/bloid40) | case | 3d print, bluefruit-32u4-le, bluetooth | <img src="https://github.com/hanhanhan-kim/bloid40/blob/master/docs/bloid40.jpg?raw=true" width="200px" /> 
+| [Bloid40](https://github.com/hanhanhan-kim/bloid40) | case | 3d print, bluefruit-32u4-le, bluetooth | <img src="https://github.com/hanhanhan-kim/bloid40/blob/master/docs/bloid40.jpg?raw=true" width="200px" />
 | [Ergo-Warped](https://github.com/pseudoku/ErgoWarp) | case | 3d print, split, ergo | <img src="https://raw.githubusercontent.com/pseudoku/Warped-keyboard/master/Photo/Proto6.jpg" width="200px" /> |
 | [fAuxLICE](https://github.com/ramonimbao/Alice-like_Handwired) | case | 3d print, handwiring, stm32, ergo | <img src="https://raw.githubusercontent.com/ramonimbao/Alice-like_Handwired/master/images/outside.jpg" width="200px"> |
 | [Freoduo](https://www.thingiverse.com/thing:4565609) | case | 3d print, split, ergo | <img src="https://i.imgur.com/Fvgm3Y5.jpg" width="200px" /> |
@@ -175,6 +175,7 @@
 | [2% Milk](https://github.com/Rionlion100/Spaceboards/tree/master/Keyboards/2%25%20Milk) | pcb, case | 1x2, pro micro | <img src="https://camo.githubusercontent.com/04ba54fa2fb06710bc98e8ee23baa0c8ee9962ca/68747470733a2f2f692e696d6775722e636f6d2f5564393675586e2e706e67" width="200px" /> |
 | [4x5-wireless-keypad-pcb](https://github.com/ogatatsu/4x5-wireless-keypad-pcb) | pcb | 4x5, bluetooth | <img src="https://github.com/ogatatsu/4x5-wireless-keypad-pcb/blob/master/images/1.png?raw=true" width="200px" /> |
 | [Amoeba Single-Switch PCB](https://github.com/mtl/keyboard-pcbs) | pcb | single-switch, handwiring | <img src="https://deskthority.net/resources/image/25215" width="200px" /> |
+| [ANAVI Macro Pad 2](https://github.com/AnaviTechnology/anavi-macro-pad-2) | pcb, case | pcb, stl, attiny85, openscad, kicad | <img src="https://github.com/AnaviTechnology/anavi-macro-pad-2/blob/main/anavi-macro-pad-2.jpg?raw=true" width="200px" /> |
 | [ANAVI Macro Pad 8](https://github.com/AnaviTechnology/anavi-macro-pad-8) | pcb, case | pcb, stl, atmega32u4, openscad, kicad | <img src="https://github.com/AnaviTechnology/anavi-macro-pad-8/blob/master/anavi-macro-pad-8.jpg?raw=true" width="200px" /> |
 | [Ardu Keyboard](https://www.hackster.io/palsayantan/ardu-keyboard-ef4d46) | pcb | 3x3, ATmega328P | <img src="https://hackster.imgix.net/uploads/attachments/1077918/_3zAOyxufXh.blob?auto=compress%2Cformat&w=900&h=675&fit=min" width="200px" /> |
 | [Cherry-Mx-Bitboard-Re](https://github.com/ogatatsu/Cherry-Mx-Bitboard-Re) | pcb | single-switch, handwiring, hotswap | <img src="https://github.com/ogatatsu/Cherry-Mx-Bitboard-Re/raw/master/Images/a.jpeg" width="200px" /> |
