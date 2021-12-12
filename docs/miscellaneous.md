@@ -34,7 +34,7 @@
 | [Nav Switch to MX Adapter](https://www.thingiverse.com/thing:3958026) - adapter that allows an inexpensive 5-way nav switch to be easily placed into a Cherry MX-compatible switch plate. | <img src='https://cdn.thingiverse.com/assets/e1/9f/42/19/a2/featured_preview_IMG_20191105_105145.jpg' width='200px' /> |
 | [Rhombicuboctahedron Mechanical Keyboard Switch Tester](https://www.thingiverse.com/thing:3090229) | <img src='https://cdn.thingiverse.com/renders/2e/af/9f/a7/52/6d0a1a56853bf66ed6b5bb52424feeff_preview_featured.jpg' width='200px' /> |
 | [OpenSCAD Mechanical Keyboard Cases](https://github.com/Lenbok/scad-keyboard-cases) - is a OpenSCAD script to make 3D-printable split keyboard cases. | <img src='https://github.com/Lenbok/scad-keyboard-cases/raw/master/images/corne-exploded.png' width='200px' /> |
-| [Z-Butt-1U: Artisan Keycap creation platform](https://www.zappycappys.com/products/zbutt-stem-cavity-1u) | <img src='https://cdn.shopify.com/s/files/1/0031/2462/5478/products/20200120-222910_600x.jpg?v=1579577398' width='200px' /> |
+| [Z-Butt: Artisan Keycap creation platform](https://github.com/imyownyear/Z-Butt) | <img src='https://raw.githubusercontent.com/imyownyear/Z-Butt/master/img/Zbutt-Family.png' width='200px' /> |
 
 
 ## Keycap 3D Models
