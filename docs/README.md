@@ -35,14 +35,13 @@
 | [Reviung](https://github.com/gtips/reviung) | pcb, case | ergo, vertically staggered, pro micro, ws2812b, underglow | <img src="https://raw.githubusercontent.com/gtips/reviung/master/reviung41/image/REVIUNG41B-1.jpg" width="200px" /> |
 | [Sesame](https://github.com/kb-elmo/sesame) | pcb, case | ergonomic, through-hole, atmega32A, usb-c | <img src="https://i.imgur.com/IdudbWjl.jpg" width="200px" /> |
 | [SB-147](https://github.com/sealclubber/SB-147) | case | 3d print, handwiring | <img src="https://i.imgur.com/VWGHzfU.jpg" width="200px" /> |
-| [Solheim68 (Varmilo VA68M replacement)](https://github.com/evyd13/solheim68) | pcb | | |
+| [Solheim68 (Varmilo VA68M replacement)](https://github.com/evyd13/solheim68) | pcb | 65%, atmega328p | <img src="https://camo.githubusercontent.com/ed41f8d7c540835426b0271ec79824c8f86bba7e43628aecff6c129ff017c247/68747470733a2f2f692e696d6775722e636f6d2f694370794554792e706e67" /> |
 | [Tanuki](https://github.com/SethSenpai/Tanuki) | pcb, case | 40%, underglow | <img src="https://github.com/SethSenpai/Tanuki/raw/master/Img/glamour1.jpg" width="200px" /> |
 | [Entropy](https://github.com/joshajohnson/entropy) | pcb, case | 96%, southpaw, rgb, led, split space, encoder | <img src="https://raw.githubusercontent.com/joshajohnson/entropy/master/docs/entropy.jpeg" width="200px" /> |
 | [Tartan](https://github.com/hsgw/tartan) | pcb, case | 60%, through hole, Atmega328p | <img src="https://github.com/hsgw/tartan/raw/master/doc/img/tartan.jpg" width="200px" /> |
 | [Tg4x](https://github.com/MythosMann/tg4x) | pcb, case | pro micro, 40% | <img src="https://raw.githubusercontent.com/MythosMann/tg4x/master/pcb.jpg" width="200px" /> |
 | [Voyager](https://github.com/ai03-2725/Voyager) | pcb | 60%, ansi, iso, rgb, led | <img src="https://raw.githubusercontent.com/ai03-2725/Voyager104/master/Renders/Front.png" width="200px" /> |
 | [XMMX TKL](https://geekhack.org/index.php?topic=93422.0) | pcb |  | <img src="https://i.imgur.com/otn8LT3.jpg" width="200px" /> |
-| []() |  |  | <img src="" width="200px" /> |
 
 ## Ortholinear Keyboards
 | Name | Available Files | Tags | Image |
@@ -69,7 +68,6 @@
 | [Splitish](https://github.com/RSchneyer/splitish) | pcb | 4x12, ortho, choc, pro micro | <img src="https://camo.githubusercontent.com/24188937548af34ccc12458d4243dc0a079b424f3fd0b5161b935e8f1a96fe4b/68747470733a2f2f692e696d6775722e636f6d2f36676e595049702e6a7067" width="200px" /> |
 | [Ukiha](https://github.com/e3w2q/ukiha-keyboard) | pcb, case | 5x12, smd, micro-usb | <img src="https://raw.githubusercontent.com/e3w2q/ukiha-keyboard/main/doc/ukiha.jpg" width="200px" /> |
 | [The Uni](https://github.com/petercpark/The_Uni) | pcb, keycaps | ortho, steno, pro micro | <img src="https://raw.githubusercontent.com/petercpark/The_Uni/main/Pics/close-up-uni.jpg" width="200px" /> |
-| []() |  |  | <img src="" width="200px" /> |
 
 ## Split Keyboards
 | Name | Available Files | Tags | Image |
@@ -108,7 +106,7 @@
 | [Kotonoha-WABISABI](https://github.com/MasayukiFukada/kotonoha_keyboards/tree/master/wabisabi) | pcb, case | split, pro micro | <img src="https://github.com/MasayukiFukada/kotonoha_keyboards/blob/master/docs/images/kotonoha_wabisabi.jpg?raw=true" width="200px" /> |
 | [Lily58](https://github.com/kata0510/Lily58) | pcb, case | split, oled,  4x6 | <img src="https://user-images.githubusercontent.com/6285554/47264498-53384a80-d553-11e8-907a-a03c6f2c5893.JPG" width="200px" /> |
 | [Let's Split](https://github.com/climbalima/let-s-Split-v2) | pcb, [case](https://qmk.fm/keyboards/lets_split/) | split | <img src="https://camo.githubusercontent.com/dfbf83ee712079b862fccb951aefbb508b8a631d/687474703a2f2f692e696d6775722e636f6d2f797551754e4a552e6a7067" width="200px" /> |
-| [Lyra](https://github.com/park-csu/Lyra) | pcb, case | split, ortho, pro micro, rotary-encoder | <img src="https://github.com/park-csu/Lyra/blob/main/assets/pcb.png?raw=true" width="200px" /> |
+| [Lyra](https://github.com/park-csu/Lyra) | pcb, case | split, ortho, pro micro, rotary-encoder | <img src="https://raw.githubusercontent.com/park-csu/Lyra/main/assets/built.jpg" width="200px" /> |
 | [Manta 60](https://github.com/KamoNanban/Manta60) | pcb, case | 5x14, split, pro micro | <img src="https://pbs.twimg.com/media/Dy80wXGU0AAGZdK.jpg:large" width="200px" /> |
 | [Medusa](https://github.com/Gtrx0/Medusa) | pcb, case | 5x7, split, plate, bluetooth, nrf51822 | <img src="https://raw.githubusercontent.com/Gtrx0/Medusa/master/Renders/Front_Unpopulated.png?token=Anj1gDvVpb9Dt8Z8Zj3Az4azN7Fm_8hTks5bm9WJwA%3D%3D" width="200px" /> |
 | [MiniDox pcb](https://github.com/That-Canadian/MiniDox_pcb) | pcb | split, 3x5, vertically staggered, thumb keys | <img src="https://camo.githubusercontent.com/d8925d5e754c3a8998db4ad9874c1d8b093901f2/687474703a2f2f692e696d6775722e636f6d2f69576233794f302e6a7067" width="200px" /> |
@@ -124,12 +122,12 @@
 | [Sofle Keyboard](https://github.com/josefadamcik/SofleKeyboard?utm_source=share&utm_medium=ios_app&utm_name=iossmf) | pcb, case | 5x6, rotary, pro micro, split | <img src="https://github.com/josefadamcik/SofleKeyboard/blob/master/Images/IMG_20200126_114622.jpg?raw=true" width="200px" /> |
 | [Space_ginny](https://github.com/MangoIV/space_ginny) | pcb, case | asetniop, ssd1306, oledsplit, pro micro | <img src="https://github.com/MangoIV/space_ginny/blob/main/pictures/space_ginny_04.jpg?raw=true" width="200px" /> |
 | [Split Infinitive](https://github.com/peej/for-split-keyboard/blob/master/README.md) | pcb | split, 5x6, pro micro | <img src="https://github.com/peej/for-split-keyboard/raw/master/pcb.png" width="200px" /> |
+| [Steal This Keyboard](https://github.com/obosob/steal_this_keyboard) | pcb | split, 3x5, vertically staggered, thumb keys, pro micro | <img src="https://raw.githubusercontent.com/obosob/steal_this_keyboard/master/pcb_front.png" /> |
 | [Torn](https://github.com/rtitmuss/torn) | pcb, case | split, rotary-encoder, oled, 3x6, vertically staggered, thumb keys, atmega328p, through hole | <img src="https://raw.githubusercontent.com/rtitmuss/torn/master/doc/img/torn.jpg" width="200px" /> |
 | [Ultimate Hacking Keyboard](https://github.com/UltimateHackingKeyboard/electronics) | pcb | split, display, 31FL3731 | <img src="https://ultimatehackingkeyboard.com/wordpress/wp-content/uploads/2018/07/uhk-split-palm-rest-1920.jpg" width="200px" /> |
 | [Xenon Keyboard](https://github.com/narinari/xenon-keyboard) | pcb, case | split, vertically staggered, thumb keys, oled, pro micro | <img src="https://raw.githubusercontent.com/narinari/xenon-keyboard/master/resources/example/xenon-classic_godspeed-custom-sa.jpg" width="200px" /> |
 | [YAEMK Keyboard](https://karlk90.github.io/yaemk-split-kb/) | pcb, case | split, 5x8, vertically staggered, hotswap, thumb keys, oled, rgb led, arm, risc-v, usb-c | <img src="https://raw.githubusercontent.com/KarlK90/yaemk-split-kb/main/docs/images/1_yaemk_wide.jpg" width="200px" /> |
 | [Zen (RGBKB)](https://github.com/RGBKB/Keyboard-files/tree/master/Zen) [Build Guide](https://legonut.gitbooks.io/zen-keyboard/content/) | pcb, case | split, ergo, ortho, thumb keys, rgb led | <img src="https://camo.githubusercontent.com/6bf0257847f1e1972cfd6b9f289a6e8180163ff8/68747470733a2f2f692e696d6775722e636f6d2f7a337630416b732e6a7067" width="200px" /> |
-| []() |  |  | <img src="" width="200px" /> |
 
 ## Drop-in replacement PCB
 - [AEK II USB](https://github.com/kb-elmo/aek2_usb) - Apple Extended Keyboard II (QMK compatible)
@@ -169,7 +167,6 @@
 | [SiCK-68](https://www.thingiverse.com/thing:3478494) | case | staggered, tkl, 3d print, handwiring, teensy | <img src="https://cdn.thingiverse.com/renders/b3/55/75/9b/d4/f20d6cca0ecda40347ad1802a63e518c_preview_featured.JPG" width="200px" /> |
 | [Steno keyboard](https://www.thingiverse.com/thing:4073814) | case | 3d print, handwiring | <img src="https://cdn.thingiverse.com/assets/fc/79/06/8b/9c/featured_preview_20191229_134223.jpg" width="200px" /> |
 | [Tada68](https://www.thingiverse.com/thing:3372910) | case | 3d print, handwiring, teensy, tkl, staggered | <img src="https://cdn.thingiverse.com/renders/46/14/9d/aa/0e/8b1db0b24fc25d806e61f7b51671bd08_preview_featured.JPG" width="200px" /> |
-| []() |  |  | <img src="" width="200px" /> |
 
 ## Numpad/Macropad
 | Name | Available Files | Tags | Image |
@@ -202,7 +199,6 @@
 | [SAN](https://github.com/hsgw/san) | pcb, case | 1x3, STM32F042F6P6, hotswap | <img src="https://github.com/hsgw/san/raw/master/san.JPG" width="200px" /> |
 | [Yampad](https://github.com/mattdibi/yampad)| pcb, case | numpad, pro micro, oled, hotswap, underglow, ws2812 | <img src="https://github.com/mattdibi/yampad/blob/master/img/yampad2.jpg?raw=true" width="200px" /> |
 | [Zesty 25](https://github.com/Gtrx0/zesty25) | pcb, case | 5x5, pro micro, plate, underglow, ws2812b | <img src="https://raw.githubusercontent.com/Gtrx0/zesty25/master/Renders/Backside_Unpopulated.png" width="200px" /> |
-| []() |  |  | <img src="" width="200px" /> |
 
 ## Case
 | Name | Tags | Image |
