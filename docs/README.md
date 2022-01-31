@@ -97,6 +97,7 @@
 | [ErgoDox official](https://github.com/Ergodox-io) | pcb, acryl case, 3d printable case | split, thumb keys, 5x7, 3d print | <img src="https://github.com/Ergodox-io/ergodox-io/blob/master/src/img/ErgoDox-original-min.png?raw=true" width="200px" /> |
 | [Ergoinu](https://github.com/hsgw/ergoinu) | pcb, case | split, plate, mx, pro micro | <img src="https://raw.githubusercontent.com/wiki/hsgw/ergoinu/images/keyboard_top.JPG" width="200px" /> |
 | [ErgoMac](https://github.com/LilBigMacky/ergomac) | pcb | split, vertically staggered, thumb keys | <img src="https://i.redd.it/6ndsci0gt0x11.jpg" width="200px" /> |
+| [ErgoMax](https://github.com/LouWii/ErgoMax) | pcb, case | split, pro micro, thumb keys, hotswap | <img src="https://raw.githubusercontent.com/LouWii/ErgoMax/master/Guide/img/ergomax-assembled.jpg" width="200px" /> |
 | [ErgoTravel](https://github.com/jpconstantineau/ErgoTravel) | pcb, case | split, vertically staggered, thumb keys | <img src="https://i.imgur.com/DY0FxcM.jpg" width="200px" /> |
 | [Ferris](https://github.com/pierrechevalier83/ferris) | pcb, case | split, pro micro, thumb keys, choc | <img src="https://camo.githubusercontent.com/d68fa1c55c9b2507ee6ae27944c717cba341ae1b/68747470733a2f2f692e696d6775722e636f6d2f714f76345844652e6a706567" width="200px" /> |
 | [Fortitude60](https://github.com/Pekaso/fortitude60) | pcb, case | 60%, 4x6, split, vertically staggered | <img src="https://camo.githubusercontent.com/b5a0fefe70132b6c9777bbba546fcd872d97ceae/68747470733a2f2f692e696d6775722e636f6d2f54627a6e7767672e6a7067" width="200px" /> |
