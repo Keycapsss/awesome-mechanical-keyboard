@@ -2,6 +2,7 @@
 ## Keyboards
 | Name | Available Files | Tags | Image |
 | --- | --- | :---: | :---: |
+| [Labbe-Mini](https://github.com/alabbe9545/Labbe-Mini) | pcb | hotswap, atmega32U4, usb-c, per-switch-rgb, rgb | <img src="https://raw.githubusercontent.com/alabbe9545/Labbe-Mini/main/images/IMG_1783.jpg" width="200px" /> |
 | [_33-Keyboard](https://github.com/tominabox1/_33-Keyboard) | pcb, case | gerber-only, stl | <img src="https://camo.githubusercontent.com/d722817b92b9dc25fba6a236ac0a128f76339854/68747470733a2f2f692e696d6775722e636f6d2f305775663861542e706e67" width="200px" /> |
 | [00Key](https://github.com/jefjef/00Key) | pcb, case | 75%, teensy, ssd1306, oled, backlight, through hole | <img src="https://github.com/jefjef/00Key/blob/master/images/build/DSCF2616.JPG?raw=true" width="200px" /> |
 | [ANHEDRAL](https://github.com/eswai/anhedral) | pcb, case | pro micro | <img src="https://github.com/eswai/anhedral/raw/master/anhedral1-1.jpeg" width="200px" /> |
