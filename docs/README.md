@@ -2,7 +2,6 @@
 ## Keyboards
 | Name | Available Files | Tags | Image |
 | --- | --- | :---: | :---: |
-| [Labbe-Mini](https://github.com/alabbe9545/Labbe-Mini) | pcb | hotswap, atmega32U4, usb-c, per-switch-rgb, rgb | <img src="https://raw.githubusercontent.com/alabbe9545/Labbe-Mini/main/images/IMG_1783.jpg" width="200px" /> |
 | [_33-Keyboard](https://github.com/tominabox1/_33-Keyboard) | pcb, case | gerber-only, stl | <img src="https://camo.githubusercontent.com/d722817b92b9dc25fba6a236ac0a128f76339854/68747470733a2f2f692e696d6775722e636f6d2f305775663861542e706e67" width="200px" /> |
 | [00Key](https://github.com/jefjef/00Key) | pcb, case | 75%, teensy, ssd1306, oled, backlight, through hole | <img src="https://github.com/jefjef/00Key/blob/master/images/build/DSCF2616.JPG?raw=true" width="200px" /> |
 | [ANHEDRAL](https://github.com/eswai/anhedral) | pcb, case | pro micro | <img src="https://github.com/eswai/anhedral/raw/master/anhedral1-1.jpeg" width="200px" /> |
@@ -26,6 +25,7 @@
 | [Grabert](https://github.com/KoBussLLC/grabert-hardware) | pcb, case | 60%, usb-c, oled, rotary-encoder, stm32f072v8t6 | <img src="https://raw.githubusercontent.com/KoBussLLC/grabert-hardware/e04fabde3759e065457ee6ca55711569b234af34/doc/grabert_white_canvas_angled.jpg" width="200px" /> |
 | [HacKeyboard](https://github.com/masaleiro/HacKeyboard) | pcb, case |  | <img src="https://i0.wp.com/lh3.googleusercontent.com/-_3srWrw52N0/VkKU25cRm-I/AAAAAAAAME8/l_oKwqZEeyk/w2048-o/Hackeyboard%252520photoshoot%25252041.JPG?w=200" width="200px" /> |
 | [Isometria75](https://github.com/ebastler/isometria-75) | pcb, case | 75%, iso, sk6812-mini, rotary-encoder, stm32f072cbt6 | <img src="https://camo.githubusercontent.com/ba20d0e50fa859956382800780cadcf3bd9a7d2b2f69852b7a40aff89d78442f/68747470733a2f2f6d7077722e78797a2f70726f6a656374732f69736f6d657472696137352f66756c6c2f70726f746f5f76315f342e4a5047" width="200px" /> |
+| [Labbe-Mini](https://github.com/alabbe9545/Labbe-Mini) | pcb, case | hotswap, atmega32U4, usb-c, per-switch-rgb, rgb | <img src="https://raw.githubusercontent.com/alabbe9545/Labbe-Mini/main/images/IMG_1783.jpg" width="200px" /> |
 | [Launch](https://github.com/system76/launch) | pcb, case | usb-hub, staggered, per-switch-rgb, rgb,  | <img src="https://media.githubusercontent.com/media/system76/launch/master/chassis/launch-chassis.png" width="200px" /> |
 | [Le Chiffre](https://github.com/tominabox1/Le-Chiffre-Keyboard) | pcb, case | atmega32u4, ergo, smd, stl, 3d print | <img src="https://camo.githubusercontent.com/f5bc3eaabb92bb103ba741b7530000153e5bf182/68747470733a2f2f692e696d6775722e636f6d2f515834744e6f6d2e706e67" width="200px" /> |
 | ~~Mullet~~ | pcb, case | staggered, smd, usb-c, underglow, atmega32u4 | <img src="https://camo.githubusercontent.com/2dac93377903e99500664ec9f6908cd68746fd63/68747470733a2f2f692e696d6775722e636f6d2f45424f4d6268482e6a7067" width="200px" /> |
