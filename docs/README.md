@@ -198,6 +198,7 @@
 | [GeekPad](https://git.bthlabs.pl/tomekwojcik/geekpad/) | pcb, case | 3x3, 3d print | <img src="https://i.imgur.com/FEzO81l.jpg" width="200px" /> |
 | [Hub16](https://github.com/joshajohnson/Hub16) | pcb, case | 4x4, rotary encoder, usb hub, hotswap, underglow, ws2812  | <img src="https://github.com/joshajohnson/Hub16/raw/master/Documents/imgs/header-img.JPG" width="200px" /> |
 | [duckyPad](https://github.com/dekuNukem/duckyPad) | pcb, case | 5x3, oled, rgb, sd-card | <img src="https://github.com/dekuNukem/duckyPad/raw/master/resources/pics/title.png" width="200px" /> |
+| [Labbe-Mini](https://github.com/alabbe9545/Labbe-Mini) | pcb, case | hotswap, atmega32U4, usb-c, per-switch-rgb, rgb | <img src="https://raw.githubusercontent.com/alabbe9545/Labbe-Mini/main/images/IMG_1783.jpg" width="200px" /> |
 | [LFK17](https://github.com/lfkeyboards/lfk17) | pcb | 5x4, numpad, hotswap, rgb | <img src="https://i.imgur.com/N4x5wXp.jpg" width="200px" /> |
 | [Lysergic 25](https://github.com/Gtrx0/lysergic25) | pcb, plate | 5x5, pro micro, plate, underglow, ws2812b, esd, usb-c | <img src="https://raw.githubusercontent.com/Gtrx0/lysergic25/master/Renders/Backside_populated.png" width="200px" /> |
 | [Meishi2](https://github.com/Biacco42/meishi2) | pcb | 1x4, pro micro | <img src="https://i.imgur.com/2SQqVlZ.png" width="200px" /> |
