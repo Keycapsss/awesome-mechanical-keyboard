@@ -36,9 +36,9 @@ export const COMMUNITY_INVITE_URL = `https://github.com/BenRoe/awesome-mechanica
 
 // See "Algolia" section of the README for more information.
 export const ALGOLIA = {
-	indexName: '',
-	appId: '',
-	apiKey: '',
+	indexName: 'keebfolio',
+	appId: 'E65BH61QN6',
+	apiKey: 'b01a630ef5765e953a61947cec1f9c6e',
 };
 
 export type Sidebar = Record<
