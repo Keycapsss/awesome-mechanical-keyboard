@@ -76,6 +76,7 @@ layout: ../../layouts/MainLayout.astro
 | [SAN](https://github.com/hsgw/san) | pcb, case | 1x3, STM32F042F6P6, hotswap | <img src="https://github.com/hsgw/san/raw/master/san.JPG" width="200px" /> |
 | [Yampad](https://github.com/mattdibi/yampad)| pcb, case | numpad, pro micro, oled, hotswap, underglow, ws2812 | <img src="https://github.com/mattdibi/yampad/blob/master/img/yampad2.jpg?raw=true" width="200px" /> |
 | [Zesty 25](https://github.com/Gtrx0/zesty25) | pcb, case | 5x5, pro micro, plate, underglow, ws2812b | <img src="https://raw.githubusercontent.com/Gtrx0/zesty25/master/Renders/Backside_Unpopulated.png" width="200px" /> |
+| [Vagrant-10](https://github.com/Sho-Keebs/Vagrant-10) | pcb, firmware | 3x3+1, numpad, pro micro, alps, through hole | <img src="https://raw.githubusercontent.com/Sho-Keebs/Vagrant-10/master/doc/vag.jpg" width="200px" /> |
 | []() |  |  | <img src="" width="200px" /> |
 
 ## Case
