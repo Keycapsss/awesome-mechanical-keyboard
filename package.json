@@ -13,7 +13,7 @@
   "dependencies": {
     "@algolia/client-search": "^4.14.2",
     "@astrojs/image": "^0.10.0",
-    "@astrojs/preact": "^1.2.0",
+    "@astrojs/preact": "^2.1.0",
     "@astrojs/react": "^1.2.0",
     "@docsearch/css": "^3.2.1",
     "@docsearch/react": "^3.2.1",
