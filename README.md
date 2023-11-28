@@ -8,7 +8,7 @@ View the pages on [Keebfolio.netlify.app](https://keebfolio.netlify.app/) or Git
 - [Staggered](src/pages/en/staggered.md)
 - [Ortho](src/pages/en/ortholinear.md)
 - [Split](src/pages/en/split.md)
-- [Other](src/pages/en/other.md
+- [Other](src/pages/en/other.md)
 - [Firmware](src/pages/en/firmware.md)
 - [Miscellaneous](src/pages/en/miscellaneous.md)
 - [Tools](src/pages/en/tools.md)
