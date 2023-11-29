@@ -1,0 +1,22 @@
+{
+  "name": "awesome-mechanical-keyboards",
+  "image": "mcr.microsoft.com/vscode/devcontainers/base:ubuntu-22.04",
+  "containerUser": "vscode",
+  "postCreateCommand": "npm install",
+  "postStartCommand": "nohup bash -c 'npm run start -- --host 0.0.0.0 &'",
+  "waitFor": "postCreateCommand",
+  "forwardPorts": [3000],
+  "features": {
+    "node": {
+      "version": "20"
+    }
+  },
+  "customizations": {
+    "codespaces": {
+      "openFiles": ["README.md", "CONTRIBUTING.md"]
+    },
+    "vscode": {
+      "extensions": ["astro-build.astro-vscode", "esbenp.prettier-vscode"]
+    }
+  }
+}
