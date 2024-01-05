@@ -6,7 +6,7 @@ export const SITE = {
 
 export const OPEN_GRAPH = {
 	image: {
-		src: 'https://github.com/BenRoe/awesome-mechanical-keyboard/blob/master/public/default-og-image.png?raw=true',
+		src: 'https://github.com/Keycapsss/awesome-mechanical-keyboard/blob/master/public/default-og-image.png?raw=true',
 		alt:
 			'astro logo on a starry expanse of space,' +
 			' with a purple saturn-like planet floating in the right foreground',
@@ -30,9 +30,9 @@ export const KNOWN_LANGUAGES = {
 } as const;
 export const KNOWN_LANGUAGE_CODES = Object.values(KNOWN_LANGUAGES);
 
-export const GITHUB_EDIT_URL = `https://github.com/BenRoe/awesome-mechanical-keyboard`;
+export const GITHUB_EDIT_URL = `https://github.com/Keycapsss/awesome-mechanical-keyboard/blob/master`;
 
-export const COMMUNITY_INVITE_URL = `https://github.com/BenRoe/awesome-mechanical-keyboard/discussions`;
+export const COMMUNITY_INVITE_URL = `https://github.com/Keycapsss/awesome-mechanical-keyboard/discussions`;
 
 // See "Algolia" section of the README for more information.
 export const ALGOLIA = {
