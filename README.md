@@ -17,7 +17,7 @@ View the pages on [Keebfolio.netlify.app](https://keebfolio.netlify.app/) or Git
 ## Contributing
 
 Contributions are welcome!  
-To add content, edit the Markdown file in the [src/pages/en](src/pages/en/) folder and open a [Pull Request](https://help.github.com/en/articles/about-pull-requests). You can also open a new [Issue](https://github.com/BenRoe/awesome-mechanical-keyboard/issues).  
+To add content, edit the Markdown file in the [src/pages/en](src/pages/en/) folder and open a [Pull Request](https://help.github.com/en/articles/about-pull-requests). You can also open a new [Issue](https://github.com/Keycapsss/awesome-mechanical-keyboard/issues).  
 Please use this [commit message conventions](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13).
 
 The project uses [Astro](https://astro.build) as a Static Site Generator.
