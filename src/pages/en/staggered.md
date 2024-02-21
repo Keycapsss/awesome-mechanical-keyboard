@@ -51,4 +51,6 @@ layout: ../../layouts/MainLayout.astro
 | [Tg4x](https://github.com/MythosMann/tg4x) | pcb, case | pro micro, 40% | <img src="https://raw.githubusercontent.com/MythosMann/tg4x/master/pcb.jpg" width="200px" /> |
 | [Voyager](https://github.com/ai03-2725/Voyager) | pcb | 60%, ansi, iso, rgb, led | <img src="https://raw.githubusercontent.com/ai03-2725/Voyager104/master/Renders/Front.png" width="200px" /> |
 | [XMMX TKL](https://geekhack.org/index.php?topic=93422.0) | pcb |  | <img src="https://i.imgur.com/otn8LT3.jpg" width="200px" /> |
+| [Cockpit Keyboard](https://github.com/ozkan/Cockpit-Keyboard) | pcb, case | 40%, encoder, underglow, pro micro | <img src="https://raw.githubusercontent.com/ozkan/Cockpit-Keyboard/master/images/CockpitKeyboard-1.webp" width="200px" /> |
+| [Skywatch](https://github.com/ozkan/skywatch) | pcb, case | 36-key, oled, underglow, smd, RP2040, usb-c, ergonomic | <img src="https://i.imgur.com/krrMStF.png" width="200px" /> |
 | []() |  |  | <img src="" width="200px" /> |
