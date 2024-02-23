@@ -19,6 +19,7 @@ layout: ../../layouts/MainLayout.astro
 | [Bevi](https://github.com/sendyyeah/bevi) | pcb, case | 60%, numpad, pro micro, atmega32U4 | <img src="https://user-images.githubusercontent.com/3537856/115094858-48ef3f80-9f49-11eb-9e5f-1ed481c59b7c.jpg" width="200px" /> |
 | [Boston](https://github.com/bluepylons/Boston) | pcb. case | 120%, usb-c, STM32F072CBU6 | <img src="https://raw.githubusercontent.com/Technofrikus/Boston-Case/main/Photos/DSCF7709%201.jpg" width="200px" /> |
 | [BMEK - Bemeier Ergonomic Keyboard](https://github.com/Bemeier/bmek) | pcb, case | ergo, hotswap, usb-c | <img src="https://camo.githubusercontent.com/35605dc5a4f1219613ac62d6c23c24716f7039cd/68747470733a2f2f692e696d6775722e636f6d2f5a4d323775506f2e6a7067" width="200px" /> |
+| [Cockpit Keyboard](https://github.com/ozkan/Cockpit-Keyboard) | pcb, case | 40%, encoder, underglow, pro micro | <img src="https://raw.githubusercontent.com/ozkan/Cockpit-Keyboard/master/images/CockpitKeyboard-1.webp" width="200px" /> |
 | [CozyKeys Bloomer](https://github.com/cozykeys/bloomer) | pcb, case | 75%, underglow | <img src="https://camo.githubusercontent.com/d06fa0fd471810b747137c0828502567c2323fe3/687474703a2f2f6173736574732e636f7a796b6579732e78797a2f696d616765732f6b6579626f617264732f626c6f6f6d65722f626c6f6f6d65722d616e676c652d325f383030783830302e6a7067" width="200px" /> |
 | [CPM43](https://github.com/Gtrx0/cpm43) | pcb | 40%, 4x12, underglow, atmega32U4, usb-c, esd | <img src="https://raw.githubusercontent.com/Gtrx0/cpm43/master/Renders/Render_Unpopulated_Front.png" width="200px" /> |
 | [CW40](https://github.com/ktec-hq/CW40) | pcb | 40%, underglow, alps | |
@@ -43,6 +44,7 @@ layout: ../../layouts/MainLayout.astro
 | [Reviung](https://github.com/gtips/reviung) | pcb, case | ergo, vertically staggered, pro micro, ws2812b, underglow | <img src="https://raw.githubusercontent.com/gtips/reviung/master/reviung41/image/REVIUNG41B-1.jpg" width="200px" /> |
 | [Sesame](https://github.com/kb-elmo/sesame) | pcb, case | ergonomic, through-hole, atmega32A, usb-c | <img src="https://i.imgur.com/IdudbWjl.jpg" width="200px" /> |
 | [SB-147](https://github.com/sealclubber/SB-147) | case | 3d print, handwiring | <img src="https://i.imgur.com/VWGHzfU.jpg" width="200px" /> |
+| [Skywatch](https://github.com/ozkan/skywatch) | pcb, case | 36-key, oled, underglow, smd, RP2040, usb-c, ergonomic | <img src="https://i.imgur.com/krrMStF.png" width="200px" /> |
 | [Solheim68 (Varmilo VA68M replacement)](https://github.com/evyd13/solheim68) | pcb | 65%, atmega328p | <img src="https://camo.githubusercontent.com/ed41f8d7c540835426b0271ec79824c8f86bba7e43628aecff6c129ff017c247/68747470733a2f2f692e696d6775722e636f6d2f694370794554792e706e67" width="200px" /> |
 | [Tanuki](https://github.com/SethSenpai/Tanuki) | pcb, case | 40%, underglow | <img src="https://github.com/SethSenpai/Tanuki/raw/master/Img/glamour1.jpg" width="200px" /> |
 | [Entropy](https://github.com/joshajohnson/entropy) | pcb, case | 96%, southpaw, rgb, led, split space, encoder | <img src="https://raw.githubusercontent.com/joshajohnson/entropy/master/docs/entropy.jpeg" width="200px" /> |
@@ -51,6 +53,4 @@ layout: ../../layouts/MainLayout.astro
 | [Tg4x](https://github.com/MythosMann/tg4x) | pcb, case | pro micro, 40% | <img src="https://raw.githubusercontent.com/MythosMann/tg4x/master/pcb.jpg" width="200px" /> |
 | [Voyager](https://github.com/ai03-2725/Voyager) | pcb | 60%, ansi, iso, rgb, led | <img src="https://raw.githubusercontent.com/ai03-2725/Voyager104/master/Renders/Front.png" width="200px" /> |
 | [XMMX TKL](https://geekhack.org/index.php?topic=93422.0) | pcb |  | <img src="https://i.imgur.com/otn8LT3.jpg" width="200px" /> |
-| [Cockpit Keyboard](https://github.com/ozkan/Cockpit-Keyboard) | pcb, case | 40%, encoder, underglow, pro micro | <img src="https://raw.githubusercontent.com/ozkan/Cockpit-Keyboard/master/images/CockpitKeyboard-1.webp" width="200px" /> |
-| [Skywatch](https://github.com/ozkan/skywatch) | pcb, case | 36-key, oled, underglow, smd, RP2040, usb-c, ergonomic | <img src="https://i.imgur.com/krrMStF.png" width="200px" /> |
 | []() |  |  | <img src="" width="200px" /> |
