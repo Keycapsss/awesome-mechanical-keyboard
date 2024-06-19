@@ -44,6 +44,7 @@ layout: ../../layouts/MainLayout.astro
 | [Reviung](https://github.com/gtips/reviung) | pcb, case | ergo, vertically staggered, pro micro, ws2812b, underglow | <img src="https://raw.githubusercontent.com/gtips/reviung/master/reviung41/image/REVIUNG41B-1.jpg" width="200px" /> |
 | [Sesame](https://github.com/kb-elmo/sesame) | pcb, case | ergonomic, through-hole, atmega32A, usb-c | <img src="https://i.imgur.com/IdudbWjl.jpg" width="200px" /> |
 | [SB-147](https://github.com/sealclubber/SB-147) | case | 3d print, handwiring | <img src="https://i.imgur.com/VWGHzfU.jpg" width="200px" /> |
+| [Skewpad](https://github.com/skewnart/skewpad) | pcb, case | pro micro, 3d print, gerber | <img src="https://raw.githubusercontent.com/Skewnart/Skewpad/main/repo_assets/images/skewpad.v1.jpg" width="200px" /> |
 | [Skywatch](https://github.com/ozkan/skywatch) | pcb, case | 36-key, oled, underglow, smd, RP2040, usb-c, ergonomic | <img src="https://i.imgur.com/krrMStF.png" width="200px" /> |
 | [Solheim68 (Varmilo VA68M replacement)](https://github.com/evyd13/solheim68) | pcb | 65%, atmega328p | <img src="https://camo.githubusercontent.com/ed41f8d7c540835426b0271ec79824c8f86bba7e43628aecff6c129ff017c247/68747470733a2f2f692e696d6775722e636f6d2f694370794554792e706e67" width="200px" /> |
 | [Tanuki](https://github.com/SethSenpai/Tanuki) | pcb, case | 40%, underglow | <img src="https://github.com/SethSenpai/Tanuki/raw/master/Img/glamour1.jpg" width="200px" /> |
