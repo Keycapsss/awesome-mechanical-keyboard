@@ -18,4 +18,5 @@ layout: ../../layouts/MainLayout.astro
 - [Plate & Case Builder](http://builder.swillkb.com) - Keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts
 - [qmkJsonConverter](https://github.com/jhelvy/qmkJsonConverter) - converts the .json file exported from the [QMK configurator](https://config.qmk.fm/) into the code for the keymap.c file in your QMK settings.
 - [splitKbCompare](https://jhelvy.shinyapps.io/splitkbcompare/) - an interactive tool for comparing layouts of different split mechanical keyboards [Github page](https://github.com/jhelvy/splitKbCompare).
+- [Snakeskin](https://github.com/BlueDrink9/keeb_snakeskin) - Generate a printable case and travel case for split keyboard PCBs or other custom PCBs.
 - [Svg2Shenzhen](https://github.com/badgeek/svg2shenzhen) - Inkscape extension for exporting drawing into Kicad PCB.
