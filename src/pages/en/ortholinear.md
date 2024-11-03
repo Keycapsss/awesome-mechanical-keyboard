@@ -20,7 +20,6 @@ layout: ../../layouts/MainLayout.astro
 | [Lumberjack](https://github.com/peej/lumberjack-keyboard) | pcb | 5x12, through-hole, usb-mini, ATMEGA328P-PU | <img src="https://raw.githubusercontent.com/peej/lumberjack-keyboard/master/images/tofu-sa-vilebloom.jpg" width="200px" /> |
 | [Koda](https://github.com/larrbo/odd-rocket/tree/master/koda) | pcb, case | 4x12, pro micro, kailh-choc | <img src="https://4.bp.blogspot.com/-E9gGZbziicI/WwoNKDP-YPI/AAAAAAAABYk/IXV4gGrcQKo5Bqf7CRVpR_zYH2SCxAXwACLcBGAs/s400/IMG_20180522_231738.jpg" width="200px" /> |
 | [Krtkus](https://github.com/swift502/Krtkus) | pcb, case | 5x12, pro micro, kailh-choc | <img src="https://raw.githubusercontent.com/swift502/Krtkus/refs/heads/main/images/thumb.webp" width="200px" /> |
-| [Krtkus](https://github.com/swift502/Krtkus) | pcb, case | 5x12, pro micro, kailh-choc | <img src="https://raw.githubusercontent.com/swift502/Krtkus/refs/heads/main/images/thumb.webp" width="200px" /> |
 | [Otterlinear-keyboard](https://github.com/Jana-Marie/otterlinear-keyboard) | pcb, case | 5x12, stm32f042, kailh-choc | <img src="https://raw.githubusercontent.com/Jana-Marie/otterlinear-keyboard/main/img/FG7vpoGXIAYDPLb.jpeg" width="200px" /> |
 | [Plaid](https://github.com/hsgw/plaid) | pcb | 4x12, atmega328p, through hole | <img src="https://user-images.githubusercontent.com/2714926/49872071-481ae000-fe5b-11e8-963d-8aaa3a653e4d.jpg" width="200px" /> |
 | [Planck THK](https://github.com/olkb/planck_thk) | pcb, case | 4x12, rotary encoder | <img src="https://i.imgur.com/Jiy1jLN.jpg" width="200px" /> |
