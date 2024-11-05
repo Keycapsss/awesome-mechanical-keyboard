@@ -7,5 +7,6 @@ import preact from '@astrojs/preact';
 // https://astro.build/config
 export default defineConfig({
   integrations: [react(), preact()],
-  site: `https://keebfolio.netlify.app`
+  site: `https://keebfolio.netlify.app`,
+  trailingSlash: "never"
 });
