@@ -47,22 +47,21 @@ layout: ../../layouts/MainLayout.astro
 ## Numpad/Macropad
 | Name | Available Files | Tags | Image |
 | --- | --- | :---: | :---: |
-| [2% Milk](https://github.com/Rionlion100/Spaceboards/tree/master/Keyboards/2%25%20Milk) | pcb, case | 1x2, pro micro | <img src="https://camo.githubusercontent.com/04ba54fa2fb06710bc98e8ee23baa0c8ee9962ca/68747470733a2f2f692e696d6775722e636f6d2f5564393675586e2e706e67" width="200px" /> |
+| [2% Milk](https://github.com/Rionlion100/Spaceboards/tree/master/Keyboards/2%25%20Milk) | pcb, case | 1x2, pro micro | <img src="https://camo.githubusercontent.com/2ce2ef1f825b08de9128e4b3d16f649e0b61531aba166b76eea9ddb06d07e70b/68747470733a2f2f692e696d6775722e636f6d2f5564393675586e2e706e67" width="200px" /> |
 | [4x5-wireless-keypad-pcb](https://github.com/ogatatsu/4x5-wireless-keypad-pcb) | pcb | 4x5, bluetooth | <img src="https://github.com/ogatatsu/4x5-wireless-keypad-pcb/blob/master/images/1.png?raw=true" width="200px" /> |
-| [Amoeba Single-Switch PCB](https://github.com/mtl/keyboard-pcbs) | pcb | single-switch, handwiring | <img src="https://deskthority.net/resources/image/25215" width="200px" /> |
+| [Amoeba Single-Switch PCB](https://github.com/mtl/keyboard-pcbs) | pcb | single-switch, handwiring | |
 | [ANAVI Macro Pad 2](https://github.com/AnaviTechnology/anavi-macro-pad-2) | pcb, case | pcb, stl, attiny85, openscad, kicad | <img src="https://github.com/AnaviTechnology/anavi-macro-pad-2/blob/main/anavi-macro-pad-2.jpg?raw=true" width="200px" /> |
 | [ANAVI Macro Pad 8](https://github.com/AnaviTechnology/anavi-macro-pad-8) | pcb, case | pcb, stl, atmega32u4, openscad, kicad | <img src="https://github.com/AnaviTechnology/anavi-macro-pad-8/blob/master/anavi-macro-pad-8.jpg?raw=true" width="200px" /> |
 | [ANAVI Macro Pad 10](https://github.com/AnaviTechnology/anavi-macro-pad-10) | pcb, case | pcb, stl, kicad, hotswap, usb-c, rp2040 | <img src="https://github.com/AnaviTechnology/anavi-macro-pad-10/blob/main/anavi-macro-pad-10.jpg?raw=true" width="200px" /> |
 | [Ardu Keyboard](https://www.hackster.io/palsayantan/ardu-keyboard-ef4d46) | pcb | 3x3, ATmega328P | <img src="https://hackster.imgix.net/uploads/attachments/1077918/_3zAOyxufXh.blob?auto=compress%2Cformat&w=900&h=675&fit=min" width="200px" /> |
 | [Cherry-Mx-Bitboard-Re](https://github.com/ogatatsu/Cherry-Mx-Bitboard-Re) | pcb | single-switch, handwiring, hotswap | <img src="https://github.com/ogatatsu/Cherry-Mx-Bitboard-Re/raw/master/Images/a.jpeg" width="200px" /> |
 | [Cherry MX Keypad](http://syncchannel.blogspot.com/2016/06/cherry-mx-keypad.html?m=1) | pcb | 1x4, led | <img src="https://1.bp.blogspot.com/-Mur6fIsKDwU/V1NmGd7T4QI/AAAAAAAAAyU/Fh40F8Zl41YVosa03zkJl2WPSQ7sGS_AwCLcB/s280/CherryMXkeypad1.jpg" width="200px" /> |
-| [CHOCO](https://github.com/hsgw/choco) | pcb, case | 4x7, choc, usb-c, STM32F072C8T6, smd | <img src="https://camo.githubusercontent.com/0f5e76c4bb7ab1fb4afcdd0db4985aaa1d235843/68747470733a2f2f692e696d6775722e636f6d2f6e32553952484f2e6a7067" width="200px" /> |
+| [CHOCO](https://github.com/hsgw/choco) | pcb, case | 4x7, choc, usb-c, STM32F072C8T6, smd | <img src="https://camo.githubusercontent.com/c0e2b08790bb7e24f22eab84b8eb120a3d2591ab897d00ae99e068ac3c88de47/68747470733a2f2f692e696d6775722e636f6d2f6e32553952484f2e6a7067" width="200px" /> |
 | [Cookpad Pad](https://github.com/cookpad/cookpad-pad) | pcb, case | 2x3, pro micro, ws2812b, underglow | <img src="https://github.com/cookpad/cookpad-pad/raw/master/docs/images/cookpad-pad.jpg" width="200px" /> |
 | [Discipad](https://github.com/coseyfannitutti/discipad) | pcb, case | 4x5, through hole, usb-c, | <img src="https://images.squarespace-cdn.com/content/v1/5c533d33348cd92b886e544d/1569605273813-X4W1ZK24U81C0U381LW7/ke17ZwdGBToddI8pDm48kK60W-ob1oA2Fm-j4E_9NQB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kD6Ec8Uq9YczfrzwR7e2Mh5VMMOxnTbph8FXiclivDQnof69TlCeE0rAhj6HUpXkw/discipad-white.jpeg?format=750w" width="200px" /> |   |   |   |   |
 | [Dumbpad](https://github.com/imchipwood/dumbpad) | pcb | pcb, atmega32u4, rotary encoder | <img src="https://i.imgur.com/sS3fq1Z.jpg" width="200px" /> |
 | [Env-MCRO](https://github.com/Envious-Data/Env-MCRO) | pcb | pcb, rpi-pico | <img src="https://github.com/Envious-Data/Env-MCRO/blob/main/EnvMCRO.png?raw=true" width="200px" /> |
 | [Env-NPD](https://github.com/Envious-Data/Env-NPD) | pcb | pcb, numpad, rpi-pico | <img src="https://github.com/Envious-Data/Env-NPD/blob/main/env-npd.png?raw=true" width="200px" /> |
-| ~~Game cart macropad~~ | pcb, case | 4x4, 3d print | |
 | [GeekPad](https://git.bthlabs.pl/tomekwojcik/geekpad/) | pcb, case | 3x3, 3d print | <img src="https://i.imgur.com/FEzO81l.jpg" width="200px" /> |
 | [Hub16](https://github.com/joshajohnson/Hub16) | pcb, case | 4x4, rotary encoder, usb hub, hotswap, underglow, ws2812  | <img src="https://github.com/joshajohnson/Hub16/raw/master/Documents/imgs/header-img.JPG" width="200px" /> |
 | [duckyPad](https://github.com/dekuNukem/duckyPad) | pcb, case | 5x3, oled, rgb, sd-card | <img src="https://github.com/dekuNukem/duckyPad/raw/master/resources/pics/title.png" width="200px" /> |
@@ -70,21 +69,19 @@ layout: ../../layouts/MainLayout.astro
 | [LFK17](https://github.com/lfkeyboards/lfk17) | pcb | 5x4, numpad, hotswap, rgb | <img src="https://i.imgur.com/N4x5wXp.jpg" width="200px" /> |
 | [Lysergic 25](https://github.com/Gtrx0/lysergic25) | pcb, plate | 5x5, pro micro, plate, underglow, ws2812b, esd, usb-c | <img src="https://raw.githubusercontent.com/Gtrx0/lysergic25/master/Renders/Backside_populated.png" width="200px" /> |
 | [Meishi2](https://github.com/Biacco42/meishi2) | pcb | 1x4, pro micro | <img src="https://i.imgur.com/2SQqVlZ.png" width="200px" /> |
-| [Mulletpad](https://github.com/coseyfannitutti/mulletpad) | pcb, case | numpad, usb-c, atmega32u4, smd | <img src="https://camo.githubusercontent.com/a57afd3b24b297f74daf1b31e864845fbd1f31cc/68747470733a2f2f692e696d6775722e636f6d2f3676374a764c4e2e706e67" width="200px" /> |
 | [Pix](https://github.com/sendz/pix) | pcb, case | pro micro, 1x4, rotary encoder, oled, desk mounted, monitor mounted | <img src="https://i.imgur.com/ZcuDN6z.jpg" width="200px" /> |
 | [Remnant](https://github.com/hsgw/Remnant) | pcb, case | 2x4, through hole, attiny85 | <img src="https://github.com/hsgw/Remnant/raw/master/doc/img/remnant.jpg" width="200px" /> |
 | [SAMD21 Bridge Module Cherry Board](https://www.pcbway.com/project/shareproject/DIY_RGB_Cherry_MX_Hotkey_Board.html) | pcb, case | plate | <img src="https://file.pcbway.com/websponsor/18/07/26/195654072.jpg" width="200px" /> |
 | [SAN](https://github.com/hsgw/san) | pcb, case | 1x3, STM32F042F6P6, hotswap | <img src="https://github.com/hsgw/san/raw/master/san.JPG" width="200px" /> |
 | [Yampad](https://github.com/mattdibi/yampad)| pcb, case | numpad, pro micro, oled, hotswap, underglow, ws2812 | <img src="https://github.com/mattdibi/yampad/blob/master/img/yampad2.jpg?raw=true" width="200px" /> |
 | [Zesty 25](https://github.com/Gtrx0/zesty25) | pcb, case | 5x5, pro micro, plate, underglow, ws2812b | <img src="https://raw.githubusercontent.com/Gtrx0/zesty25/master/Renders/Backside_Unpopulated.png" width="200px" /> |
-| []() |  |  | <img src="" width="200px" /> |
 
 ## Case
 | Name | Tags | Image |
 | --- | :---: | :---: |
 | [60% (Poker II, Pok3r) Keyboard Case 2.0](https://www.thingiverse.com/thing:983332) | 3d print | <img src="https://cdn.thingiverse.com/renders/8a/ac/f9/d8/ad/zanmYsB_-_Imgur_preview_featured.jpg" width="200px" /> |
 | [Alpha keyboard case](https://www.myminifactory.com/object/3d-print-alpha-keyboard-case-pyrool-28-key-pcb-103767) | 3d print | <img src="https://cdn.myminifactory.com/assets/object-assets/5db6033fc6df3/images/720X720-cases.jpg" width="200px" /> |
-| [Arisu Keyboard Case](https://github.com/FateNozomi/arisu-case) | plate | <img src="https://camo.githubusercontent.com/52126fe22185eb48a922b8f7a2a2726cb2f19226/68747470733a2f2f692e696d6775722e636f6d2f6b6e74353138452e6a7067" width="200px" /> |
+| [Arisu Keyboard Case](https://github.com/FateNozomi/arisu-case) | plate | <img src="https://camo.githubusercontent.com/79eacfb388a00002fb17ed30f33e6b460b23f99accb5c06a7bde81afaf18366e/68747470733a2f2f692e696d6775722e636f6d2f777371437545752e6a7067" width="200px" /> |
 | [Atom47 for Vortex Core](https://github.com/evyd13/atom47) | 3d print | <img src="https://i.imgur.com/uUfzeCa.png" width="200px" /> |
 | [Atreus62 High Profile Keyboard Case](https://www.thingiverse.com/thing:3246981) | 3d print | <img src="https://cdn.thingiverse.com/renders/e5/f1/48/84/33/5c363031158a92007b63b0468cea95c6_preview_featured.jpg" width="200px" /> |
 | [Chimera Egro 42 Tenting Case](https://github.com/wizarddata/Chimera-Egro-42-Case) | 3d print, tenting, split |  |
@@ -106,11 +103,11 @@ layout: ../../layouts/MainLayout.astro
 | [Iris Mech Build](https://github.com/lukeg101/Iris-Mech-Build) | acrylic, brushed copper, led  | <img src="https://github.com/lukeg101/Iris-Mech-Build/raw/master/images/IMG_8335.JPG" width="200px" /> |
 | [Iris Ice Project](https://github.com/rs/iris-ice) | 3d print, acrylic, white, led | <img src="https://github.com/rs/iris-ice/blob/master/img/iris-ice.jpg?raw=true" width="200px" /> |
 | [Iris Tenting Cases (High & Low Profile)](https://github.com/wizarddata/Iris-Case) | 3d print, tenting, split | |
-| [Kyria](https://github.com/splitkb/kyria) | acrylic, split  | <img src="https://github.com/splitkb/kyria/blob/master/High%20Profile%20Case/High%20Profile%20Case.png?raw=true" width="200px" /> |
+| [Kyria](https://github.com/splitkb/kyria) | acrylic, split  | |
 | [Let's Split Keyboard Angled Case](https://www.thingiverse.com/thing:2626039) | 3d print, split, ortholinear | <img src="https://cdn.thingiverse.com/renders/e8/05/1a/03/99/429c22d5f6e9df54f0b98e73d0ec0a19_preview_featured.jpg" width="200px" /> |
 | [Let's Split Keyboard Case](https://www.thingiverse.com/thing:2482218) | 3d print, split, ortholinear | <img src="https://cdn.thingiverse.com/renders/0f/cb/dc/ad/ac/f3ccdd27d2000e3f9255a7e3e2c48800_preview_featured.jpg" width="200px" /> |
 | [Let's Split Keyboard Plate & Case](https://www.thingiverse.com/thing:2335558) | 3d print, split, ortholinear | <img src="https://cdn.thingiverse.com/renders/79/08/a0/f0/87/73727bf9538c5aa7b80ac16c14c6686b_preview_featured.jpg" width="200px" /> |
-| [Minidox Case](https://github.com/dotdash32/cases/tree/master/Minidox) | split, 3x6, vertically staggered, thumb keys | <img src="https://camo.githubusercontent.com/b345769866acbd0ad76c22250941aa4ab23667e5/68747470733a2f2f692e696d6775722e636f6d2f686d6e6b56646e2e6a7067" width="200px" /> |
+| [Minidox Case](https://github.com/dotdash32/cases/tree/master/Minidox) | split, 3x6, vertically staggered, thumb keys | <img src="https://camo.githubusercontent.com/137b61ab9d3ec594fcc056bc685bd4e5e76115b6aa6875b50863eed77e482552/68747470733a2f2f692e696d6775722e636f6d2f686d6e6b56646e2e6a7067" width="200px" /> |
 | [Minidox Tenting Case](https://github.com/wizarddata/Minidox-Cases) | 3d print, tenting, split |  |
 | [Miuni32-Case](https://github.com/wizarddata/Miuni32-Case) | 3d print, ortholinear, 3x11 | <img src="https://preview.redd.it/da5ey5fxfyp21.jpg?width=960&crop=smart&auto=webp&s=470ec31cd4ad760dd30c16591740b238fa8a59cc" width="200px" /> |
 | [Nyquist Plate + Case](https://www.thingiverse.com/thing:2389357) | 3d print, split, ortholinear | <img src="https://cdn.thingiverse.com/renders/81/82/66/eb/3d/7b3575db20022d9ffa547ea4deb728d1_preview_featured.jpg" width="200px" /> |
