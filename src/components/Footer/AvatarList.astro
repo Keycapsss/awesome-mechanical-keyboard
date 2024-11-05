@@ -5,7 +5,7 @@ type Props = {
 };
 const { path } = Astro.props as Props;
 const resolvedPath = `examples/docs/${path}`;
-const url = `https://api.github.com/repos/keycapsss/awesome-mechanical-keyboard/commits/?path=${path}`;
+const url = `https://api.github.com/repos/keycapsss/awesome-mechanical-keyboard/commits?path=${path}`;
 const commitsURL = `https://github.com/keycapsss/awesome-mechanical-keyboard/commits/master/${path}`;
 
 type Commit = {
@@ -58,6 +58,7 @@ function removeDups(arr: Commit[]) {
 
 	for (let item of arr) {
 		const author = item.author;
+		if (author == null) continue;
 		// Deduplicate based on author.id
 		map.set(author.id, { login: author.login, id: author.id });
 	}
