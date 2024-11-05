@@ -14,7 +14,7 @@
     "@algolia/client-search": "^5.12.0",
     "@astrojs/preact": "^3.5.3",
     "@astrojs/react": "^3.6.2",
-    "@docsearch/css": "*",
+    "@docsearch/css": "^3.7.0",
     "@docsearch/react": "^3.7.0",
     "@types/node": "^22.9.0",
     "@types/react": "^18.3.12",
