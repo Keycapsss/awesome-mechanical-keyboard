@@ -6,11 +6,11 @@ layout: ../../layouts/MainLayout.astro
 
 | Name | Available Files | Tags | Image |
 | --- | --- | :---: | :---: |
-| [_33-Keyboard](https://github.com/tominabox1/_33-Keyboard) | pcb, case | gerber-only, stl | <Image src="https://camo.githubusercontent.com/d722817b92b9dc25fba6a236ac0a128f76339854/68747470733a2f2f692e696d6775722e636f6d2f305775663861542e706e67" width={300} aspectRatio={16/9} /> |
+| [_33-Keyboard](https://github.com/tominabox1/_33-Keyboard) | pcb, case | gerber-only, stl | <img src="https://camo.githubusercontent.com/d722817b92b9dc25fba6a236ac0a128f76339854/68747470733a2f2f692e696d6775722e636f6d2f305775663861542e706e67" width="200px" /> |
 | [00Key](https://github.com/jefjef/00Key) | pcb, case | 75%, teensy, ssd1306, oled, backlight, through hole | <img src="https://github.com/jefjef/00Key/blob/master/images/build/DSCF2616.JPG?raw=true" width="200px" /> |
 | [ANHEDRAL](https://github.com/eswai/anhedral) | pcb, case | pro micro | <img src="https://github.com/eswai/anhedral/raw/master/anhedral1-1.jpeg" width="200px" /> |
 | ~~Akihabara~~ | pcb, case | 40%, 3d print | |
-| [Alpha](https://github.com/PyrooL/Alpha) | pcb, case | <30% | <Image src="https://i.imgur.com/alNWnhZ.jpg" width={300} aspectRatio={16/9} format="webp" /> |
+| [Alpha](https://github.com/PyrooL/Alpha) | pcb, case | <30% | <img src="https://i.imgur.com/alNWnhZ.jpg" width="200px" /> |
 | [Arisu Keyboard PCB](https://github.com/FateNozomi/arisu-pcb) | pcb, case |  | <img src="https://camo.githubusercontent.com/52126fe22185eb48a922b8f7a2a2726cb2f19226/68747470733a2f2f692e696d6775722e636f6d2f6b6e74353138452e6a7067" width="200px" /> |
 | [Atreus](https://github.com/technomancy/atreus) | pcb, case | 40% | <img src="https://github.com/technomancy/atreus/raw/master/atreus.jpg" width="200px" /> |
 | [Atreus62](https://github.com/profet23/atreus62) | pcb, case | 60% | <img src="https://raw.githubusercontent.com/profet23/atreus62/master/images/nantucket-atreus62.jpg" width="200px" /> |
