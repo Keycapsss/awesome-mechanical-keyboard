@@ -1,11 +1,7 @@
 {
   "extends": "astro/tsconfigs/base",
   "compilerOptions": {
-    "jsx": "preserve",
-    "skipLibCheck": true
-  },
-  "compilerOptions": {
-    // Replace `astro/client` with `@astrojs/image/client`
-    "types": ["@astrojs/image/client"]
+    "jsx": "react-jsx",
+    "jsxImportSource": "preact"
   }
 }
