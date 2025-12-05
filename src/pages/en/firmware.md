@@ -18,6 +18,7 @@ layout: ../../layouts/MainLayout.astro
 - [RMK](https://github.com/haobogu/rmk) - A feature-rich Rust keyboard library with wireless and split support, aims to make keyboard customization easy and accessible.
 - [rumcake](https://github.com/Univa/rumcake) - A rust-based keyboard firmware.
 - [QMK](https://github.com/qmk/qmk_firmware) - A keyboard firmware based on the tmk_keyboard firmware for Atmel AVR and ARM controllers.
+- [Smart Keymap](https://github.com/rgoulter/smart-keymap) - Build keyboard firmware by declaring keymaps in Nickel, powered by Rust.
 - [TMK](https://github.com/tmk/tmk_keyboard) - Keyboard firmwares for Atmel AVR and Cortex-M.
 - [ZMK](https://zmkfirmware.dev) - MIT-licensed firmware built on top of the Zephyr RTOS that is “wireless first”.
 
