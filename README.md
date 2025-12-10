@@ -44,3 +44,4 @@ The project uses [Astro](https://astro.build) as a Static Site Generator.
 ### License
 
 [![CC4](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
