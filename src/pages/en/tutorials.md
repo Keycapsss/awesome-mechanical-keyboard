@@ -10,7 +10,6 @@ layout: ../../layouts/MainLayout.astro
 - [Hand wiring a let's split](https://johannes-jansson.github.io/projects/2018/07/23/hand-wiring-lets-split.html) (pro micro)
 - [How to integrate a trackpoint in a mechanical keyboard (TMK, Teensy)](https://github.com/alonswartz/trackpoint)
 - [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide/blob/master/README.md)
-- [K3YB0RG build guide](https://github.com/joeyvigil/k3yb0rg) - Guide to building a K3YB0RG keyboard.
 - [lets-split-guide](https://github.com/nicinabox/lets-split-guide) - This guide covers building a Let's Split v2.
 - [Mechanical Keys Tutorial](https://joeyvigil.github.io/MechanicalKeys/tutorial) - Complete Guide to Building a hand soldered keyboard
 - [Need a USB cable? Build one!](https://josef-adamcik.cz/electronics/need-a-usb-cable-build-on.html) - How to build a custom USB cable with aviation connectors and coils.
