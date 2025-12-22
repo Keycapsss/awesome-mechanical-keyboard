@@ -5,10 +5,10 @@ The goal of this repository is to collect mechanical keyboard related projects (
 
 View the pages on [Keebfolio.netlify.app](https://keebfolio.netlify.app/) or GitHub:
 
-- [Staggered](src/pages/en/staggered.md)
-- [Ortho](src/pages/en/ortholinear.md)
-- [Split](src/pages/en/split.md)
-- [Other](src/pages/en/other.md)
+- [Staggered](src/content/keyboards/staggered/)
+- [Ortho](src/content/keyboards/ortholinear/)
+- [Split](src/content/keyboards/split/)
+- [Other](src/content/keyboards/other/)
 - [Firmware](src/pages/en/firmware.md)
 - [Miscellaneous](src/pages/en/miscellaneous.md)
 - [Tools](src/pages/en/tools.md)
@@ -16,30 +16,35 @@ View the pages on [Keebfolio.netlify.app](https://keebfolio.netlify.app/) or Git
 
 ## Contributing
 
-Contributions are welcome!  
-To add content, edit the Markdown file in the [src/pages/en](src/pages/en/) folder and open a [Pull Request](https://help.github.com/en/articles/about-pull-requests). You can also open a new [Issue](https://github.com/Keycapsss/awesome-mechanical-keyboard/issues).  
-Please use this [commit message conventions](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13).
+Contributions are welcome!
+To add content, create a new Markdown file in `src/content/keyboards/[category]/`.
+You can copy an existing file as a template.
 
-The project uses [Astro](https://astro.build) as a Static Site Generator.
-[![Netlify Status](https://api.netlify.com/api/v1/badges/06821f1d-3e33-4bd4-92b2-4e44f3583060/deploy-status)](https://app.netlify.com/sites/keebfolio/deploys)
+**New Image Policy:**
+- You can use remote URLs (e.g. `https://github.com/.../image.jpg`).
+- The build process will **automatically download and optimize** them for you.
 
-#### Creating local development environment
+### Development Environment
 
-##### Creating Github Auth Token
+1.  Clone the repository.
+2.  Install dependencies:
+    ```bash
+    npm install
+    ```
+3.  Start the development server:
+    ```bash
+    npm run dev
+    ```
+    Open [http://localhost:4321](http://localhost:4321) to view the site.
 
-1. ~~Go to `https://github.com/settings/tokens`~~
-2. ~~Click "Generate new token"~~
-3. ~~Set note and expiration, then click "Generate token"~~
-4. ~~Copy generated token, you will need it in another step~~
+### Housekeeping
 
-##### Installation and running local version
+- **Cleanup Unused Images**:
+    ```bash
+    npm run cleanup
+    ```
+    This deletes any downloaded images that are no longer referenced in your Markdown files.
 
-1. ~~Create environment variables:~~
-   - ~~`GITHUB_AUTH_TOKEN` with generated token as its value.~~
-   - ~~`GITHUB_API_V4_URL` with value `https://api.github.com/graphql`~~
-2. ~~Clone repository~~
-3. ~~`npm install`~~
-5. ~~`npm run develop`~~
 
 ### License
 
