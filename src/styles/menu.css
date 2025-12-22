@@ -1,0 +1,145 @@
+/* Navigation */
+.navigation-menu {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin: 20px 1px;
+}
+
+.navigation-menu__inner {
+  display: flex;
+  flex: 1;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navigation-menu__inner > li {
+  flex: none;
+  margin-bottom: 10px;
+  white-space: nowrap;
+}
+
+.navigation-menu__inner > li:not(:last-of-type) {
+  margin-right: 20px;
+}
+
+/* Menu system */
+.menu {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Remove list styling from all menu ul elements */
+.menu ul,
+.navigation-menu ul,
+.header ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Remove dash before menu items */
+.menu li::before,
+.navigation-menu li::before,
+.header li::before,
+.menu__dropdown li::before,
+.navigation-menu__inner li::before {
+  content: none !important;
+}
+
+.menu__trigger {
+  margin-right: 0 !important;
+  color: var(--accent);
+  user-select: none;
+  cursor: pointer;
+}
+
+.menu__dropdown {
+  display: none;
+  flex-direction: column;
+  position: absolute;
+  background: var(--background);
+  box-shadow: 0 10px var(--background), -10px 10px var(--background), 10px 10px var(--background);
+  color: var(--accent);
+  border: 2px solid var(--accent);
+  margin: 0;
+  padding: 10px;
+  top: 10px;
+  left: 0;
+  list-style: none;
+  z-index: 99;
+}
+
+.open .menu__dropdown {
+  display: flex;
+}
+
+.menu__dropdown > li:not(:last-of-type) {
+  margin-bottom: 10px;
+}
+
+.menu__dropdown > li > a {
+  display: flex;
+  padding: 5px;
+}
+
+/* Mobile menu */
+.menu--mobile {
+  display: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  flex: 0 0 auto;
+}
+
+.menu--mobile .menu__trigger {
+  color: var(--accent);
+  border: 2px solid;
+  margin-left: 0;
+  height: 100%;
+  padding: 3px 8px;
+  margin-bottom: 0 !important;
+  position: relative;
+  cursor: pointer;
+}
+
+/* Language selector */
+.menu--language-selector .menu__trigger {
+  color: var(--accent);
+  border: 2px solid;
+  margin-left: 10px;
+  padding: 3px 8px;
+}
+
+/* Responsive */
+@media (max-width: 684px) {
+  .navigation-menu {
+    margin: 0;
+  }
+
+  .menu--desktop {
+    display: none;
+  }
+
+  .menu--mobile {
+    display: flex;
+  }
+
+  .menu--mobile .menu__dropdown {
+    left: auto;
+    right: 0;
+    top: 100%;
+    margin-top: 5px;
+  }
+
+  .menu--language-selector .menu__dropdown {
+    left: auto;
+    right: 0;
+  }
+}

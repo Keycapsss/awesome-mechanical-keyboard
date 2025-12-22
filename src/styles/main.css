@@ -1,0 +1,191 @@
+/* Container */
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+  max-width: 864px;
+  min-height: 100vh;
+  margin: 0 auto;
+  border-right: 1px solid color-mix(in srgb, var(--accent) 10%, transparent);
+}
+
+.container.full,
+.container.center {
+  border: none;
+  margin: 0 auto;
+}
+
+.container.full {
+  max-width: 100%;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+/* Index content */
+.index-content {
+  margin-bottom: 40px;
+}
+
+.index-content.framed {
+  margin-bottom: 60px;
+}
+
+/* Framed content */
+.framed {
+  border: 3px solid var(--accent);
+  padding: 20px;
+}
+
+/* Figure with caption - matching Hugo theme */
+figure {
+  display: inline-block;
+  margin: 25px auto;
+  padding: 0;
+  background: transparent;
+  text-align: center;
+  width: fit-content;
+}
+
+figure img {
+  display: block;
+  margin-bottom: -8px !important;
+  /* Image already has border from terminal.css */
+}
+
+/* Override figcaption from terminal.css to match Hugo theme */
+figure figcaption {
+  margin-top: 0 !important;
+  padding: 15px 20px !important;
+  background: var(--accent) !important;
+  color: var(--background) !important;
+  font-weight: normal !important;
+  text-align: center !important;
+  /* Thicker bottom border effect */
+  border: none !important;
+  border-radius: 0 !important;
+  position: relative;
+}
+
+figure figcaption p {
+  margin: 0;
+}
+
+/* Page styles */
+.page {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.page h1,
+article h1 {
+  position: relative;
+  color: var(--accent);
+  margin-top: 0 !important;
+  margin-bottom: 15px !important;
+  padding-bottom: 15px;
+  border-bottom: 3px dotted var(--accent);
+}
+
+.page h1::after,
+article h1::after {
+  content: "";
+  position: absolute;
+  bottom: 2px;
+  display: block;
+  width: 100%;
+  border-bottom: 3px dotted var(--accent);
+}
+
+/* Responsive */
+@media (max-width: 684px) {
+  .container {
+    padding: 20px;
+  }
+
+  .content {
+    margin-top: 20px;
+  }
+}
+
+/* Print styles */
+@media print {
+  .container {
+    display: initial;
+  }
+
+  .content {
+    display: initial;
+  }
+}
+
+/* Utility classes */
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.mb-0 {
+  margin-bottom: 0 !important;
+}
+
+.mt-0 {
+  margin-top: 0 !important;
+}
+
+/* Clearfix */
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Lists with dashes */
+ul {
+  list-style: none;
+}
+
+ul li {
+  position: relative;
+}
+
+ul li:not(:empty)::before {
+  content: "-";
+  position: absolute;
+  left: -20px;
+  color: var(--accent);
+}
+
+/* Nested lists */
+ul ul {
+  margin-left: 20px;
+}
+
+/* Selection */
+::selection {
+  background: var(--accent);
+  color: var(--background);
+}
+
+::-moz-selection {
+  background: var(--accent);
+  color: var(--background);
+}

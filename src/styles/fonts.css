@@ -1,0 +1,62 @@
+/* Font loading is handled in terminal.css */
+/* This file is kept for compatibility with Hugo theme structure */
+
+/* Additional font-related styles */
+.font-light {
+  font-weight: 300;
+}
+
+.font-regular {
+  font-weight: 400;
+}
+
+.font-medium {
+  font-weight: 500;
+}
+
+.font-semibold {
+  font-weight: 600;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+/* Text transforms */
+.uppercase {
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.lowercase {
+  text-transform: lowercase;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+/* Font size utilities */
+.text-xs {
+  font-size: calc(var(--font-size) * 0.75);
+}
+
+.text-sm {
+  font-size: calc(var(--font-size) * 0.875);
+}
+
+.text-base {
+  font-size: var(--font-size);
+}
+
+.text-lg {
+  font-size: calc(var(--font-size) * 1.125);
+}
+
+.text-xl {
+  font-size: calc(var(--font-size) * 1.25);
+}
+
+.text-2xl {
+  font-size: calc(var(--font-size) * 1.5);
+}

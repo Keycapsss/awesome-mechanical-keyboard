@@ -1,0 +1,185 @@
+---
+import { SITE, OPEN_GRAPH, GITHUB_EDIT_URL, COMMUNITY_INVITE_URL } from '../config';
+
+export interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+}
+
+const { title, description = SITE.description, image } = Astro.props;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : import.meta.env.BASE_URL + '/';
+const ogImageURL = image ? new URL(image, Astro.url) : OPEN_GRAPH.image.src;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href={`${base}favicon.svg`} />
+    <link rel="alternate icon" type="image/x-icon" href={`${base}favicon.ico`} />
+    <meta name="generator" content={Astro.generator} />
+
+    <title>{title} | {SITE.title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalURL} />
+
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:image" content={ogImageURL} />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImageURL} />
+  </head>
+  <body>
+    <div class="container center">
+      <header class="header">
+        <div class="header__inner">
+          <div class="header__logo">
+            <a href={base}>
+              <div class="logo">
+                <svg width="24" height="24" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M528 448H48c-26.51 0-48-21.49-48-48V112c0-26.51 21.49-48 48-48h480c26.51 0 48 21.49 48 48v288c0 26.51-21.49 48-48 48zM128 180v-40c0-6.627-5.373-12-12-12H76c-6.627 0-12 5.373-12 12v40c0 6.627 5.373 12 12 12h40c6.627 0 12-5.373 12-12zm96 0v-40c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v40c0 6.627 5.373 12 12 12h40c6.627 0 12-5.373 12-12zm96 0v-40c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v40c0 6.627 5.373 12 12 12h40c6.627 0 12-5.373 12-12zm96 0v-40c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v40c0 6.627 5.373 12 12 12h40c6.627 0 12-5.373 12-12zm96 0v-40c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v40c0 6.627 5.373 12 12 12h40c6.627 0 12-5.373 12-12zm-336 96v-40c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v40c0 6.627 5.373 12 12 12h40c6.627 0 12-5.373 12-12zm96 0v-40c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v40c0 6.627 5.373 12 12 12h40c6.627 0 12-5.373 12-12zm96 0v-40c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v40c0 6.627 5.373 12 12 12h40c6.627 0 12-5.373 12-12zm96 0v-40c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v40c0 6.627 5.373 12 12 12h40c6.627 0 12-5.373 12-12zm-336 96v-40c0-6.627-5.373-12-12-12H76c-6.627 0-12 5.373-12 12v40c0 6.627 5.373 12 12 12h40c6.627 0 12-5.373 12-12zm288 0v-40c0-6.627-5.373-12-12-12H172c-6.627 0-12 5.373-12 12v40c0 6.627 5.373 12 12 12h232c6.627 0 12-5.373 12-12zm96 0v-40c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v40c0 6.627 5.373 12 12 12h40c6.627 0 12-5.373 12-12z"/>
+                </svg>
+                Keebfolio
+              </div>
+            </a>
+          </div>
+          <ul class="menu menu--mobile">
+            <li class="menu__trigger">Menu ▾</li>
+            <li>
+              <ul class="menu__dropdown">
+                <li><a href={`${base}en/staggered`}>Staggered</a></li>
+                <li><a href={`${base}en/ortholinear`}>Ortho</a></li>
+                <li><a href={`${base}en/split`}>Split</a></li>
+                <li><a href={`${base}en/other`}>Other</a></li>
+                <li><a href={`${base}en/firmware`}>Firmware</a></li>
+                <li><a href={`${base}en/tools`}>Tools</a></li>
+                <li><a href={`${base}en/tutorials`}>Tutorials</a></li>
+                <li><a href={`${base}en/miscellaneous`}>Misc</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+
+        <nav class="navigation-menu">
+          <ul class="navigation-menu__inner menu--desktop">
+            <li>
+              <ul class="menu">
+                <li class="menu__trigger">Keyboards ▾</li>
+                <li>
+                  <ul class="menu__dropdown">
+                    <li><a href={`${base}en/staggered`}>Staggered</a></li>
+                    <li><a href={`${base}en/ortholinear`}>Ortho</a></li>
+                    <li><a href={`${base}en/split`}>Split</a></li>
+                    <li><a href={`${base}en/other`}>Other</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <ul class="menu">
+                <li class="menu__trigger">Resources ▾</li>
+                <li>
+                  <ul class="menu__dropdown">
+                    <li><a href={`${base}en/firmware`}>Firmware</a></li>
+                    <li><a href={`${base}en/tools`}>Tools</a></li>
+                    <li><a href={`${base}en/tutorials`}>Tutorials</a></li>
+                    <li><a href={`${base}en/miscellaneous`}>Misc</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li><a href={COMMUNITY_INVITE_URL} target="_blank">Discuss</a></li>
+            <li><a href={GITHUB_EDIT_URL} target="_blank">GitHub</a></li>
+          </ul>
+        </nav>
+      </header>
+
+      <main class="content">
+        <slot />
+      </main>
+
+      <footer class="footer">
+        <div class="footer__inner">
+          <div class="copyright">
+            <span>© {new Date().getFullYear()} <a href={base}>{SITE.title}</a></span>
+            <span class="separator">::</span>
+            <span>Theme by <a href="https://github.com/dennisklappe/astro-theme-terminal" target="_blank">dennisklappe</a></span>
+            <span class="separator">::</span>
+            <span><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <script>
+      // Menu functionality
+      (() => {
+        const container = document.querySelector(".container");
+        const menus = document.querySelectorAll(".menu");
+
+        // Close menus when clicking outside
+        document.body.addEventListener("click", () => {
+          menus.forEach(menu => {
+            if (menu.classList.contains("open")) {
+              menu.classList.remove("open");
+            }
+          });
+        });
+
+        // Close menus on window resize
+        window.addEventListener("resize", () => {
+          menus.forEach(menu => {
+            menu.classList.remove("open");
+          });
+        });
+
+        // Menu trigger functionality
+        menus.forEach(menu => {
+          const trigger = menu.querySelector(".menu__trigger");
+          const dropdown = menu.querySelector<HTMLElement>(".menu__dropdown");
+
+          if (trigger && dropdown) {
+            trigger.addEventListener("click", event => {
+              event.stopPropagation();
+
+              if (menu.classList.contains("open")) {
+                menu.classList.remove("open");
+              } else {
+                // Close other menus
+                menus.forEach(m => m.classList.remove("open"));
+                menu.classList.add("open");
+              }
+
+              // Adjust dropdown position if it goes outside container
+              if (container && dropdown.getBoundingClientRect().right > container.getBoundingClientRect().right) {
+                dropdown.style.left = "auto";
+                dropdown.style.right = "0";
+              }
+            });
+
+            dropdown.addEventListener("click", e => e.stopPropagation());
+          }
+        });
+      })();
+    </script>
+  </body>
+</html>
+
+<style is:global>
+  /* Import all CSS files in the correct order */
+  @import "../styles/terminal.css";
+  @import "../styles/fonts.css";
+  @import "../styles/main.css";
+  @import "../styles/header.css";
+  @import "../styles/menu.css";
+  @import "../styles/footer.css";
+  @import "../styles/keyboard-grid.css";
+</style>

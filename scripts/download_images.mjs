@@ -1,7 +1,6 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import sharp from 'sharp';
-import { glob } from 'glob';
 
 // Configuration
 const CONTENT_DIR = './src/content/keyboards';
