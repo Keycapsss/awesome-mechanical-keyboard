@@ -3,6 +3,8 @@ import type { Frontmatter } from '../../config';
 import MoreMenu from '../RightSidebar/MoreMenu.astro';
 import TableOfContents from '../RightSidebar/TableOfContents';
 import type { MarkdownHeading } from 'astro';
+import { getCollection } from 'astro:content';
+import { Image } from 'astro:assets';
 
 type Props = {
 	frontmatter: Frontmatter;
@@ -12,6 +14,21 @@ type Props = {
 
 const { frontmatter, headings, githubEditUrl } = Astro.props as Props;
 const title = frontmatter.title;
+
+// Simple Category Detection: Use the URL slug
+// e.g. /en/staggered/ -> "staggered"
+// e.g. /en/split/ -> "split"
+const currentPath = Astro.url.pathname.replace(/\/$/, ""); // remove trailing slash
+const categoryParams = currentPath.split('/');
+const category = categoryParams[categoryParams.length - 1]; // last segment
+
+// Fetch the keyboards for this category
+const keyboards = await getCollection('keyboards', ({ data }) => {
+    return data.category === category;
+});
+
+// Sort alphabetically
+keyboards.sort((a,b) => a.data.name.localeCompare(b.data.name));
 ---
 
 <article id="article" class="content">
@@ -20,7 +37,33 @@ const title = frontmatter.title;
 		<nav class="block sm:hidden">
 			<TableOfContents client:media="(max-width: 50em)" headings={headings} />
 		</nav>
-		<slot />
+		
+        <slot />
+
+        {keyboards.length > 0 && (
+            <div class="keyboard-grid">
+                {keyboards.map((kb) => (
+                    <div class="keyboard-card">
+                        <div class="image-wrapper">
+                            {kb.data.image ? (
+                                typeof kb.data.image === 'string' ? (
+                                    <img src={kb.data.image} alt={kb.data.name} width="200" />
+                                ) : (
+                                    <Image src={kb.data.image} alt={kb.data.name} width={200} />
+                                )
+                            ) : (
+                                <div class="placeholder">No Image</div>
+                            )}
+                        </div>
+                        <div class="info">
+                            <h3><a href={kb.data.url} target="_blank">{kb.data.name}</a></h3>
+                            <p class="tags">{kb.data.tags}</p>
+                            {kb.data.files && <p class="files">Files: {kb.data.files}</p>}
+                        </div>
+                    </div>
+                ))}
+            </div>
+        )}
 	</section>
 	<nav class="block sm:hidden">
 		<MoreMenu editHref={githubEditUrl} />
@@ -50,4 +93,51 @@ const title = frontmatter.title;
 			display: none;
 		}
 	}
+
+    /* Grid Styles */
+    .keyboard-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        gap: 2rem;
+        margin-top: 2rem;
+    }
+    .keyboard-card {
+        border: 1px solid var(--theme-divider);
+        border-radius: 8px;
+        overflow: hidden;
+        background: var(--theme-bg-offset);
+        text-align: center;
+        padding-bottom: 1rem;
+    }
+    .image-wrapper {
+        min-height: 150px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: var(--theme-bg-offset);
+        margin-bottom: 0.5rem;
+    }
+    .image-wrapper img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+    }
+    .info {
+        padding: 0 0.5rem;
+    }
+    .info h3 {
+        margin: 0.5rem 0;
+        font-size: 1.1rem;
+    }
+    .tags {
+        font-size: 0.8rem;
+        color: var(--theme-text-lighter);
+        margin: 0.2rem 0;
+    }
+    .files {
+        font-size: 0.7rem;
+        font-weight: bold;
+        color: var(--theme-text-light);
+        margin: 0;
+    }
 </style>
