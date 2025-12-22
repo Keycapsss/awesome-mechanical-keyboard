@@ -1,7 +1,7 @@
 ---
 title: Tools
-description:
-layout: ../../layouts/MainLayout.astro
+description: Keyboard Tools and Utilities
+layout: ../../layouts/MarkdownLayout.astro
 ---
 
 - [ai03 Plate Generator](https://kbplate.ai03.me) - An advanced plate generator which doesn't result in 13.99999mm cutouts. [Github Repo](https://github.com/ai03-2725/another-keyboard-builder)

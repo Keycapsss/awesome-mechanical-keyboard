@@ -1,7 +1,7 @@
 ---
 title: Firmware
 description: Keyboard Firmware List
-layout: ../../layouts/MainLayout.astro
+layout: ../../layouts/MarkdownLayout.astro
 ---
 
 - [BlueMicro_BLE](https://github.com/jpconstantineau/BlueMicro_BLE) - A Bluetooth Firmware for the NRF52832.

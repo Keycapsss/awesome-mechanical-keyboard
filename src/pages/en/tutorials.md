@@ -1,7 +1,7 @@
 ---
 title: Tutorials
 description: DIY keyboard tutorials
-layout: ../../layouts/MainLayout.astro
+layout: ../../layouts/MarkdownLayout.astro
 ---
 
 - [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0)
