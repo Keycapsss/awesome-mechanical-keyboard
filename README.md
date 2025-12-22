@@ -3,6 +3,8 @@
 
 The goal of this repository is to collect mechanical keyboard related projects (preferably Open Source).
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/06821f1d-3e33-4bd4-92b2-4e44f3583060/deploy-status)](https://app.netlify.com/projects/keebfolio/deploys)
+
 View the pages on [Keebfolio.netlify.app](https://keebfolio.netlify.app/) or GitHub:
 
 - [Staggered](src/content/keyboards/staggered/)
