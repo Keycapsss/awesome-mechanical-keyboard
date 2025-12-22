@@ -1,0 +1,74 @@
+/* Keyboard Grid - keeping grid structure, using terminal theme styling */
+.keyboard-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+  list-style: none;
+  padding: 0;
+}
+
+.keyboard-card {
+  border: 2px solid var(--accent);
+  overflow: hidden;
+  background: var(--background);
+  text-align: center;
+  padding-bottom: 1rem;
+}
+
+.keyboard-card .image-wrapper {
+  min-height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: color-mix(in srgb, var(--foreground) 5%, transparent);
+  margin-bottom: 0.5rem;
+}
+
+.keyboard-card .image-wrapper img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
+.keyboard-card .placeholder {
+  color: var(--accent);
+  font-size: 0.875rem;
+  opacity: 0.6;
+}
+
+.keyboard-card .info {
+  padding: 0 0.75rem;
+}
+
+.keyboard-card .info h3 {
+  margin: 0.5rem 0;
+  font-size: calc(var(--font-size) * 1.1);
+}
+
+.keyboard-card .info h3 a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.keyboard-card .info h3 a:hover {
+  text-decoration: underline;
+}
+
+.keyboard-card .tags {
+  font-size: calc(var(--font-size) * 0.8);
+  color: var(--foreground);
+  opacity: 0.7;
+  margin: 0.2rem 0;
+}
+
+.keyboard-card .files {
+  font-size: calc(var(--font-size) * 0.7);
+  font-weight: 600;
+  color: var(--foreground);
+  opacity: 0.8;
+  margin: 0;
+}

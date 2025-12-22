@@ -1,5 +1,125 @@
-<script is:inline>
-	// Redirect your homepage to the first page of documentation.
-	// If you have a landing page, remove this script and add it here!
-	window.location.pathname = `/en/staggered`;
-</script>
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+// Get counts for each category
+const allKeyboards = await getCollection('keyboards');
+const counts = {
+  staggered: allKeyboards.filter(kb => kb.data.category === 'staggered').length,
+  ortholinear: allKeyboards.filter(kb => kb.data.category === 'ortholinear').length,
+  split: allKeyboards.filter(kb => kb.data.category === 'split').length,
+  other: allKeyboards.filter(kb => kb.data.category === 'other').length,
+};
+const total = counts.staggered + counts.ortholinear + counts.split + counts.other;
+---
+
+<BaseLayout title="Home" description="A curated list of open-source mechanical keyboard projects">
+  <div class="index-content framed">
+    <h1>Welcome to Keebfolio</h1>
+    <p>
+      A curated collection of <strong>{total}</strong> open-source mechanical keyboard projects.
+    </p>
+    <p>
+      Browse keyboards by layout type, discover firmware options, explore tools, and learn from tutorials.
+    </p>
+  </div>
+
+  <h2>Keyboards</h2>
+  <ul class="category-list">
+    <li>
+      <a href="/en/staggered">Staggered</a>
+      <span class="count">{counts.staggered}</span>
+      <span class="desc">Traditional keyboard layouts</span>
+    </li>
+    <li>
+      <a href="/en/ortholinear">Ortholinear</a>
+      <span class="count">{counts.ortholinear}</span>
+      <span class="desc">Grid layout keyboards</span>
+    </li>
+    <li>
+      <a href="/en/split">Split</a>
+      <span class="count">{counts.split}</span>
+      <span class="desc">Ergonomic split keyboards</span>
+    </li>
+    <li>
+      <a href="/en/other">Other</a>
+      <span class="count">{counts.other}</span>
+      <span class="desc">Macropads, numpads, and more</span>
+    </li>
+  </ul>
+
+  <h2>Resources</h2>
+  <ul class="category-list">
+    <li>
+      <a href="/en/firmware">Firmware</a>
+      <span class="desc">QMK, ZMK, and other firmware options</span>
+    </li>
+    <li>
+      <a href="/en/tools">Tools</a>
+      <span class="desc">PCB generators, layout editors, and utilities</span>
+    </li>
+    <li>
+      <a href="/en/tutorials">Tutorials</a>
+      <span class="desc">Build guides and learning resources</span>
+    </li>
+    <li>
+      <a href="/en/miscellaneous">Miscellaneous</a>
+      <span class="desc">3D prints, keycaps, controllers, and more</span>
+    </li>
+  </ul>
+</BaseLayout>
+
+<style>
+  .category-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .category-list li {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 10px;
+    padding: 10px 0;
+    border-bottom: 1px solid color-mix(in srgb, var(--accent) 20%, transparent);
+  }
+
+  .category-list li::before {
+    content: none !important;
+  }
+
+  .category-list li:last-child {
+    border-bottom: none;
+  }
+
+  .category-list a {
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .category-list a:hover {
+    text-decoration: underline;
+  }
+
+  .category-list .count {
+    background: var(--accent);
+    color: var(--background);
+    padding: 2px 8px;
+    font-size: 0.85em;
+    font-weight: 600;
+  }
+
+  .category-list .desc {
+    flex-basis: 100%;
+    opacity: 0.7;
+    font-size: 0.9em;
+  }
+
+  @media (min-width: 500px) {
+    .category-list .desc {
+      flex-basis: auto;
+      margin-left: auto;
+    }
+  }
+</style>

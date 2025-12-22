@@ -1,0 +1,46 @@
+---
+import { getCollection } from 'astro:content';
+import { Image } from 'astro:assets';
+
+type Props = {
+  category: string;
+};
+
+const { category } = Astro.props;
+
+// Fetch the keyboards for this category
+const keyboards = await getCollection('keyboards', ({ data }) => {
+  return data.category === category;
+});
+
+// Sort alphabetically
+keyboards.sort((a, b) => a.data.name.localeCompare(b.data.name));
+---
+
+{keyboards.length > 0 && (
+  <div class="keyboard-grid">
+    {keyboards.map((kb) => (
+      <div class="keyboard-card">
+        <div class="image-wrapper">
+          {kb.data.image ? (
+            typeof kb.data.image === 'string' ? (
+              <img src={kb.data.image} alt={kb.data.name} width="200" loading="lazy" />
+            ) : (
+              <Image src={kb.data.image} alt={kb.data.name} width={200} />
+            )
+          ) : (
+            <div class="placeholder">No Image</div>
+          )}
+        </div>
+        <div class="info">
+          <h3><a href={kb.data.url} target="_blank" rel="noopener">{kb.data.name}</a></h3>
+          {kb.data.tags && <p class="tags">{kb.data.tags}</p>}
+        </div>
+      </div>
+    ))}
+  </div>
+)}
+
+{keyboards.length === 0 && (
+  <p>No keyboards found in this category.</p>
+)}
