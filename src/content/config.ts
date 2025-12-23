@@ -10,7 +10,7 @@ const keyboards = defineCollection({
       category: z.string(),
       tags: z.string().optional(),
       // Allow either a local image (processed by Astro) or a remote fallback string
-      image: image().optional().or(z.string().url()),
+      image: z.union([image(), z.string().url()]).optional(),
       image_fallback: z.string().url().optional(), // Store original URL if download failed
     }),
 });

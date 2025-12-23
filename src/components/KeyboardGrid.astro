@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import { Image } from 'astro:assets';
+import type { ImageMetadata } from 'astro';
 
 type Props = {
   category: string;
@@ -26,7 +27,7 @@ keyboards.sort((a, b) => a.data.name.localeCompare(b.data.name));
             typeof kb.data.image === 'string' ? (
               <img src={kb.data.image} alt={kb.data.name} width="300" height="200" sizes="(max-width: 640px) 250px, 300px" loading="lazy" decoding="async" />
             ) : (
-              <Image src={kb.data.image} alt={kb.data.name} width={300} densities={[1, 2]} />
+              <Image src={kb.data.image as ImageMetadata} alt={kb.data.name} width={300} densities={[1, 2]} />
             )
           ) : (
             <div class="placeholder">No Image</div>
