@@ -7,6 +7,7 @@ const CONTENT_DIR = './src/content/keyboards';
 // Images are stored relative to the content files.
 // We generally put them in src/content/keyboards/images
 const IMAGE_DIR = './src/content/keyboards/images';
+const IMAGE_WIDTH = 600; // 2x for 300px display width (Retina support)
 
 async function ensureDir(dir) {
   try {
@@ -33,7 +34,7 @@ async function downloadAndResize(url, filename) {
 
     // Resize and save as WebP
     await sharp(Buffer.from(buffer))
-      .resize(200, null, { withoutEnlargement: true })
+      .resize(IMAGE_WIDTH, null, { withoutEnlargement: true })
       .webp({ quality: 80 })
       .toFile(targetPath);
 
