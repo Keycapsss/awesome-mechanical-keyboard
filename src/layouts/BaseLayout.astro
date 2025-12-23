@@ -213,8 +213,17 @@ const ogImageURL = image ? new URL(image, Astro.url) : OPEN_GRAPH.image.src;
           localStorage.setItem('theme', id);
         }
 
+        function getOSThemePreference() {
+          if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark';
+          } else if (window.matchMedia('(prefers-color-scheme: light)').matches) {
+            return 'light';
+          }
+          return null; // no preference or not supported
+        }
+
         // Apply saved theme on load
-        applyTheme(localStorage.getItem('theme') || 'terminal-dark');
+        applyTheme(localStorage.getItem('theme') || getOSThemePreference() || 'terminal-dark');
 
         // Handle all theme links (desktop dropdown and mobile menu)
         document.querySelectorAll('[data-theme]').forEach(el => {
@@ -223,6 +232,13 @@ const ogImageURL = image ? new URL(image, Astro.url) : OPEN_GRAPH.image.src;
             const themeId = el.getAttribute('data-theme');
             if (themeId) applyTheme(themeId);
           });
+        });
+
+        // Listen for OS theme changes (only if no saved preference)
+        window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
+          if (!localStorage.getItem('theme')) {
+            applyTheme(e.matches ? 'dark' : 'light');
+          }
         });
       })();
     </script>
