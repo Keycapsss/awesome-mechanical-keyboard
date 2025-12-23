@@ -105,9 +105,9 @@ async function main() {
         // Path should be relative from the markdown file to the image.
         // Markdown file: src/content/keyboards/split/foo.md
         // Image:         src/content/keyboards/images/foo.webp
-        // Relative:      ../../images/foo.webp
+        // Relative:      ../images/foo.webp
 
-        const localPath = `../../images/${imageFilename}`;
+        const localPath = `../images/${imageFilename}`;
         content = content.replace(remoteUrl, localPath);
 
         // Also add image_fallback if not present
