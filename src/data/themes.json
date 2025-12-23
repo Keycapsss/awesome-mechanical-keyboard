@@ -1,0 +1,32 @@
+{
+  "dark": {
+    "name": "Dark",
+    "background": "#000000",
+    "foreground": "#ffffff",
+    "accent": "#ffffff"
+  },
+  "light": {
+    "name": "Light",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "accent": "#000000"
+  },
+  "matrix": {
+    "name": "Matrix",
+    "background": "#000000",
+    "foreground": "#4eee85",
+    "accent": "#4eee85"
+  },
+  "tahiti-dark": {
+    "name": "Tahiti Dark",
+    "background": "#fffbf7",
+    "foreground": "#45372b",
+    "accent": "#df7020"
+  },
+  "terminal-dark": {
+    "name": "Terminal Dark",
+    "background": "#1a170f",
+    "foreground": "#eceae5",
+    "accent": "#eec35e"
+  }
+}

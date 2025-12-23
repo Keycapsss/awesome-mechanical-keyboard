@@ -39,6 +39,21 @@ You can copy an existing file as a template.
     ```
     Open [http://localhost:4321](http://localhost:4321) to view the site.
 
+### Adding a Theme
+
+Themes are defined in `src/data/themes.json`. To add a new theme, add an entry:
+
+```json
+"theme-id": {
+  "name": "Display Name",
+  "background": "#hexcolor",
+  "foreground": "#hexcolor",
+  "accent": "#hexcolor"
+}
+```
+
+The theme will automatically appear in the header dropdown.
+
 ### Housekeeping
 
 - **Cleanup Unused Images**:

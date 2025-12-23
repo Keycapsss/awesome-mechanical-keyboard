@@ -1,0 +1,20 @@
+/* Push theme switcher to far right */
+.navigation-menu__inner > li:last-child {
+  margin-left: auto;
+}
+
+/* Theme option as mini preview */
+.theme-option {
+  display: block;
+  padding: 5px 10px;
+}
+
+.theme-switcher .menu__dropdown > li {
+  margin-bottom: 0;
+}
+
+/* Mobile menu divider */
+.menu__divider {
+  border-top: 1px solid var(--accent);
+  margin: 0.5rem 0;
+}

@@ -1,5 +1,6 @@
 ---
 import { SITE, OPEN_GRAPH, GITHUB_EDIT_URL, COMMUNITY_INVITE_URL } from '../config';
+import themes from '../data/themes.json';
 
 export interface Props {
   title: string;
@@ -64,6 +65,12 @@ const ogImageURL = image ? new URL(image, Astro.url) : OPEN_GRAPH.image.src;
                 <li><a href={`${base}en/tools`}>Tools</a></li>
                 <li><a href={`${base}en/tutorials`}>Tutorials</a></li>
                 <li><a href={`${base}en/miscellaneous`}>Misc</a></li>
+                <li class="menu__divider"></li>
+                {Object.entries(themes).map(([id, theme]) => (
+                  <li>
+                    <a href="#" data-theme={id} class="theme-option" style={`background: ${theme.background}; color: ${theme.accent}`}>{theme.name}</a>
+                  </li>
+                ))}
               </ul>
             </li>
           </ul>
@@ -99,6 +106,20 @@ const ogImageURL = image ? new URL(image, Astro.url) : OPEN_GRAPH.image.src;
             </li>
             <li><a href={COMMUNITY_INVITE_URL} target="_blank">Discuss</a></li>
             <li><a href={GITHUB_EDIT_URL} target="_blank">GitHub</a></li>
+            <li>
+              <ul class="menu theme-switcher">
+                <li class="menu__trigger">Theme ▾</li>
+                <li>
+                  <ul class="menu__dropdown">
+                    {Object.entries(themes).map(([id, theme]) => (
+                      <li>
+                        <a href="#" data-theme={id} class="theme-option" style={`background: ${theme.background}; color: ${theme.accent}`}>{theme.name}</a>
+                      </li>
+                    ))}
+                  </ul>
+                </li>
+              </ul>
+            </li>
           </ul>
         </nav>
       </header>
@@ -171,6 +192,33 @@ const ogImageURL = image ? new URL(image, Astro.url) : OPEN_GRAPH.image.src;
         });
       })();
     </script>
+
+    <script define:vars={{ themes }}>
+      // Theme switcher functionality
+      (() => {
+        function applyTheme(id) {
+          const theme = themes[id];
+          if (!theme) return;
+          const root = document.documentElement;
+          root.style.setProperty('--background', theme.background);
+          root.style.setProperty('--foreground', theme.foreground);
+          root.style.setProperty('--accent', theme.accent);
+          localStorage.setItem('theme', id);
+        }
+
+        // Apply saved theme on load
+        applyTheme(localStorage.getItem('theme') || 'terminal-dark');
+
+        // Handle all theme links (desktop dropdown and mobile menu)
+        document.querySelectorAll('[data-theme]').forEach(el => {
+          el.addEventListener('click', (e) => {
+            e.preventDefault();
+            const themeId = el.getAttribute('data-theme');
+            if (themeId) applyTheme(themeId);
+          });
+        });
+      })();
+    </script>
   </body>
 </html>
 
@@ -183,4 +231,5 @@ const ogImageURL = image ? new URL(image, Astro.url) : OPEN_GRAPH.image.src;
   @import "../styles/menu.css";
   @import "../styles/footer.css";
   @import "../styles/keyboard-grid.css";
+  @import "../styles/theme-switcher.css";
 </style>
