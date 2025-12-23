@@ -24,9 +24,9 @@ keyboards.sort((a, b) => a.data.name.localeCompare(b.data.name));
         <div class="image-wrapper">
           {kb.data.image ? (
             typeof kb.data.image === 'string' ? (
-              <img src={kb.data.image} alt={kb.data.name} width="200" loading="lazy" />
+              <img src={kb.data.image} alt={kb.data.name} width="300" height="200" sizes="(max-width: 640px) 250px, 300px" loading="lazy" decoding="async" />
             ) : (
-              <Image src={kb.data.image} alt={kb.data.name} width={200} />
+              <Image src={kb.data.image} alt={kb.data.name} width={300} densities={[1, 2]} />
             )
           ) : (
             <div class="placeholder">No Image</div>

@@ -31,6 +31,7 @@ const ogImageURL = image ? new URL(image, Astro.url) : OPEN_GRAPH.image.src;
     <meta property="og:type" content="website" />
     <meta property="og:url" content={canonicalURL} />
     <meta property="og:image" content={ogImageURL} />
+    <meta property="og:site_name" content={SITE.title} />
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
