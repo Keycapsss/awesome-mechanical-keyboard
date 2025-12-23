@@ -141,6 +141,13 @@ const ogImageURL = image ? new URL(image, Astro.url) : OPEN_GRAPH.image.src;
       </footer>
     </div>
 
+    <button
+      id="scroll-to-top"
+      class="scroll-to-top"
+      aria-label="Scroll back to top"
+      type="button"
+    >↑</button>
+
     <script>
       // Menu functionality
       (() => {
@@ -219,6 +226,45 @@ const ogImageURL = image ? new URL(image, Astro.url) : OPEN_GRAPH.image.src;
         });
       })();
     </script>
+
+    <script>
+      // Scroll-to-top functionality
+      (() => {
+        const SCROLL_THRESHOLD = 300;
+        const button = document.getElementById('scroll-to-top');
+
+        if (!button) return;
+
+        // Show/hide button based on scroll position
+        let scrollTimeout;
+        window.addEventListener('scroll', () => {
+          clearTimeout(scrollTimeout);
+          scrollTimeout = setTimeout(() => {
+            if (window.scrollY > SCROLL_THRESHOLD) {
+              button.classList.add('visible');
+            } else {
+              button.classList.remove('visible');
+            }
+          }, 10);
+        });
+
+        // Smooth scroll to top on click
+        button.addEventListener('click', () => {
+          window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+          });
+        });
+
+        // Keyboard support (Space, Enter)
+        button.addEventListener('keydown', (e) => {
+          if (e.key === ' ' || e.key === 'Enter') {
+            e.preventDefault();
+            button.click();
+          }
+        });
+      })();
+    </script>
   </body>
 </html>
 
@@ -232,4 +278,5 @@ const ogImageURL = image ? new URL(image, Astro.url) : OPEN_GRAPH.image.src;
   @import "../styles/footer.css";
   @import "../styles/keyboard-grid.css";
   @import "../styles/theme-switcher.css";
+  @import "../styles/scroll-to-top.css";
 </style>

@@ -1,0 +1,55 @@
+/* Scroll to top button */
+.scroll-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 48px;
+  height: 48px;
+  z-index: 100;
+
+  /* Button styling matching terminal.css */
+  font: inherit;
+  font-weight: bold;
+  font-size: 1.5em;
+  line-height: 1;
+  text-align: center;
+  background: transparent;
+  color: var(--accent);
+  padding: 0;
+  border: 4px solid var(--accent);
+  border-radius: var(--radius);
+  cursor: pointer;
+  outline: none;
+
+  /* Flexbox for centering arrow */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  /* Hide by default */
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease, background 0.15s linear;
+}
+
+.scroll-to-top.visible {
+  opacity: 1;
+  visibility: visible;
+}
+
+.scroll-to-top:hover {
+  background: color-mix(in srgb, var(--accent) 15%, transparent);
+}
+
+.scroll-to-top:focus-visible {
+  outline: 1px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* Responsive: adjust positioning for mobile */
+@media (max-width: 684px) {
+  .scroll-to-top {
+    bottom: 15px;
+    right: 15px;
+  }
+}
