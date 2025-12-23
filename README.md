@@ -5,25 +5,19 @@ The goal of this repository is to collect mechanical keyboard related projects (
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/06821f1d-3e33-4bd4-92b2-4e44f3583060/deploy-status)](https://app.netlify.com/projects/keebfolio/deploys)
 
-View the pages on [Keebfolio.netlify.app](https://keebfolio.netlify.app/) or GitHub:
-
-- [Staggered](src/content/keyboards/staggered/)
-- [Ortho](src/content/keyboards/ortholinear/)
-- [Split](src/content/keyboards/split/)
-- [Other](src/content/keyboards/other/)
-- [Firmware](src/pages/en/firmware.md)
-- [Miscellaneous](src/pages/en/miscellaneous.md)
-- [Tools](src/pages/en/tools.md)
-- [Tutorials](src/pages/en/tutorials.md)
+View the pages on [Keebfolio.netlify.app](https://keebfolio.netlify.app/)
 
 ## Contributing
 
 Contributions are welcome!
+
+### Adding Content
+
 To add content, create a new Markdown file in `src/content/keyboards/[category]/`.
 You can copy an existing file as a template.
 
 **New Image Policy:**
-- You can use remote URLs (e.g. `https://github.com/.../image.jpg`).
+- You **should use** remote URLs (e.g. `https://github.com/.../image.jpg`).
 - The build process will **automatically download and optimize** them for you.
 
 ### Development Environment
