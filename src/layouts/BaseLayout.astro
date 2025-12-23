@@ -149,137 +149,14 @@ const ogImageURL = image ? new URL(image, Astro.url) : OPEN_GRAPH.image.src;
     >↑</button>
 
     <script>
-      // Menu functionality
-      (() => {
-        const container = document.querySelector(".container");
-        const menus = document.querySelectorAll(".menu");
+      import { initMenu } from '../scripts/menu';
+      import { initThemeSwitcher } from '../scripts/theme-switcher';
+      import { initScrollToTop } from '../scripts/scroll-to-top';
+      import themes from '../data/themes.json';
 
-        // Close menus when clicking outside
-        document.body.addEventListener("click", () => {
-          menus.forEach(menu => {
-            if (menu.classList.contains("open")) {
-              menu.classList.remove("open");
-            }
-          });
-        });
-
-        // Close menus on window resize
-        window.addEventListener("resize", () => {
-          menus.forEach(menu => {
-            menu.classList.remove("open");
-          });
-        });
-
-        // Menu trigger functionality
-        menus.forEach(menu => {
-          const trigger = menu.querySelector(".menu__trigger");
-          const dropdown = menu.querySelector<HTMLElement>(".menu__dropdown");
-
-          if (trigger && dropdown) {
-            trigger.addEventListener("click", event => {
-              event.stopPropagation();
-
-              if (menu.classList.contains("open")) {
-                menu.classList.remove("open");
-              } else {
-                // Close other menus
-                menus.forEach(m => m.classList.remove("open"));
-                menu.classList.add("open");
-              }
-
-              // Adjust dropdown position if it goes outside container
-              if (container && dropdown.getBoundingClientRect().right > container.getBoundingClientRect().right) {
-                dropdown.style.left = "auto";
-                dropdown.style.right = "0";
-              }
-            });
-
-            dropdown.addEventListener("click", e => e.stopPropagation());
-          }
-        });
-      })();
-    </script>
-
-    <script define:vars={{ themes }}>
-      // Theme switcher functionality
-      (() => {
-        function applyTheme(id) {
-          const theme = themes[id];
-          if (!theme) return;
-          const root = document.documentElement;
-          root.style.setProperty('--background', theme.background);
-          root.style.setProperty('--foreground', theme.foreground);
-          root.style.setProperty('--accent', theme.accent);
-          localStorage.setItem('theme', id);
-        }
-
-        function getOSThemePreference() {
-          if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-            return 'dark';
-          } else if (window.matchMedia('(prefers-color-scheme: light)').matches) {
-            return 'light';
-          }
-          return null; // no preference or not supported
-        }
-
-        // Apply saved theme on load
-        applyTheme(localStorage.getItem('theme') || getOSThemePreference() || 'terminal-dark');
-
-        // Handle all theme links (desktop dropdown and mobile menu)
-        document.querySelectorAll('[data-theme]').forEach(el => {
-          el.addEventListener('click', (e) => {
-            e.preventDefault();
-            const themeId = el.getAttribute('data-theme');
-            if (themeId) applyTheme(themeId);
-          });
-        });
-
-        // Listen for OS theme changes (only if no saved preference)
-        window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
-          if (!localStorage.getItem('theme')) {
-            applyTheme(e.matches ? 'dark' : 'light');
-          }
-        });
-      })();
-    </script>
-
-    <script>
-      // Scroll-to-top functionality
-      (() => {
-        const SCROLL_THRESHOLD = 300;
-        const button = document.getElementById('scroll-to-top');
-
-        if (!button) return;
-
-        // Show/hide button based on scroll position
-        let scrollTimeout;
-        window.addEventListener('scroll', () => {
-          clearTimeout(scrollTimeout);
-          scrollTimeout = setTimeout(() => {
-            if (window.scrollY > SCROLL_THRESHOLD) {
-              button.classList.add('visible');
-            } else {
-              button.classList.remove('visible');
-            }
-          }, 10);
-        });
-
-        // Smooth scroll to top on click
-        button.addEventListener('click', () => {
-          window.scrollTo({
-            top: 0,
-            behavior: 'smooth'
-          });
-        });
-
-        // Keyboard support (Space, Enter)
-        button.addEventListener('keydown', (e) => {
-          if (e.key === ' ' || e.key === 'Enter') {
-            e.preventDefault();
-            button.click();
-          }
-        });
-      })();
+      initMenu();
+      initThemeSwitcher(themes);
+      initScrollToTop();
     </script>
   </body>
 </html>

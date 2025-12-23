@@ -35,6 +35,11 @@ npm run preview    # Preview production build
 
 **Automated Image Pipeline**: Remote image URLs in frontmatter are downloaded and converted to WebP during build (`scripts/download_images.mjs`).
 
+**Client Scripts**: TypeScript modules for browser functionality
+- `src/scripts/menu.ts` - Dropdown menu logic with click-outside detection
+- `src/scripts/scroll-to-top.ts` - Scroll button with keyboard accessibility
+- `src/scripts/theme-switcher.ts` - Theme management with OS preference detection
+
 ## Adding Keyboard Entries
 
 Create a Markdown file in `src/content/keyboards/[category]/` with this frontmatter:
@@ -55,4 +60,5 @@ image: "https://..."  # Remote URL - will be auto-downloaded
 - `src/content/config.ts` - Content collection schema
 - `src/styles/terminal.css` - Theme colors and base styles
 - `src/components/KeyboardGrid.astro` - Keyboard card grid component
+- `src/scripts/*.ts` - Client-side TypeScript modules (menu, scroll, theme)
 - `scripts/download_images.mjs` - Image download and WebP conversion
