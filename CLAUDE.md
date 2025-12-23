@@ -1,0 +1,58 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## Project Overview
+
+Keebfolio is an Astro 5 static site that catalogs open-source mechanical keyboard projects. Uses the terminal theme (Fira Code font, dark background with golden accent).
+
+## Commands
+
+```bash
+npm run dev        # Start dev server at localhost:4321
+npm run build      # Production build (runs image download first)
+npm run check      # Type checking (astro check + tsc)
+npm run cleanup    # Remove unused downloaded images
+npm run preview    # Preview production build
+```
+
+## Architecture
+
+**Theme**: Terminal-inspired design with CSS custom properties in `src/styles/terminal.css`
+
+**Layouts**:
+- `src/layouts/BaseLayout.astro` - Main layout with header navigation and footer
+- `src/layouts/MarkdownLayout.astro` - Wrapper for markdown content pages
+
+**Content System**: Astro Content Collections with Zod schema
+- Keyboard entries: `src/content/keyboards/{staggered,ortholinear,split,other}/*.md`
+- Schema: `src/content/config.ts`
+
+**Pages**:
+- Category pages: `src/pages/en/{staggered,ortholinear,split,other}.astro`
+- Resource pages: `src/pages/en/{firmware,tools,tutorials,miscellaneous}.md`
+- Homepage: `src/pages/index.astro`
+
+**Automated Image Pipeline**: Remote image URLs in frontmatter are downloaded and converted to WebP during build (`scripts/download_images.mjs`).
+
+## Adding Keyboard Entries
+
+Create a Markdown file in `src/content/keyboards/[category]/` with this frontmatter:
+
+```yaml
+---
+name: "Keyboard Name"
+url: "https://github.com/..."
+category: "split"  # staggered, ortholinear, split, or other
+tags: "tag1, tag2"
+image: "https://..."  # Remote URL - will be auto-downloaded
+---
+```
+
+## Key Files
+
+- `src/config.ts` - Site metadata and URLs
+- `src/content/config.ts` - Content collection schema
+- `src/styles/terminal.css` - Theme colors and base styles
+- `src/components/KeyboardGrid.astro` - Keyboard card grid component
+- `scripts/download_images.mjs` - Image download and WebP conversion
