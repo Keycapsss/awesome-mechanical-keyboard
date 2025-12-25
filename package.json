@@ -7,7 +7,7 @@
     "start": "astro dev",
     "check": "astro check && tsc",
     "cleanup": "node scripts/cleanup_images.mjs",
-    "prebuild": "node scripts/download_images.mjs",
+    "prebuild": "node scripts/download_images.mjs && node scripts/fetch_contributors.mjs",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"

@@ -1,5 +1,6 @@
 ---
 import { SITE, OPEN_GRAPH, GITHUB_EDIT_URL, COMMUNITY_INVITE_URL } from '../config';
+import Contributors from '../components/Contributors.astro';
 import themes from '../data/themes.json';
 
 export interface Props {
@@ -126,6 +127,7 @@ const ogImageURL = image ? new URL(image, Astro.url) : OPEN_GRAPH.image.src;
 
       <main class="content">
         <slot />
+        <Contributors />
       </main>
 
       <footer class="footer">

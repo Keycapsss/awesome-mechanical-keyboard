@@ -1,0 +1,103 @@
+---
+import contributorsData from '../data/contributors.json';
+import { GITHUB_EDIT_URL } from '../config';
+
+interface Props {
+  pagePath?: string;
+}
+
+interface Contributor {
+  id: number;
+  login: string;
+}
+
+const { pagePath } = Astro.props;
+
+// Map URL pathname to source file path
+function getSourcePath(pathname: string): string {
+  // Remove trailing slash and base path
+  const cleanPath = pathname.replace(/\/$/, '').replace(/^\//, '');
+
+  // Map to source files in src/pages/en/
+  if (cleanPath.startsWith('en/')) {
+    const page = cleanPath.replace('en/', '');
+    // Check both .astro and .md extensions
+    const astroPath = `src/pages/en/${page}.astro`;
+    const mdPath = `src/pages/en/${page}.md`;
+
+    if (astroPath in contributorsData) return astroPath;
+    if (mdPath in contributorsData) return mdPath;
+  }
+
+  return '';
+}
+
+const sourcePath = pagePath || getSourcePath(Astro.url.pathname);
+const contributors = (contributorsData as Record<string, Contributor[]>)[sourcePath] || [];
+const commitsUrl = sourcePath ? `${GITHUB_EDIT_URL}/${sourcePath}` : GITHUB_EDIT_URL;
+---
+
+{contributors.length > 0 && (
+  <section class="contributors-section">
+    <h4>Contributors</h4>
+    <ul class="avatar-list">
+      {contributors.map((contributor) => (
+        <li>
+          <a
+            href={`https://github.com/${contributor.login}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            title={contributor.login}
+          >
+            <img
+              src={`https://avatars.githubusercontent.com/u/${contributor.id}?s=64`}
+              alt={contributor.login}
+              width="32"
+              height="32"
+              loading="lazy"
+            />
+          </a>
+        </li>
+      ))}
+    </ul>
+    <a href={commitsUrl} target="_blank" rel="noopener noreferrer" class="contributors-link">
+      View history
+    </a>
+  </section>
+)}
+
+<style>
+  .contributors-section {
+    margin-top: 3rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid color-mix(in srgb, var(--accent) 30%, transparent);
+    text-align: center;
+  }
+
+  .contributors-section h4 {
+    font-family: 'Fira Code', monospace;
+    font-size: 0.9rem;
+    color: var(--accent);
+    margin: 0 0 1rem 0;
+    font-weight: normal;
+  }
+
+  .contributors-section h4::before {
+    content: '> ';
+    opacity: 0.7;
+  }
+
+  .contributors-link {
+    display: inline-block;
+    margin-top: 0.75rem;
+    font-size: 0.85rem;
+    color: var(--foreground);
+    opacity: 0.7;
+    text-decoration: none;
+  }
+
+  .contributors-link:hover {
+    color: var(--accent);
+    opacity: 1;
+  }
+</style>

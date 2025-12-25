@@ -56,6 +56,19 @@ The theme will automatically appear in the header dropdown.
     ```
     This deletes any downloaded images that are no longer referenced in your Markdown files.
 
+### Contributors Display
+
+Each page displays GitHub contributor avatars at the bottom. Contributors are fetched from the GitHub API during build and cached for 1 hour.
+
+To increase the API rate limit (recommended for frequent builds):
+
+1. Create a GitHub Personal Access Token at https://github.com/settings/tokens (no special scopes needed)
+2. Copy `.env.example` to `.env` and add your token:
+    ```bash
+    cp .env.example .env
+    # Edit .env and add your GITHUB_TOKEN
+    ```
+
 
 ### License
 

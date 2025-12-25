@@ -35,6 +35,8 @@ npm run preview    # Preview production build
 
 **Automated Image Pipeline**: Remote image URLs in frontmatter are downloaded and converted to WebP during build (`scripts/download_images.mjs`).
 
+**Contributors Pipeline**: GitHub contributors for each page are fetched during prebuild and cached in `src/data/contributors.json`. Avatars are displayed at the bottom of each page (`scripts/fetch_contributors.mjs`).
+
 **Client Scripts**: TypeScript modules for browser functionality
 - `src/scripts/menu.ts` - Dropdown menu logic with click-outside detection
 - `src/scripts/scroll-to-top.ts` - Scroll button with keyboard accessibility
@@ -62,3 +64,5 @@ image: "https://..."  # Remote URL - will be auto-downloaded
 - `src/components/KeyboardGrid.astro` - Keyboard card grid component
 - `src/scripts/*.ts` - Client-side TypeScript modules (menu, scroll, theme)
 - `scripts/download_images.mjs` - Image download and WebP conversion
+- `scripts/fetch_contributors.mjs` - GitHub contributors fetch with caching
+- `src/components/Contributors.astro` - Contributors avatar display
