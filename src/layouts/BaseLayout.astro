@@ -127,11 +127,11 @@ const ogImageURL = image ? new URL(image, Astro.url) : OPEN_GRAPH.image.src;
 
       <main class="content">
         <slot />
-        <Contributors />
       </main>
 
       <footer class="footer">
         <div class="footer__inner">
+          <Contributors />
           <div class="copyright">
             <span>© {new Date().getFullYear()} <a href={base}>{SITE.title}</a></span>
             <span class="separator">::</span>

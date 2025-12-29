@@ -58,7 +58,9 @@ The theme will automatically appear in the header dropdown.
 
 ### Contributors Display
 
-Each page displays GitHub contributor avatars at the bottom. Contributors are fetched from the GitHub API during build and cached for 1 hour.
+All repository contributors are displayed in the footer on every page, sorted by contribution count. Contributors are fetched from the GitHub API during build and cached for 1 hour.
+
+To limit the number of displayed contributors, edit `MAX_DISPLAY` in `src/components/Contributors.astro` (set to `0` to show all).
 
 To increase the API rate limit (recommended for frequent builds):
 
@@ -72,9 +74,6 @@ To increase the API rate limit (recommended for frequent builds):
 ### Updates Display
 
 The homepage shows recent site updates extracted from git commit history. Only user-relevant commits (with `docs:` or `feat:` prefixes) are displayed. Updates are cached for 1 hour during build.
-
-Press `M` to load more updates on the homepage.
-
 
 ### License
 

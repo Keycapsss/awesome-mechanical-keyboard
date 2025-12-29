@@ -7,8 +7,9 @@
 
 .footer__inner {
   display: flex;
+  flex-direction: column;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   margin: 0;
   max-width: 100%;
 }
@@ -76,12 +77,6 @@
 }
 
 /* Responsive */
-@media (max-width: 900px) {
-  .footer__inner {
-    flex-direction: column;
-  }
-}
-
 @media (max-width: 684px) {
   .footer {
     padding: 20px 0;

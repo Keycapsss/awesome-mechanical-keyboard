@@ -1,40 +1,17 @@
 ---
 import contributorsData from '../data/contributors.json';
-import { GITHUB_EDIT_URL } from '../config';
-
-interface Props {
-  pagePath?: string;
-}
 
 interface Contributor {
   id: number;
   login: string;
+  contributions?: number;
 }
 
-const { pagePath } = Astro.props;
+// Maximum number of contributors to display (set to 0 for all)
+const MAX_DISPLAY = 0;
 
-// Map URL pathname to source file path
-function getSourcePath(pathname: string): string {
-  // Remove trailing slash and base path
-  const cleanPath = pathname.replace(/\/$/, '').replace(/^\//, '');
-
-  // Map to source files in src/pages/en/
-  if (cleanPath.startsWith('en/')) {
-    const page = cleanPath.replace('en/', '');
-    // Check both .astro and .md extensions
-    const astroPath = `src/pages/en/${page}.astro`;
-    const mdPath = `src/pages/en/${page}.md`;
-
-    if (astroPath in contributorsData) return astroPath;
-    if (mdPath in contributorsData) return mdPath;
-  }
-
-  return '';
-}
-
-const sourcePath = pagePath || getSourcePath(Astro.url.pathname);
-const contributors = (contributorsData as Record<string, Contributor[]>)[sourcePath] || [];
-const commitsUrl = sourcePath ? `${GITHUB_EDIT_URL}/${sourcePath}` : GITHUB_EDIT_URL;
+const allContributors = contributorsData as Contributor[];
+const contributors = MAX_DISPLAY > 0 ? allContributors.slice(0, MAX_DISPLAY) : allContributors;
 ---
 
 {contributors.length > 0 && (
@@ -60,18 +37,13 @@ const commitsUrl = sourcePath ? `${GITHUB_EDIT_URL}/${sourcePath}` : GITHUB_EDIT
         </li>
       ))}
     </ul>
-    <a href={commitsUrl} target="_blank" rel="noopener noreferrer" class="contributors-link">
-      View history
-    </a>
   </section>
 )}
 
 <style>
   .contributors-section {
-    margin-top: 3rem;
-    padding-top: 1.5rem;
-    border-top: 1px solid color-mix(in srgb, var(--accent) 30%, transparent);
     text-align: center;
+    margin-bottom: 1.5rem;
   }
 
   .contributors-section h4 {
@@ -85,19 +57,5 @@ const commitsUrl = sourcePath ? `${GITHUB_EDIT_URL}/${sourcePath}` : GITHUB_EDIT
   .contributors-section h4::before {
     content: '> ';
     opacity: 0.7;
-  }
-
-  .contributors-link {
-    display: inline-block;
-    margin-top: 0.75rem;
-    font-size: 0.85rem;
-    color: var(--foreground);
-    opacity: 0.7;
-    text-decoration: none;
-  }
-
-  .contributors-link:hover {
-    color: var(--accent);
-    opacity: 1;
   }
 </style>

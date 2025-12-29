@@ -35,7 +35,7 @@ npm run preview    # Preview production build
 
 **Automated Image Pipeline**: Remote image URLs in frontmatter are downloaded and converted to WebP during build (`scripts/download_images.mjs`).
 
-**Contributors Pipeline**: GitHub contributors for each page are fetched during prebuild and cached in `src/data/contributors.json`. Avatars are displayed at the bottom of each page (`scripts/fetch_contributors.mjs`).
+**Contributors Pipeline**: All GitHub repository contributors are fetched during prebuild and cached in `src/data/contributors.json`. Avatars are displayed in the global footer on all pages (`scripts/fetch_contributors.mjs`). Display limit configurable via `MAX_DISPLAY` in `src/components/Contributors.astro`.
 
 **Updates Pipeline**: Recent commits are fetched during prebuild and filtered by conventional commit prefixes (`docs:`, `feat:`). Cached in `src/data/updates.json` and displayed on the homepage (`scripts/fetch_updates.mjs`).
 

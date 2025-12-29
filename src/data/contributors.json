@@ -1,134 +1,302 @@
-{
-  "src/pages/en/firmware.md": [
-    {
-      "id": 643834,
-      "login": "BenRoe"
-    },
-    {
-      "id": 8640918,
-      "login": "HaoboGu"
-    }
-  ],
-  "src/pages/en/miscellaneous.md": [
-    {
-      "id": 643834,
-      "login": "BenRoe"
-    },
-    {
-      "id": 24359130,
-      "login": "swift502"
-    }
-  ],
-  "src/pages/en/ortholinear.astro": [
-    {
-      "id": 643834,
-      "login": "BenRoe"
-    },
-    {
-      "id": 24359130,
-      "login": "swift502"
-    },
-    {
-      "id": 22840826,
-      "login": "ozkan"
-    }
-  ],
-  "src/pages/en/other.astro": [
-    {
-      "id": 643834,
-      "login": "BenRoe"
-    },
-    {
-      "id": 24359130,
-      "login": "swift502"
-    },
-    {
-      "id": 3279083,
-      "login": "leon-anavi"
-    }
-  ],
-  "src/pages/en/split.astro": [
-    {
-      "id": 643834,
-      "login": "BenRoe"
-    },
-    {
-      "id": 140347,
-      "login": "nietaki"
-    },
-    {
-      "id": 24359130,
-      "login": "swift502"
-    },
-    {
-      "id": 90783310,
-      "login": "flinguenheld"
-    }
-  ],
-  "src/pages/en/staggered.astro": [
-    {
-      "id": 643834,
-      "login": "BenRoe"
-    },
-    {
-      "id": 19868037,
-      "login": "joeyvigil"
-    },
-    {
-      "id": 223409,
-      "login": "lsartory"
-    },
-    {
-      "id": 24359130,
-      "login": "swift502"
-    },
-    {
-      "id": 90783310,
-      "login": "flinguenheld"
-    },
-    {
-      "id": 69404571,
-      "login": "Electroner"
-    },
-    {
-      "id": 19503488,
-      "login": "Skewnart"
-    },
-    {
-      "id": 22840826,
-      "login": "ozkan"
-    },
-    {
-      "id": 9881253,
-      "login": "eriritarded"
-    },
-    {
-      "id": 8337003,
-      "login": "mohoyt"
-    }
-  ],
-  "src/pages/en/tools.md": [
-    {
-      "id": 643834,
-      "login": "BenRoe"
-    },
-    {
-      "id": 26474254,
-      "login": "BlueDrink9"
-    },
-    {
-      "id": 12676586,
-      "login": "adamws"
-    }
-  ],
-  "src/pages/en/tutorials.md": [
-    {
-      "id": 643834,
-      "login": "BenRoe"
-    },
-    {
-      "id": 19868037,
-      "login": "joeyvigil"
-    }
-  ]
-}
+[
+  {
+    "id": 643834,
+    "login": "BenRoe",
+    "contributions": 261
+  },
+  {
+    "id": 15815012,
+    "login": "aatmmr",
+    "contributions": 8
+  },
+  {
+    "id": 401098,
+    "login": "tschwery",
+    "contributions": 7
+  },
+  {
+    "id": 3279083,
+    "login": "leon-anavi",
+    "contributions": 5
+  },
+  {
+    "id": 1683898,
+    "login": "rafaeldelboni",
+    "contributions": 5
+  },
+  {
+    "id": 3455017,
+    "login": "ch604",
+    "contributions": 3
+  },
+  {
+    "id": 33160117,
+    "login": "SuperConfuserUser",
+    "contributions": 3
+  },
+  {
+    "id": 19868037,
+    "login": "joeyvigil",
+    "contributions": 3
+  },
+  {
+    "id": 2750789,
+    "login": "LouWii",
+    "contributions": 2
+  },
+  {
+    "id": 22840826,
+    "login": "ozkan",
+    "contributions": 2
+  },
+  {
+    "id": 23724909,
+    "login": "str-dst",
+    "contributions": 2
+  },
+  {
+    "id": 226482,
+    "login": "tomekwojcik",
+    "contributions": 2
+  },
+  {
+    "id": 3537856,
+    "login": "sendz",
+    "contributions": 2
+  },
+  {
+    "id": 2180488,
+    "login": "opcon",
+    "contributions": 2
+  },
+  {
+    "id": 8337003,
+    "login": "mohoyt",
+    "contributions": 2
+  },
+  {
+    "id": 36572567,
+    "login": "kkatano",
+    "contributions": 2
+  },
+  {
+    "id": 24359130,
+    "login": "swift502",
+    "contributions": 2
+  },
+  {
+    "id": 69404571,
+    "login": "Electroner",
+    "contributions": 2
+  },
+  {
+    "id": 87603,
+    "login": "dkm",
+    "contributions": 1
+  },
+  {
+    "id": 17083034,
+    "login": "mateossh",
+    "contributions": 1
+  },
+  {
+    "id": 1149816,
+    "login": "jpconstantineau",
+    "contributions": 1
+  },
+  {
+    "id": 138965,
+    "login": "shockdesign",
+    "contributions": 1
+  },
+  {
+    "id": 4584540,
+    "login": "ramonimbao",
+    "contributions": 1
+  },
+  {
+    "id": 206205,
+    "login": "kewlburn",
+    "contributions": 1
+  },
+  {
+    "id": 26474254,
+    "login": "BlueDrink9",
+    "contributions": 1
+  },
+  {
+    "id": 13887561,
+    "login": "KarlK90",
+    "contributions": 1
+  },
+  {
+    "id": 51826257,
+    "login": "NiciTheNici",
+    "contributions": 1
+  },
+  {
+    "id": 310624,
+    "login": "strayer",
+    "contributions": 1
+  },
+  {
+    "id": 578543,
+    "login": "webknjaz",
+    "contributions": 1
+  },
+  {
+    "id": 3684553,
+    "login": "teddybradford",
+    "contributions": 1
+  },
+  {
+    "id": 1932485,
+    "login": "thiagokimo",
+    "contributions": 1
+  },
+  {
+    "id": 948283,
+    "login": "xiongyihui",
+    "contributions": 1
+  },
+  {
+    "id": 12676586,
+    "login": "adamws",
+    "contributions": 1
+  },
+  {
+    "id": 57238155,
+    "login": "alabbe9545",
+    "contributions": 1
+  },
+  {
+    "id": 23615562,
+    "login": "coliss86",
+    "contributions": 1
+  },
+  {
+    "id": 9881253,
+    "login": "eriritarded",
+    "contributions": 1
+  },
+  {
+    "id": 13130028,
+    "login": "luantty2",
+    "contributions": 1
+  },
+  {
+    "id": 6547672,
+    "login": "lukeg101",
+    "contributions": 1
+  },
+  {
+    "id": 12053277,
+    "login": "nguyenhaiac",
+    "contributions": 1
+  },
+  {
+    "id": 2411974,
+    "login": "profet23",
+    "contributions": 1
+  },
+  {
+    "id": 36443100,
+    "login": "prizef",
+    "contributions": 1
+  },
+  {
+    "id": 2549228,
+    "login": "blakedietz",
+    "contributions": 1
+  },
+  {
+    "id": 13991695,
+    "login": "camrbuss",
+    "contributions": 1
+  },
+  {
+    "id": 57081300,
+    "login": "caudilci",
+    "contributions": 1
+  },
+  {
+    "id": 19503488,
+    "login": "Skewnart",
+    "contributions": 1
+  },
+  {
+    "id": 2584963,
+    "login": "drashna",
+    "contributions": 1
+  },
+  {
+    "id": 27895007,
+    "login": "duckyb",
+    "contributions": 1
+  },
+  {
+    "id": 25208608,
+    "login": "ErkHal",
+    "contributions": 1
+  },
+  {
+    "id": 453601,
+    "login": "equalunique",
+    "contributions": 1
+  },
+  {
+    "id": 90783310,
+    "login": "flinguenheld",
+    "contributions": 1
+  },
+  {
+    "id": 259751,
+    "login": "kageurufu",
+    "contributions": 1
+  },
+  {
+    "id": 17243,
+    "login": "algernon",
+    "contributions": 1
+  },
+  {
+    "id": 5787066,
+    "login": "TeXitoi",
+    "contributions": 1
+  },
+  {
+    "id": 8640918,
+    "login": "HaoboGu",
+    "contributions": 1
+  },
+  {
+    "id": 45468633,
+    "login": "joernKoenen",
+    "contributions": 1
+  },
+  {
+    "id": 140347,
+    "login": "nietaki",
+    "contributions": 1
+  },
+  {
+    "id": 7141239,
+    "login": "Jana-Marie",
+    "contributions": 1
+  },
+  {
+    "id": 223409,
+    "login": "lsartory",
+    "contributions": 1
+  },
+  {
+    "id": 20055976,
+    "login": "PyrooL",
+    "contributions": 1
+  },
+  {
+    "id": 67469843,
+    "login": "nathanbuckley",
+    "contributions": 1
+  }
+]
