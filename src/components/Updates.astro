@@ -3,11 +3,17 @@ import updates from '../data/updates.json';
 
 const INITIAL_COUNT = 5;
 const GITHUB_REPO = 'https://github.com/Keycapsss/awesome-mechanical-keyboard';
+
+type Update = {
+  hash: string;
+  message: string;
+  date: string;
+};
 ---
 
 <section class="updates-section">
   <ul class="updates-list" id="updates-list">
-    {updates.map((update, i) => (
+    {updates.map((update: Update, i: number) => (
       <li class={i >= INITIAL_COUNT ? 'hidden' : ''}>
         <a href={`${GITHUB_REPO}/commit/${update.hash}`} class="update-link">
           <span class="date">{update.date}</span>
