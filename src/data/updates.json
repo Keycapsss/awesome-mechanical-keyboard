@@ -1,0 +1,132 @@
+[
+  {
+    "hash": "b64b273",
+    "message": "Add recent updates section with commit history",
+    "date": "29.12.2025"
+  },
+  {
+    "hash": "b40d467",
+    "message": "Add Ergo Travel XT, Klavgen, and 5 other keyboards",
+    "date": "29.12.2025"
+  },
+  {
+    "hash": "4b0ed9c",
+    "message": "Add keyboard entry automation command",
+    "date": "29.12.2025"
+  },
+  {
+    "hash": "9970198",
+    "message": "Add description field to keyboard schema",
+    "date": "29.12.2025"
+  },
+  {
+    "hash": "f0df159",
+    "message": "Add contributor avatars section with prebuild caching",
+    "date": "25.12.2025"
+  },
+  {
+    "hash": "311cab6",
+    "message": "Detect and apply OS theme preference",
+    "date": "23.12.2025"
+  },
+  {
+    "hash": "3e80663",
+    "message": "Add scroll to top button",
+    "date": "23.12.2025"
+  },
+  {
+    "hash": "786f0eb",
+    "message": "Update some ortho images",
+    "date": "23.12.2025"
+  },
+  {
+    "hash": "6e48d35",
+    "message": "Cleaning",
+    "date": "23.12.2025"
+  },
+  {
+    "hash": "86391d5",
+    "message": "Add theme switcher",
+    "date": "23.12.2025"
+  },
+  {
+    "hash": "6633776",
+    "message": "Add build batch to Readme.md",
+    "date": "22.12.2025"
+  },
+  {
+    "hash": "ee0e8ed",
+    "message": "Update README with new workflow",
+    "date": "22.12.2025"
+  },
+  {
+    "hash": "4bdfe24",
+    "message": "Automated image optimization workflow",
+    "date": "22.12.2025"
+  },
+  {
+    "hash": "1fa60c1",
+    "message": "Add 5 keyboards and two guides (#192)",
+    "date": "12.12.2025"
+  },
+  {
+    "hash": "b42cd82",
+    "message": "Add Smart Keymap to firmware list (#189)",
+    "date": "05.12.2025"
+  },
+  {
+    "hash": "340a1e0",
+    "message": "Add Revolt to split keyboards (#191)",
+    "date": "05.12.2025"
+  },
+  {
+    "hash": "9f7b9ce",
+    "message": "Add Clavier to staggered keyboards (#190)",
+    "date": "23.09.2025"
+  },
+  {
+    "hash": "a0be62b",
+    "message": "Add swift502/Krtkus (#181)",
+    "date": "03.11.2024"
+  },
+  {
+    "hash": "9259ea1",
+    "message": "Add Snakeskin to tools (#171)",
+    "date": "07.10.2024"
+  },
+  {
+    "hash": "1179c51",
+    "message": "Add chew mono & split (#170)",
+    "date": "07.10.2024"
+  },
+  {
+    "hash": "4b0f0e5",
+    "message": "Add RMK to firmware list (#172)",
+    "date": "07.10.2024"
+  },
+  {
+    "hash": "b7db13b",
+    "message": "Add ModernWood to staggered.md (#169)",
+    "date": "02.07.2024"
+  },
+  {
+    "hash": "2545556",
+    "message": "Add Skewpad to staggered keyboards (#168)",
+    "date": "19.06.2024"
+  },
+  {
+    "hash": "4291fac",
+    "message": "Add rumcake firmware",
+    "date": "17.04.2024"
+  },
+  {
+    "hash": "61bef62",
+    "message": "Add Yetis to split keyboards",
+    "date": "19.03.2024"
+  },
+  {
+    "hash": "30ff944",
+    "message": "Maintain the alphabetical order",
+    "date": "23.02.2024"
+  }
+]
