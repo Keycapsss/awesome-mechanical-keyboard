@@ -69,6 +69,12 @@ To increase the API rate limit (recommended for frequent builds):
     # Edit .env and add your GITHUB_TOKEN
     ```
 
+### Updates Display
+
+The homepage shows recent site updates extracted from git commit history. Only user-relevant commits (with `docs:` or `feat:` prefixes) are displayed. Updates are cached for 1 hour during build.
+
+Press `M` to load more updates on the homepage.
+
 
 ### License
 

@@ -1,0 +1,118 @@
+---
+import updates from '../data/updates.json';
+
+const INITIAL_COUNT = 5;
+const GITHUB_REPO = 'https://github.com/Keycapsss/awesome-mechanical-keyboard';
+---
+
+<section class="updates-section">
+  <ul class="updates-list" id="updates-list">
+    {updates.map((update, i) => (
+      <li class={i >= INITIAL_COUNT ? 'hidden' : ''}>
+        <a href={`${GITHUB_REPO}/commit/${update.hash}`} class="update-link">
+          <span class="date">{update.date}</span>
+          <span class="message">{update.message}</span>
+        </a>
+      </li>
+    ))}
+  </ul>
+  {updates.length > INITIAL_COUNT && (
+    <button class="load-more" id="load-more-btn" type="button">
+      Load more <kbd>M</kbd>
+    </button>
+  )}
+</section>
+
+<script>
+  const btn = document.getElementById('load-more-btn');
+  const list = document.getElementById('updates-list');
+
+  function loadMore() {
+    list?.querySelectorAll('.hidden').forEach(el => el.classList.remove('hidden'));
+    btn?.remove();
+    document.removeEventListener('keydown', handleKeydown);
+  }
+
+  function handleKeydown(e: KeyboardEvent) {
+    // Press 'M' for more (not in input fields)
+    if (e.key.toLowerCase() === 'm' &&
+        !['INPUT', 'TEXTAREA'].includes((e.target as HTMLElement).tagName)) {
+      loadMore();
+    }
+  }
+
+  btn?.addEventListener('click', loadMore);
+  if (btn) document.addEventListener('keydown', handleKeydown);
+</script>
+
+<style>
+  .updates-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .updates-list li {
+    padding: 8px 0;
+    border-bottom: 1px solid color-mix(in srgb, var(--accent) 20%, transparent);
+  }
+
+  .updates-list li::before {
+    content: none !important;
+  }
+
+  .updates-list li:last-child {
+    border-bottom: none;
+  }
+
+  .updates-list li.hidden {
+    display: none;
+  }
+
+  .update-link {
+    display: flex;
+    gap: 15px;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .update-link:hover .message {
+    text-decoration: underline;
+  }
+
+  .date {
+    color: var(--accent);
+    font-size: 0.9em;
+    white-space: nowrap;
+  }
+
+  .message {
+    opacity: 0.9;
+  }
+
+  .load-more {
+    margin-top: 15px;
+    background: transparent;
+    border: none;
+    color: var(--accent);
+    padding: 8px 0;
+    cursor: pointer;
+    font-family: inherit;
+    opacity: 0.8;
+  }
+
+  .load-more:hover {
+    opacity: 1;
+    text-decoration: underline;
+  }
+
+  .load-more kbd {
+    display: inline-block;
+    background: color-mix(in srgb, var(--accent) 20%, transparent);
+    border-radius: 3px;
+    padding: 0 5px;
+    margin-left: 8px;
+    font-family: inherit;
+    font-size: 0.85em;
+  }
+</style>

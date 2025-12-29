@@ -37,6 +37,8 @@ npm run preview    # Preview production build
 
 **Contributors Pipeline**: GitHub contributors for each page are fetched during prebuild and cached in `src/data/contributors.json`. Avatars are displayed at the bottom of each page (`scripts/fetch_contributors.mjs`).
 
+**Updates Pipeline**: Recent commits are fetched during prebuild and filtered by conventional commit prefixes (`docs:`, `feat:`). Cached in `src/data/updates.json` and displayed on the homepage (`scripts/fetch_updates.mjs`).
+
 **Client Scripts**: TypeScript modules for browser functionality
 - `src/scripts/menu.ts` - Dropdown menu logic with click-outside detection
 - `src/scripts/scroll-to-top.ts` - Scroll button with keyboard accessibility
@@ -65,4 +67,6 @@ image: "https://..."  # Remote URL - will be auto-downloaded
 - `src/scripts/*.ts` - Client-side TypeScript modules (menu, scroll, theme)
 - `scripts/download_images.mjs` - Image download and WebP conversion
 - `scripts/fetch_contributors.mjs` - GitHub contributors fetch with caching
+- `scripts/fetch_updates.mjs` - Git commit history fetch with filtering
 - `src/components/Contributors.astro` - Contributors avatar display
+- `src/components/Updates.astro` - Recent updates display with keyboard shortcut

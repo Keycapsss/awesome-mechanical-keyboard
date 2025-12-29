@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import Updates from '../components/Updates.astro';
 
 // Get counts for each category
 const allKeyboards = await getCollection('keyboards');
@@ -67,6 +68,9 @@ const total = counts.staggered + counts.ortholinear + counts.split + counts.othe
       <span class="desc">3D prints, keycaps, controllers, and more</span>
     </li>
   </ul>
+
+  <h2>Recent Updates</h2>
+  <Updates />
 </BaseLayout>
 
 <style>
