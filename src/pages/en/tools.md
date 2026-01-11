@@ -8,6 +8,7 @@ layout: ../../layouts/MarkdownLayout.astro
 - [adamws/keyboard-tools](https://github.com/adamws/keyboard-tools) - Web interface for adamws's keyboard tools. [Website](http://keyboard-tools.xyz)
 - [adamws/kicad-kbplacer](https://github.com/adamws/kicad-kbplacer) - KiCad plugin for automatic keyboard's key placement. Part of official KiCad's add-ons [repository](https://gitlab.com/kicad/addons/metadata/-/tree/main/packages/com.github.adamws.kicad-kbplacer).
 - [adamws/kle2netlist](https://github.com/adamws/kle2netlist) - Python package for converting [KLE](http://www.keyboard-layout-editor.com) json layouts into KiCad's netlist.
+- [Capistry](https://github.com/larssont/capistry) - A Python package for parametric 3D modeling of keyboard keycaps using build123d.
 - [Kalerator](https://kalerator.clueboard.co) - Pcb generator for keyboard-layout-editor generated layouts. [GitHub Site](https://github.com/skullydazed/kalerator), [Eagle Parts Library](https://github.com/skullydazed/clueboard_eagle)
 - [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [kbpcb](http://kbpcb.mrkeebs.com/) - Create KiCad PCB files from [KLE](http://www.keyboard-layout-editor.com) json files [Github page](https://github.com/fcoury/kbpcb)
