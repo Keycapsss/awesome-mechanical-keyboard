@@ -20,3 +20,4 @@ package-lock.json
 packages/astro/src/**/*.prebuilt.ts
 !packages/astro/vendor/vite/dist
 packages/integrations/**/.netlify/
+.claude/settings.local.json
