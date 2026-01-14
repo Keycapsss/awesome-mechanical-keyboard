@@ -30,6 +30,7 @@ If the keyboard already exists, inform the user and ask how to proceed.
 Use WebFetch once to retrieve all needed information from `$ARGUMENTS`:
 
 **Extract from the GitHub repository page and README**:
+
 - Repository name (clean it up: replace hyphens/underscores with spaces, title case)
 - Repository description from the About section
 - GitHub topics/tags
@@ -43,6 +44,7 @@ Return this information in a structured format.
 Generate tags from the fetched data by normalizing raw mentions to canonical tags.
 
 **Tag normalization rules**:
+
 - `qmk`, `zmk`, `vial` - use as-is (lowercase)
 - `pcb` - if KiCad or PCB mentioned
 - `case` - if STL, 3MF, or case files mentioned
@@ -53,10 +55,12 @@ Generate tags from the fetched data by normalizing raw mentions to canonical tag
 - `wireless`, `bluetooth`, `usb-c`, `rotary encoder`, `per-key rgb`, `underglow`, `tenting puck`, `trrs`, `through hole`, `handwiring`, `reversible`, `3d printed`, `trackball` - use as-is (lowercase)
 
 **Aliases** (convert raw mentions to these canonical tags):
+
 - `display` ← oled, screen, e-ink
 - `onboard controller` ← integrated controller, integrated RP2040, integrated nRF52840, integrated STM32
 - `trackpad` ← cirque, azoteq
 - `generative` ← if a tool like openscad, or python code generates the keyboard files
+
 Format as comma-separated string (e.g., "split, choc, pcb, case, display").
 
 ### Step 5: Determine Category
@@ -76,6 +80,7 @@ Options:
 ### Step 6: Generate Description
 
 Create a concise description (max 500 characters) from:
+
 - Repository description
 - First paragraph of README
 - Key features detected
@@ -126,6 +131,7 @@ image: "[image URL]"
 ### Step 9: Confirm Success
 
 Tell the user:
+
 1. File created successfully at [path]
 2. Run `npm run dev` to preview the site
 3. The image will be automatically downloaded and converted to WebP during build
