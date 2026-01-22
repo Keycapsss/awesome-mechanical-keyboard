@@ -10,6 +10,7 @@ layout: ../../layouts/MarkdownLayout.astro
 - [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Flexible firmware for Arduino-powered keyboards.
 - [Keyberon](https://github.com/TeXitoi/keyberon) - A pure rust keyboard firmware.
 - [Keyplus](https://github.com/ahtn/keyplus) - An easy to use keyboard firmware with support for wireless and wired split keyboards.
+- [libhmk](https://github.com/peppapighs/libhmk) - Libraries for building a Hall-effect keyboard firmware.
 - [KMK](https://github.com/KMKfw/kmk_firmware) - is a feature-rich and beginner-friendly firmware for computer keyboards written and configured in CircuitPython.
 - [Mechy](https://github.com/colinta/Mechy) - Arduino compatible, plugin based.
 - [MK32](https://github.com/Galzai/MK32) - Simple BLE keyboard for ESP32
