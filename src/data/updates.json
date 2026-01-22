@@ -1,5 +1,15 @@
 [
   {
+    "hash": "5df009b",
+    "message": "Add Paintbrush, TOTEM-SHIFT, DASBOB, Urchin and 3D Pcorne keyboards",
+    "date": "14.01.2026"
+  },
+  {
+    "hash": "cfd508e",
+    "message": "Add Capistry to tools list (#193)",
+    "date": "11.01.2026"
+  },
+  {
     "hash": "b64b273",
     "message": "Add recent updates section with commit history",
     "date": "29.12.2025"
@@ -113,15 +123,5 @@
     "hash": "2545556",
     "message": "Add Skewpad to staggered keyboards (#168)",
     "date": "19.06.2024"
-  },
-  {
-    "hash": "4291fac",
-    "message": "Add rumcake firmware",
-    "date": "17.04.2024"
-  },
-  {
-    "hash": "61bef62",
-    "message": "Add Yetis to split keyboards",
-    "date": "19.03.2024"
   }
 ]
