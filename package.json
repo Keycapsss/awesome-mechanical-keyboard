@@ -17,7 +17,7 @@
     "@astrojs/preact": "^4.0.0",
     "@astrojs/sitemap": "^3.6.0",
     "@types/node": "^22.0.0",
-    "astro": "^5.0.0",
+    "astro": "^5.18.1",
     "preact": "^10.24.0",
     "sharp": "^0.33.0",
     "typescript": "^5.9.3"
