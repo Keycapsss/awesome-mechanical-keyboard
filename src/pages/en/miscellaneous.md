@@ -5,6 +5,7 @@ layout: ../../layouts/MarkdownLayout.astro
 ---
 
 - [Chimera-Battery-Mod](https://github.com/wizarddata/Chimera-Battery-Mod) - This is a mod designed to add a convenient battery holder and power switch to the Chimera family of wireless keyboards.
+- [Ergo Device DB](https://ergodevicedb.com/en/devices/) - Searchable database of 1,000+ split keyboards, trackballs and vertical mice. Filter by split type, stagger, tenting, key count and connectivity, and compare devices side by side (English/Japanese).
 - [Keyrigami](https://github.com/geckopfote/keyrigami) - Keycaps made from paper.
 - [KiCad Parts by Ai03](https://github.com/ai03-2725/MX_Alps_Hybrid.pretty) - KiCad Library of custom MX-Alps footprints.
 - [KiCad Parts by Daprice](https://github.com/daprice/keyswitches.pretty) - KiCAD footprint library for kailh choc and MX-style mechanical switches.
