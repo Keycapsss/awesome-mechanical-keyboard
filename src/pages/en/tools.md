@@ -19,6 +19,7 @@ layout: ../../layouts/MarkdownLayout.astro
 - [Parametric Mechanical Keycap Library](https://github.com/rsheldiii/KeyV2) - Is a keycap and keyset construction library for mechanical keyboards, written in openSCAD.
 - [Plate & Case Builder](http://builder.swillkb.com) - Keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts
 - [qmkJsonConverter](https://github.com/jhelvy/qmkJsonConverter) - converts the .json file exported from the [QMK configurator](https://config.qmk.fm/) into the code for the keymap.c file in your QMK settings.
+- [setupdoc Keyboard Test](https://setupdoc.com/keyboard-test/) - Free in-browser keyboard tester that lights up every key press, counts keys held at once (rollover/ghosting) and names keys that chatter (type twice). Also tests mouse buttons, double-click and polling rate. No install, nothing recorded.
 - [splitKbCompare](https://jhelvy.shinyapps.io/splitkbcompare/) - an interactive tool for comparing layouts of different split mechanical keyboards [Github page](https://github.com/jhelvy/splitKbCompare).
 - [Snakeskin](https://github.com/BlueDrink9/keeb_snakeskin) - Generate a printable case and travel case for split keyboard PCBs or other custom PCBs.
 - [Svg2Shenzhen](https://github.com/badgeek/svg2shenzhen) - Inkscape extension for exporting drawing into Kicad PCB.
