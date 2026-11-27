@@ -22,3 +22,4 @@ layout: ../../layouts/MarkdownLayout.astro
 - [splitKbCompare](https://jhelvy.shinyapps.io/splitkbcompare/) - an interactive tool for comparing layouts of different split mechanical keyboards [Github page](https://github.com/jhelvy/splitKbCompare).
 - [Snakeskin](https://github.com/BlueDrink9/keeb_snakeskin) - Generate a printable case and travel case for split keyboard PCBs or other custom PCBs.
 - [Svg2Shenzhen](https://github.com/badgeek/svg2shenzhen) - Inkscape extension for exporting drawing into Kicad PCB.
+- [usb-rea](https://github.com/emirmrkaljevic/usb-rea) - Python CLI and MCP server that infers the USB protocol of a keyboard or other HID device from a USBPcap or usbmon capture of its Windows-only vendor software, to help write open RGB, macro or Linux drivers.
