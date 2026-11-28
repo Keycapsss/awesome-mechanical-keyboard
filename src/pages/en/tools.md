@@ -9,6 +9,7 @@ layout: ../../layouts/MarkdownLayout.astro
 - [adamws/kicad-kbplacer](https://github.com/adamws/kicad-kbplacer) - KiCad plugin for automatic keyboard's key placement. Part of official KiCad's add-ons [repository](https://gitlab.com/kicad/addons/metadata/-/tree/main/packages/com.github.adamws.kicad-kbplacer).
 - [adamws/kle2netlist](https://github.com/adamws/kle2netlist) - Python package for converting [KLE](http://www.keyboard-layout-editor.com) json layouts into KiCad's netlist.
 - [Capistry](https://github.com/larssont/capistry) - A Python package for parametric 3D modeling of keyboard keycaps using build123d.
+- [Ceshousu Keyboard Tester](https://ceshousu.com/en/keyboard-test/) - Free browser-based physical key tester, rollover/ghosting checker and keystroke pulse latency timer with local session logs.
 - [Kalerator](https://kalerator.clueboard.co) - Pcb generator for keyboard-layout-editor generated layouts. [GitHub Site](https://github.com/skullydazed/kalerator), [Eagle Parts Library](https://github.com/skullydazed/clueboard_eagle)
 - [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [kb-fx](https://github.com/MrBogomips/kb-fx) - macOS CLI that plays a synthesized sound on every keystroke on any keyboard, and sets backlight colors on VIA-compatible boards over raw HID.
